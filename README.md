@@ -46,6 +46,7 @@
 
 #### ⭐ Recent Stars
 
+- [quanjindeng/Actions_OpenWrt-Amlogic](https://github.com/quanjindeng/Actions_OpenWrt-Amlogic) -  (today)
 - [esirplayground/AutoBuild-OpenWrt](https://github.com/esirplayground/AutoBuild-OpenWrt) - Build OpenWrt using GitHub Actions | 使用 GitHub Actions 编译 OpenWrt | 感谢P3TERX的项目源码|感谢KFERMercer的项目源码 (1 day ago)
 - [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean&#39;s OpenWrt source (1 week ago)
 - [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS14&#43;扫码即用。🚧   快应用开发中 (2 weeks ago)
@@ -55,7 +56,6 @@
 - [apache/geode](https://github.com/apache/geode) - Apache Geode (1 month ago)
 - [bilibilifmk/ESP_Fishing](https://github.com/bilibilifmk/ESP_Fishing) - ESP82266 自动化WiFi密码钓鱼 (1 month ago)
 - [RobotsAndPencils/XcodesApp](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.  (1 month ago)
-- [starwing/lua-protobuf](https://github.com/starwing/lua-protobuf) - A Lua module to work with Google protobuf (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
