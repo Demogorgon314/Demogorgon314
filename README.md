@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (2 days ago)
-- [openmessaging/benchmark](https://github.com/openmessaging/benchmark) - OpenMessaging Benchmark Framework (2 days ago)
-- [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) - Apache Pulsar Grafana Dashboard (6 days ago)
-- [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) - Custom version of OpenWrt (6 days ago)
+- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (3 days ago)
+- [openmessaging/benchmark](https://github.com/openmessaging/benchmark) - OpenMessaging Benchmark Framework (3 days ago)
+- [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) - Apache Pulsar Grafana Dashboard (1 week ago)
+- [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) - Custom version of OpenWrt (1 week ago)
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (1 week ago)
 - [Demogorgon314/homebrew-clang-format](https://github.com/Demogorgon314/homebrew-clang-format) - Homebrew clang-format (2 months ago)
 - [Demogorgon314/Pulsar-Wireshark-Dissector](https://github.com/Demogorgon314/Pulsar-Wireshark-Dissector) - Pulsar Wireshark Dissector (3 months ago)
@@ -28,24 +28,24 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/kop](https://github.com/streamnative/kop) ([v2.10.0.0-rc10](https://github.com/streamnative/kop/releases/tag/v2.10.0.0-rc10), 6 days ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
-- [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) ([kernel_5.15_2022_03_03_2](https://github.com/Demogorgon314/OpenWrt-AutoBuild/releases/tag/kernel_5.15_2022_03_03_2), 6 days ago) - Custom version of OpenWrt
+- [streamnative/kop](https://github.com/streamnative/kop) ([v2.10.0.0-rc10](https://github.com/streamnative/kop/releases/tag/v2.10.0.0-rc10), 1 week ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
+- [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) ([kernel_5.15_2022_03_03_2](https://github.com/Demogorgon314/OpenWrt-AutoBuild/releases/tag/kernel_5.15_2022_03_03_2), 1 week ago) - Custom version of OpenWrt
 - [apache/apisix](https://github.com/apache/apisix) ([2.10.4](https://github.com/apache/apisix/releases/tag/2.10.4), 3 weeks ago) - The Cloud-Native API Gateway
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.8.2](https://github.com/apache/pulsar/releases/tag/v2.8.2), 1 month ago) - Apache Pulsar - distributed pub-sub messaging system
 - [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) ([v0.0.16](https://github.com/streamnative/apache-pulsar-grafana-dashboard/releases/tag/v0.0.16), 8 months ago) - Apache Pulsar Grafana Dashboard
 
 #### 🔨 My recent Pull Requests
 
-- [Fix NPE when managed ledger find entry failed](https://github.com/streamnative/kop/pull/1138) on [streamnative/kop](https://github.com/streamnative/kop) (3 days ago)
-- [Use the latest apache pulsar grafana dashboard](https://github.com/openmessaging/benchmark/pull/252) on [openmessaging/benchmark](https://github.com/openmessaging/benchmark) (5 days ago)
-- [Fix KoP dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard/pull/78) on [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) (6 days ago)
-- [Update grafana version to 8.4.3](https://github.com/streamnative/apache-pulsar-grafana-dashboard/pull/77) on [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) (6 days ago)
+- [Fix npe when update producer states](https://github.com/streamnative/kop/pull/1148) on [streamnative/kop](https://github.com/streamnative/kop) (1 day ago)
+- [Fix NPE when managed ledger find entry failed](https://github.com/streamnative/kop/pull/1138) on [streamnative/kop](https://github.com/streamnative/kop) (4 days ago)
+- [Use the latest apache pulsar grafana dashboard](https://github.com/openmessaging/benchmark/pull/252) on [openmessaging/benchmark](https://github.com/openmessaging/benchmark) (6 days ago)
+- [Fix KoP dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard/pull/78) on [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) (1 week ago)
+- [Update grafana version to 8.4.3](https://github.com/streamnative/apache-pulsar-grafana-dashboard/pull/77) on [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) (1 week ago)
 - [[flaky-test] Increase test idempotent produce timeout time](https://github.com/streamnative/kop/pull/1124) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
 - [Bump Pulsar version to 2.9.2.1](https://github.com/streamnative/kop/pull/1123) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
 - [Bump Pulsar version to 2.8.2.0](https://github.com/streamnative/kop/pull/1122) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
 - [Bump pulsar version to 2.8.2.0](https://github.com/streamnative/kop/pull/1121) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
-- [Add KoP dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard/pull/75) on [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) (1 week ago)
-- [Remove unused placeholder for warn log](https://github.com/apache/pulsar/pull/14439) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
+- [Add KoP dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard/pull/75) on [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
