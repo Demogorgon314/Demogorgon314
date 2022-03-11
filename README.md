@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (3 days ago)
-- [openmessaging/benchmark](https://github.com/openmessaging/benchmark) - OpenMessaging Benchmark Framework (3 days ago)
+- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (1 day ago)
+- [openmessaging/benchmark](https://github.com/openmessaging/benchmark) - OpenMessaging Benchmark Framework (4 days ago)
 - [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) - Apache Pulsar Grafana Dashboard (1 week ago)
 - [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) - Custom version of OpenWrt (1 week ago)
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (1 week ago)
@@ -28,28 +28,28 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/kop](https://github.com/streamnative/kop) ([v2.10.0.0-rc10](https://github.com/streamnative/kop/releases/tag/v2.10.0.0-rc10), 1 week ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
+- [streamnative/kop](https://github.com/streamnative/kop) ([v2.8.2.12](https://github.com/streamnative/kop/releases/tag/v2.8.2.12), 1 day ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 - [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) ([kernel_5.15_2022_03_03_2](https://github.com/Demogorgon314/OpenWrt-AutoBuild/releases/tag/kernel_5.15_2022_03_03_2), 1 week ago) - Custom version of OpenWrt
-- [apache/apisix](https://github.com/apache/apisix) ([2.10.4](https://github.com/apache/apisix/releases/tag/2.10.4), 3 weeks ago) - The Cloud-Native API Gateway
+- [apache/apisix](https://github.com/apache/apisix) ([2.10.4](https://github.com/apache/apisix/releases/tag/2.10.4), 4 weeks ago) - The Cloud-Native API Gateway
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.8.2](https://github.com/apache/pulsar/releases/tag/v2.8.2), 1 month ago) - Apache Pulsar - distributed pub-sub messaging system
 - [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) ([v0.0.16](https://github.com/streamnative/apache-pulsar-grafana-dashboard/releases/tag/v0.0.16), 8 months ago) - Apache Pulsar Grafana Dashboard
 
 #### 🔨 My recent Pull Requests
 
-- [Fix npe when update producer states](https://github.com/streamnative/kop/pull/1148) on [streamnative/kop](https://github.com/streamnative/kop) (1 day ago)
-- [Fix NPE when managed ledger find entry failed](https://github.com/streamnative/kop/pull/1138) on [streamnative/kop](https://github.com/streamnative/kop) (4 days ago)
-- [Use the latest apache pulsar grafana dashboard](https://github.com/openmessaging/benchmark/pull/252) on [openmessaging/benchmark](https://github.com/openmessaging/benchmark) (6 days ago)
+- [Fix when store group id failed the find coordinator future never complete](https://github.com/streamnative/kop/pull/1156) on [streamnative/kop](https://github.com/streamnative/kop) (1 day ago)
+- [[Test] Change JUnit to TestNG](https://github.com/streamnative/kop/pull/1155) on [streamnative/kop](https://github.com/streamnative/kop) (1 day ago)
+- [Fix npe when update producer states](https://github.com/streamnative/kop/pull/1148) on [streamnative/kop](https://github.com/streamnative/kop) (2 days ago)
+- [Fix NPE when managed ledger find entry failed](https://github.com/streamnative/kop/pull/1138) on [streamnative/kop](https://github.com/streamnative/kop) (5 days ago)
+- [Use the latest apache pulsar grafana dashboard](https://github.com/openmessaging/benchmark/pull/252) on [openmessaging/benchmark](https://github.com/openmessaging/benchmark) (1 week ago)
 - [Fix KoP dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard/pull/78) on [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) (1 week ago)
 - [Update grafana version to 8.4.3](https://github.com/streamnative/apache-pulsar-grafana-dashboard/pull/77) on [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) (1 week ago)
 - [[flaky-test] Increase test idempotent produce timeout time](https://github.com/streamnative/kop/pull/1124) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
 - [Bump Pulsar version to 2.9.2.1](https://github.com/streamnative/kop/pull/1123) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
 - [Bump Pulsar version to 2.8.2.0](https://github.com/streamnative/kop/pull/1122) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
-- [Bump pulsar version to 2.8.2.0](https://github.com/streamnative/kop/pull/1121) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
-- [Add KoP dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard/pull/75) on [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [esirplayground/AutoBuild-OpenWrt](https://github.com/esirplayground/AutoBuild-OpenWrt) - Build OpenWrt using GitHub Actions | 使用 GitHub Actions 编译 OpenWrt | 感谢P3TERX的项目源码|感谢KFERMercer的项目源码 (2 weeks ago)
+- [esirplayground/AutoBuild-OpenWrt](https://github.com/esirplayground/AutoBuild-OpenWrt) - Build OpenWrt using GitHub Actions | 使用 GitHub Actions 编译 OpenWrt | 感谢P3TERX的项目源码|感谢KFERMercer的项目源码 (3 weeks ago)
 - [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean&#39;s OpenWrt source (3 weeks ago)
 - [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS14&#43;扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备 (1 month ago)
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display&#39;s brightness &amp; volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. (1 month ago)
