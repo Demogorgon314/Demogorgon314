@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (3 days ago)
+- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (today)
 - [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (1 week ago)
 - [openmessaging/benchmark](https://github.com/openmessaging/benchmark) - OpenMessaging Benchmark Framework (2 weeks ago)
 - [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) - Custom version of OpenWrt (2 weeks ago)
@@ -28,16 +28,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/kop](https://github.com/streamnative/kop) ([v2.7.4.2](https://github.com/streamnative/kop/releases/tag/v2.7.4.2), 4 days ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
+- [streamnative/kop](https://github.com/streamnative/kop) ([v2.10.0.0-rc13](https://github.com/streamnative/kop/releases/tag/v2.10.0.0-rc13), 1 day ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 - [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) ([kernel_5.15_2022_03_03_2](https://github.com/Demogorgon314/OpenWrt-AutoBuild/releases/tag/kernel_5.15_2022_03_03_2), 2 weeks ago) - Custom version of OpenWrt
 - [apache/apisix](https://github.com/apache/apisix) ([2.10.4](https://github.com/apache/apisix/releases/tag/2.10.4), 1 month ago) - The Cloud-Native API Gateway
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.8.2](https://github.com/apache/pulsar/releases/tag/v2.8.2), 2 months ago) - Apache Pulsar - distributed pub-sub messaging system
-- [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) ([v0.0.16](https://github.com/streamnative/apache-pulsar-grafana-dashboard/releases/tag/v0.0.16), 8 months ago) - Apache Pulsar Grafana Dashboard
+- [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) ([v0.0.16](https://github.com/streamnative/apache-pulsar-grafana-dashboard/releases/tag/v0.0.16), 9 months ago) - Apache Pulsar Grafana Dashboard
 
 #### 🔨 My recent Pull Requests
 
-- [[cleanup][broker]: avoid using hard code strings in `NamespaceEventsSystemTopicFactory`](https://github.com/apache/pulsar/pull/14731) on [apache/pulsar](https://github.com/apache/pulsar) (4 days ago)
-- [Bump pulsar to 2.9.2.8 and fix test list offset for empty rollover ledger](https://github.com/streamnative/kop/pull/1179) on [streamnative/kop](https://github.com/streamnative/kop) (6 days ago)
+- [[fix][test] Fix wrong retry behavior in MetadataCacheTest](https://github.com/apache/pulsar/pull/14778) on [apache/pulsar](https://github.com/apache/pulsar) (1 day ago)
+- [[cleanup][broker]: avoid using hard code strings in `NamespaceEventsSystemTopicFactory`](https://github.com/apache/pulsar/pull/14731) on [apache/pulsar](https://github.com/apache/pulsar) (5 days ago)
+- [Bump pulsar to 2.9.2.8 and fix test list offset for empty rollover ledger](https://github.com/streamnative/kop/pull/1179) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
 - [Fix message disorder issue](https://github.com/streamnative/kop/pull/1174) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
 - [Fix when store group id failed the find coordinator future never complete](https://github.com/streamnative/kop/pull/1156) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
 - [[Test] Change JUnit to TestNG](https://github.com/streamnative/kop/pull/1155) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
@@ -45,11 +46,10 @@
 - [Fix NPE when managed ledger find entry failed](https://github.com/streamnative/kop/pull/1138) on [streamnative/kop](https://github.com/streamnative/kop) (2 weeks ago)
 - [Use the latest apache pulsar grafana dashboard](https://github.com/openmessaging/benchmark/pull/252) on [openmessaging/benchmark](https://github.com/openmessaging/benchmark) (2 weeks ago)
 - [Fix KoP dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard/pull/78) on [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) (2 weeks ago)
-- [Update grafana version to 8.4.3](https://github.com/streamnative/apache-pulsar-grafana-dashboard/pull/77) on [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust (1 day ago)
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust (2 days ago)
 - [peng-zhihui/ElectronBot](https://github.com/peng-zhihui/ElectronBot) -  (1 week ago)
 - [esirplayground/AutoBuild-OpenWrt](https://github.com/esirplayground/AutoBuild-OpenWrt) - Build OpenWrt using GitHub Actions | 使用 GitHub Actions 编译 OpenWrt | 感谢P3TERX的项目源码|感谢KFERMercer的项目源码 (1 month ago)
 - [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean&#39;s OpenWrt source (1 month ago)
