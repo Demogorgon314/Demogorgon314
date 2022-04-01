@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (1 day ago)
-- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (2 days ago)
+- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (2 days ago)
+- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (3 days ago)
 - [openmessaging/benchmark](https://github.com/openmessaging/benchmark) - OpenMessaging Benchmark Framework (3 weeks ago)
 - [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) - Custom version of OpenWrt (4 weeks ago)
 - [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) - Apache Pulsar Grafana Dashboard (4 weeks ago)
@@ -36,23 +36,23 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[refactor][broker] Move loadbalancer used data classes package position](https://github.com/apache/pulsar/pull/14945) on [apache/pulsar](https://github.com/apache/pulsar) (1 day ago)
-- [[fix][test] Fix clear transaction buffer snapshot flaky test](https://github.com/apache/pulsar/pull/14922) on [apache/pulsar](https://github.com/apache/pulsar) (2 days ago)
-- [[improve][broker] Use netty API instead of reflecting to get used direct memory](https://github.com/apache/pulsar/pull/14918) on [apache/pulsar](https://github.com/apache/pulsar) (2 days ago)
-- [[improve][test] Upgrade awaitility to 4.2.0](https://github.com/apache/pulsar/pull/14859) on [apache/pulsar](https://github.com/apache/pulsar) (6 days ago)
-- [Fix handle offset commit fail when offset producer closed](https://github.com/streamnative/kop/pull/1212) on [streamnative/kop](https://github.com/streamnative/kop) (6 days ago)
+- [[Feature] Support set retention size limit for system namespace](https://github.com/streamnative/kop/pull/1218) on [streamnative/kop](https://github.com/streamnative/kop) (1 day ago)
+- [[refactor][broker] Move loadbalancer used data classes package position](https://github.com/apache/pulsar/pull/14945) on [apache/pulsar](https://github.com/apache/pulsar) (2 days ago)
+- [[fix][test] Fix clear transaction buffer snapshot flaky test](https://github.com/apache/pulsar/pull/14922) on [apache/pulsar](https://github.com/apache/pulsar) (3 days ago)
+- [[improve][broker] Use netty API instead of reflecting to get used direct memory](https://github.com/apache/pulsar/pull/14918) on [apache/pulsar](https://github.com/apache/pulsar) (3 days ago)
+- [[improve][test] Upgrade awaitility to 4.2.0](https://github.com/apache/pulsar/pull/14859) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
+- [Fix handle offset commit fail when offset producer closed](https://github.com/streamnative/kop/pull/1212) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
 - [[cleanup][broker] Remove modular load manager unused variable](https://github.com/apache/pulsar/pull/14832) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [[refactor][test] Move assert equals and retry to a base class](https://github.com/apache/pulsar/pull/14815) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [[fix][test] Fix wrong retry behavior in MetadataCacheTest](https://github.com/apache/pulsar/pull/14778) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [[cleanup][broker]: avoid using hard code strings in `NamespaceEventsSystemTopicFactory`](https://github.com/apache/pulsar/pull/14731) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
-- [Bump pulsar to 2.9.2.8 and fix test list offset for empty rollover ledger](https://github.com/streamnative/kop/pull/1179) on [streamnative/kop](https://github.com/streamnative/kop) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [apache/pulsar-manager](https://github.com/apache/pulsar-manager) - Apache Pulsar Manager (1 day ago)
-- [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 小巧精悍、准确、实用 GeoIP2 数据库 (3 days ago)
-- [ehids/ecapture](https://github.com/ehids/ecapture) - capture SSL/TLS text content without CA cert by eBPF. (5 days ago)
-- [Jasonysli/tiflash](https://github.com/Jasonysli/tiflash) - The analytical engine for TiDB (6 days ago)
+- [apache/pulsar-manager](https://github.com/apache/pulsar-manager) - Apache Pulsar Manager (2 days ago)
+- [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 小巧精悍、准确、实用 GeoIP2 数据库 (4 days ago)
+- [ehids/ecapture](https://github.com/ehids/ecapture) - capture SSL/TLS text content without CA cert by eBPF. (6 days ago)
+- [Jasonysli/tiflash](https://github.com/Jasonysli/tiflash) - The analytical engine for TiDB (1 week ago)
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device (1 week ago)
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust (1 week ago)
 - [peng-zhihui/ElectronBot](https://github.com/peng-zhihui/ElectronBot) -  (2 weeks ago)
