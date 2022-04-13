@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (2 days ago)
-- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (5 days ago)
+- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (3 days ago)
+- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (6 days ago)
 - [openmessaging/benchmark](https://github.com/openmessaging/benchmark) - OpenMessaging Benchmark Framework (1 month ago)
 - [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) - Custom version of OpenWrt (1 month ago)
 - [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) - Apache Pulsar Grafana Dashboard (1 month ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/pulsar](https://github.com/apache/pulsar) ([v2.9.2](https://github.com/apache/pulsar/releases/tag/v2.9.2), 4 days ago) - Apache Pulsar - distributed pub-sub messaging system
+- [apache/pulsar](https://github.com/apache/pulsar) ([v2.9.2](https://github.com/apache/pulsar/releases/tag/v2.9.2), 5 days ago) - Apache Pulsar - distributed pub-sub messaging system
 - [apache/apisix](https://github.com/apache/apisix) ([2.10.5](https://github.com/apache/apisix/releases/tag/2.10.5), 1 week ago) - The Cloud-Native API Gateway
 - [streamnative/kop](https://github.com/streamnative/kop) ([v2.9.2.12](https://github.com/streamnative/kop/releases/tag/v2.9.2.12), 1 week ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 - [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) ([kernel_5.15_2022_03_03_2](https://github.com/Demogorgon314/OpenWrt-AutoBuild/releases/tag/kernel_5.15_2022_03_03_2), 1 month ago) - Custom version of OpenWrt
@@ -36,27 +36,27 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Allow regular producers with a dedup enabled namespace](https://github.com/streamnative/kop/pull/1228) on [streamnative/kop](https://github.com/streamnative/kop) (5 days ago)
+- [Fix authorization failed when using oauth2](https://github.com/streamnative/kop/pull/1230) on [streamnative/kop](https://github.com/streamnative/kop) (1 day ago)
+- [Allow regular producers with a dedup enabled namespace](https://github.com/streamnative/kop/pull/1228) on [streamnative/kop](https://github.com/streamnative/kop) (6 days ago)
 - [[fix][client] Fix internal receive used wrong timeout type ](https://github.com/apache/pulsar/pull/15014) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [[Feature] Support set retention size limit for system namespace](https://github.com/streamnative/kop/pull/1218) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
-- [[refactor][broker] Move loadbalancer used data classes package position](https://github.com/apache/pulsar/pull/14945) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
+- [[refactor][broker] Move loadbalancer used data classes package position](https://github.com/apache/pulsar/pull/14945) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
 - [[fix][test] Fix clear transaction buffer snapshot flaky test](https://github.com/apache/pulsar/pull/14922) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
 - [[improve][broker] Use netty API instead of reflecting to get used direct memory](https://github.com/apache/pulsar/pull/14918) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
 - [[improve][test] Upgrade awaitility to 4.2.0](https://github.com/apache/pulsar/pull/14859) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
 - [Fix handle offset commit fail when offset producer closed](https://github.com/streamnative/kop/pull/1212) on [streamnative/kop](https://github.com/streamnative/kop) (2 weeks ago)
 - [[cleanup][broker] Remove modular load manager unused variable](https://github.com/apache/pulsar/pull/14832) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
-- [[refactor][test] Move assert equals and retry to a base class](https://github.com/apache/pulsar/pull/14815) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive. (1 day ago)
-- [streamnative/pulsar](https://github.com/streamnative/pulsar) - Apache Pulsar - distributed pub-sub messaging system (4 days ago)
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive. (2 days ago)
+- [streamnative/pulsar](https://github.com/streamnative/pulsar) - Apache Pulsar - distributed pub-sub messaging system (5 days ago)
 - [pboyd/robovac](https://github.com/pboyd/robovac) -  (1 week ago)
-- [apache/pulsar-manager](https://github.com/apache/pulsar-manager) - Apache Pulsar Manager (1 week ago)
+- [apache/pulsar-manager](https://github.com/apache/pulsar-manager) - Apache Pulsar Manager (2 weeks ago)
 - [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 小巧精悍、准确、实用 GeoIP2 数据库 (2 weeks ago)
 - [ehids/ecapture](https://github.com/ehids/ecapture) - capture SSL/TLS text content without CA cert by eBPF. (2 weeks ago)
 - [Jasonysli/tiflash](https://github.com/Jasonysli/tiflash) - The analytical engine for TiDB (2 weeks ago)
-- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device (2 weeks ago)
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device (3 weeks ago)
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust (3 weeks ago)
 - [peng-zhihui/ElectronBot](https://github.com/peng-zhihui/ElectronBot) -  (1 month ago)
 
