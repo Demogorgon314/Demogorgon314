@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (6 days ago)
+- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (1 week ago)
 - [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (1 week ago)
 - [openmessaging/benchmark](https://github.com/openmessaging/benchmark) - OpenMessaging Benchmark Framework (2 months ago)
 - [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) - Custom version of OpenWrt (2 months ago)
@@ -28,14 +28,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/apisix](https://github.com/apache/apisix) ([2.14.0](https://github.com/apache/apisix/releases/tag/2.14.0), 1 day ago) - The Cloud-Native API Gateway
-- [streamnative/kop](https://github.com/streamnative/kop) ([v2.10.0.4](https://github.com/streamnative/kop/releases/tag/v2.10.0.4), 2 days ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
+- [streamnative/kop](https://github.com/streamnative/kop) ([v2.8.3.3](https://github.com/streamnative/kop/releases/tag/v2.8.3.3), 1 day ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
+- [apache/apisix](https://github.com/apache/apisix) ([2.14.0](https://github.com/apache/apisix/releases/tag/2.14.0), 2 days ago) - The Cloud-Native API Gateway
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.10.0](https://github.com/apache/pulsar/releases/tag/v2.10.0), 1 month ago) - Apache Pulsar - distributed pub-sub messaging system
 - [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) ([kernel_5.15_2022_03_03_2](https://github.com/Demogorgon314/OpenWrt-AutoBuild/releases/tag/kernel_5.15_2022_03_03_2), 2 months ago) - Custom version of OpenWrt
 - [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) ([v0.0.16](https://github.com/streamnative/apache-pulsar-grafana-dashboard/releases/tag/v0.0.16), 11 months ago) - Apache Pulsar Grafana Dashboard
 
 #### 🔨 My recent Pull Requests
 
+- [[fix][schema] Fix update schema forward compatibility strategy behavior](https://github.com/apache/pulsar/pull/15718) on [apache/pulsar](https://github.com/apache/pulsar) (1 day ago)
+- [[fix][doc] Fix security-oauth2 docs curl example OAuth URL](https://github.com/apache/pulsar/pull/15708) on [apache/pulsar](https://github.com/apache/pulsar) (1 day ago)
 - [[refactor][client] Reusing multi-topics reader to implement TableView auto-update partition](https://github.com/apache/pulsar/pull/15589) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [[DO NOT MERGE] Design new load manager](https://github.com/Demogorgon314/pulsar/pull/1) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (1 week ago)
 - [Use self-generated jwk in OAuth units test](https://github.com/streamnative/kop/pull/1280) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
@@ -44,8 +46,6 @@
 - [[transaction] Support write transaction marker when using oauth2 authentication](https://github.com/streamnative/kop/pull/1268) on [streamnative/kop](https://github.com/streamnative/kop) (2 weeks ago)
 - [[improve][broker] Use for-each instead of the for-loop on pulsar collections](https://github.com/apache/pulsar/pull/15388) on [apache/pulsar](https://github.com/apache/pulsar) (3 weeks ago)
 - [[improve][broker] Change unnecessary atomic to basic type](https://github.com/apache/pulsar/pull/15369) on [apache/pulsar](https://github.com/apache/pulsar) (3 weeks ago)
-- [[Improve][doc] Add config of IO and acceptor threads in proxy](https://github.com/apache/pulsar/pull/15340) on [apache/pulsar](https://github.com/apache/pulsar) (3 weeks ago)
-- [[Bugfix] Delete group id stored in metadata storage when consumer close](https://github.com/streamnative/kop/pull/1256) on [streamnative/kop](https://github.com/streamnative/kop) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
