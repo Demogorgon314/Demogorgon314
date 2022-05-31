@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (3 days ago)
-- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (2 weeks ago)
+- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (1 day ago)
+- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (4 days ago)
 - [openmessaging/benchmark](https://github.com/openmessaging/benchmark) - OpenMessaging Benchmark Framework (2 months ago)
 - [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) - Apache Pulsar Grafana Dashboard (2 months ago)
 - [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) - Custom version of OpenWrt (2 months ago)
@@ -28,24 +28,24 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/kop](https://github.com/streamnative/kop) ([v2.9.2.18](https://github.com/streamnative/kop/releases/tag/v2.9.2.18), 2 days ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
-- [apache/apisix](https://github.com/apache/apisix) ([2.14.1](https://github.com/apache/apisix/releases/tag/2.14.1), 3 days ago) - The Cloud-Native API Gateway
+- [streamnative/kop](https://github.com/streamnative/kop) ([v2.9.2.18](https://github.com/streamnative/kop/releases/tag/v2.9.2.18), 1 day ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
+- [apache/apisix](https://github.com/apache/apisix) ([2.14.1](https://github.com/apache/apisix/releases/tag/2.14.1), 4 days ago) - The Cloud-Native API Gateway
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.10.0](https://github.com/apache/pulsar/releases/tag/v2.10.0), 1 month ago) - Apache Pulsar - distributed pub-sub messaging system
 - [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) ([kernel_5.15_2022_03_03_2](https://github.com/Demogorgon314/OpenWrt-AutoBuild/releases/tag/kernel_5.15_2022_03_03_2), 2 months ago) - Custom version of OpenWrt
 - [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) ([v0.0.16](https://github.com/streamnative/apache-pulsar-grafana-dashboard/releases/tag/v0.0.16), 11 months ago) - Apache Pulsar Grafana Dashboard
 
 #### 🔨 My recent Pull Requests
 
-- [[fix][test] Fix schema not found check on unit test](https://github.com/apache/pulsar/pull/15815) on [apache/pulsar](https://github.com/apache/pulsar) (3 days ago)
-- [Restore the support for Kafka clients 0.9 and 0.10](https://github.com/streamnative/kop/pull/1307) on [streamnative/kop](https://github.com/streamnative/kop) (4 days ago)
-- [[Improve][doc] Add config of NAR extraction directory for the broker configuration](https://github.com/apache/pulsar/pull/15778) on [apache/pulsar](https://github.com/apache/pulsar) (5 days ago)
-- [[fix][admin] Unwrap the completion exception on schemas admin API](https://github.com/apache/pulsar/pull/15733) on [apache/pulsar](https://github.com/apache/pulsar) (6 days ago)
+- [[Test] Ignore test change entry format unit test](https://github.com/streamnative/kop/pull/1315) on [streamnative/kop](https://github.com/streamnative/kop) (1 day ago)
+- [[fix][test] Fix schema not found check on unit test](https://github.com/apache/pulsar/pull/15815) on [apache/pulsar](https://github.com/apache/pulsar) (4 days ago)
+- [Restore the support for Kafka clients 0.9 and 0.10](https://github.com/streamnative/kop/pull/1307) on [streamnative/kop](https://github.com/streamnative/kop) (5 days ago)
+- [[Improve][doc] Add config of NAR extraction directory for the broker configuration](https://github.com/apache/pulsar/pull/15778) on [apache/pulsar](https://github.com/apache/pulsar) (6 days ago)
+- [[fix][admin] Unwrap the completion exception on schemas admin API](https://github.com/apache/pulsar/pull/15733) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [[fix][schema] Fix update schema forward compatibility strategy behavior](https://github.com/apache/pulsar/pull/15718) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [[fix][doc] Fix security-oauth2 docs curl example OAuth URL](https://github.com/apache/pulsar/pull/15708) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [[refactor][client] Reusing multi-topics reader to implement TableView auto-update partition](https://github.com/apache/pulsar/pull/15589) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
 - [[DO NOT MERGE] Design new load manager](https://github.com/Demogorgon314/pulsar/pull/1) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (2 weeks ago)
 - [Use self-generated jwk in OAuth units test](https://github.com/streamnative/kop/pull/1280) on [streamnative/kop](https://github.com/streamnative/kop) (2 weeks ago)
-- [Improve handle OAuth callback throw authentication exception behavior](https://github.com/streamnative/kop/pull/1276) on [streamnative/kop](https://github.com/streamnative/kop) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
