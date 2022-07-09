@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (4 days ago)
+- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (1 day ago)
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (3 weeks ago)
 - [openmessaging/benchmark](https://github.com/openmessaging/benchmark) - OpenMessaging Benchmark Framework (4 months ago)
 - [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) - Custom version of OpenWrt (4 months ago)
@@ -27,14 +27,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/kop](https://github.com/streamnative/kop) ([v2.7.4.6](https://github.com/streamnative/kop/releases/tag/v2.7.4.6), 3 days ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
-- [apache/pulsar](https://github.com/apache/pulsar) ([v2.10.1](https://github.com/apache/pulsar/releases/tag/v2.10.1), 4 days ago) - Apache Pulsar - distributed pub-sub messaging system
+- [streamnative/kop](https://github.com/streamnative/kop) ([v2.7.4.7](https://github.com/streamnative/kop/releases/tag/v2.7.4.7), 1 day ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
+- [apache/pulsar](https://github.com/apache/pulsar) ([v2.10.1](https://github.com/apache/pulsar/releases/tag/v2.10.1), 5 days ago) - Apache Pulsar - distributed pub-sub messaging system
 - [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) ([kernel_5.15_2022_03_03_2](https://github.com/Demogorgon314/OpenWrt-AutoBuild/releases/tag/kernel_5.15_2022_03_03_2), 4 months ago) - Custom version of OpenWrt
 - [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) ([v0.0.16](https://github.com/streamnative/apache-pulsar-grafana-dashboard/releases/tag/v0.0.16), 1 year ago) - Apache Pulsar Grafana Dashboard
 
 #### 🔨 My recent Pull Requests
 
-- [[Transaction] Fix endless writing txn marker requests when the topic is deleted](https://github.com/streamnative/kop/pull/1388) on [streamnative/kop](https://github.com/streamnative/kop) (2 days ago)
+- [[Transaction] Fix endless writing txn marker requests when the topic is deleted](https://github.com/streamnative/kop/pull/1388) on [streamnative/kop](https://github.com/streamnative/kop) (3 days ago)
 - [[Bugfix] Find transaction coordinator should not store group ID](https://github.com/streamnative/kop/pull/1375) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
 - [[Transaction] Fix wrong partition hash method in transaction state manager.](https://github.com/streamnative/kop/pull/1372) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
 - [[improve][doc] Add specified_positions_divide split algorithm in doc](https://github.com/apache/pulsar/pull/16293) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
