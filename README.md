@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (6 days ago)
-- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (1 week ago)
+- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (1 day ago)
+- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (1 week ago)
 - [openmessaging/benchmark](https://github.com/openmessaging/benchmark) - OpenMessaging Benchmark Framework (4 months ago)
 - [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) - Custom version of OpenWrt (4 months ago)
 - [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) - Apache Pulsar Grafana Dashboard (4 months ago)
@@ -27,27 +27,27 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/kop](https://github.com/streamnative/kop) ([v2.9.3.1](https://github.com/streamnative/kop/releases/tag/v2.9.3.1), 1 day ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
+- [streamnative/kop](https://github.com/streamnative/kop) ([v2.9.3.2](https://github.com/streamnative/kop/releases/tag/v2.9.3.2), 1 day ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.10.1](https://github.com/apache/pulsar/releases/tag/v2.10.1), 2 weeks ago) - Apache Pulsar - distributed pub-sub messaging system
 - [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) ([kernel_5.15_2022_03_03_2](https://github.com/Demogorgon314/OpenWrt-AutoBuild/releases/tag/kernel_5.15_2022_03_03_2), 4 months ago) - Custom version of OpenWrt
 - [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) ([v0.0.16](https://github.com/streamnative/apache-pulsar-grafana-dashboard/releases/tag/v0.0.16), 1 year ago) - Apache Pulsar Grafana Dashboard
 
 #### 🔨 My recent Pull Requests
 
-- [[improve] Make the LengthFieldPrepender singleton](https://github.com/streamnative/kop/pull/1405) on [streamnative/kop](https://github.com/streamnative/kop) (1 day ago)
+- [[improve] Consolidate Netty channel flushes to mitigate syscall overhead](https://github.com/streamnative/kop/pull/1409) on [streamnative/kop](https://github.com/streamnative/kop) (1 day ago)
+- [[improve] Make TransactionMarkerChannelInitializer LengthFieldPrepender singleton](https://github.com/streamnative/kop/pull/1408) on [streamnative/kop](https://github.com/streamnative/kop) (1 day ago)
+- [[improve] Make the LengthFieldPrepender singleton](https://github.com/streamnative/kop/pull/1405) on [streamnative/kop](https://github.com/streamnative/kop) (2 days ago)
 - [[refactor][test] Replace assertTrue with assertEquals in BrokerInterceptorTest](https://github.com/apache/pulsar/pull/16518) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [[fix][flaky-test] NonPersistentTopicE2ETest.testGC](https://github.com/apache/pulsar/pull/16505) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [[fix][broker] Retry when DistributedIdGenerator has BadVersion error](https://github.com/apache/pulsar/pull/16491) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
-- [[Transaction] Fix endless writing txn marker requests when the topic is deleted](https://github.com/streamnative/kop/pull/1388) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
+- [[Transaction] Fix endless writing txn marker requests when the topic is deleted](https://github.com/streamnative/kop/pull/1388) on [streamnative/kop](https://github.com/streamnative/kop) (2 weeks ago)
 - [[Bugfix] Find transaction coordinator should not store group ID](https://github.com/streamnative/kop/pull/1375) on [streamnative/kop](https://github.com/streamnative/kop) (2 weeks ago)
 - [[Transaction] Fix wrong partition hash method in transaction state manager.](https://github.com/streamnative/kop/pull/1372) on [streamnative/kop](https://github.com/streamnative/kop) (2 weeks ago)
 - [[improve][doc] Add specified_positions_divide split algorithm in doc](https://github.com/apache/pulsar/pull/16293) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
-- [Add KoP grafana dashboard](https://github.com/streamnative/kop/pull/1360) on [streamnative/kop](https://github.com/streamnative/kop) (3 weeks ago)
-- [[Test] Fix failed to load SSL keystore on Java 8](https://github.com/streamnative/kop/pull/1340) on [streamnative/kop](https://github.com/streamnative/kop) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [spring-projects-experimental/spring-pulsar](https://github.com/spring-projects-experimental/spring-pulsar) -  (5 days ago)
+- [spring-projects-experimental/spring-pulsar](https://github.com/spring-projects-experimental/spring-pulsar) -  (6 days ago)
 - [openglonmetal/MGL](https://github.com/openglonmetal/MGL) - OpenGL 4.6 on Metal (1 month ago)
 - [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew &amp; games on your Android device! (1 month ago)
 - [cmu-db/bustub](https://github.com/cmu-db/bustub) - The BusTub Relational Database Management System (Educational) (1 month ago)
