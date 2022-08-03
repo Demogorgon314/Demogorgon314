@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (4 days ago)
-- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (2 weeks ago)
+- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (5 days ago)
+- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (3 weeks ago)
 - [openmessaging/benchmark](https://github.com/openmessaging/benchmark) - OpenMessaging Benchmark Framework (4 months ago)
 - [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) - Custom version of OpenWrt (5 months ago)
 - [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) - Apache Pulsar Grafana Dashboard (5 months ago)
@@ -27,18 +27,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/kop](https://github.com/streamnative/kop) ([v2.10.1.4](https://github.com/streamnative/kop/releases/tag/v2.10.1.4), 6 days ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
-- [apache/pulsar](https://github.com/apache/pulsar) ([v2.9.3](https://github.com/apache/pulsar/releases/tag/v2.9.3), 1 week ago) - Apache Pulsar - distributed pub-sub messaging system
+- [streamnative/kop](https://github.com/streamnative/kop) ([v2.10.1.4](https://github.com/streamnative/kop/releases/tag/v2.10.1.4), 1 week ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
+- [apache/pulsar](https://github.com/apache/pulsar) ([v2.9.3](https://github.com/apache/pulsar/releases/tag/v2.9.3), 2 weeks ago) - Apache Pulsar - distributed pub-sub messaging system
 - [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) ([kernel_5.15_2022_03_03_2](https://github.com/Demogorgon314/OpenWrt-AutoBuild/releases/tag/kernel_5.15_2022_03_03_2), 5 months ago) - Custom version of OpenWrt
 - [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) ([v0.0.16](https://github.com/streamnative/apache-pulsar-grafana-dashboard/releases/tag/v0.0.16), 1 year ago) - Apache Pulsar Grafana Dashboard
 
 #### 🔨 My recent Pull Requests
 
-- [[CI] Cancel previous CI workflow if new commit pushed](https://github.com/streamnative/kop/pull/1425) on [streamnative/kop](https://github.com/streamnative/kop) (4 days ago)
-- [[improve] Trigger pending fetches when producing messages](https://github.com/streamnative/kop/pull/1423) on [streamnative/kop](https://github.com/streamnative/kop) (6 days ago)
+- [[CI] Cancel previous CI workflow if new commit pushed](https://github.com/streamnative/kop/pull/1425) on [streamnative/kop](https://github.com/streamnative/kop) (5 days ago)
+- [[improve] Trigger pending fetches when producing messages](https://github.com/streamnative/kop/pull/1423) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
 - [[Transaction][branch-2.8.3] Fix endless writing txn marker requests when the topic is deleted](https://github.com/streamnative/kop/pull/1417) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
 - [[fix][test] NamespaceServiceTest.testSplitBundleWithHighestThroughput](https://github.com/apache/pulsar/pull/16714) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
-- [[improve] Check the topic exists from cache](https://github.com/streamnative/kop/pull/1414) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
+- [[improve] Check the topic exists from cache](https://github.com/streamnative/kop/pull/1414) on [streamnative/kop](https://github.com/streamnative/kop) (2 weeks ago)
 - [[improve] Consolidate Netty channel flushes to mitigate syscall overhead](https://github.com/streamnative/kop/pull/1409) on [streamnative/kop](https://github.com/streamnative/kop) (2 weeks ago)
 - [[improve] Make TransactionMarkerChannelInitializer LengthFieldPrepender singleton](https://github.com/streamnative/kop/pull/1408) on [streamnative/kop](https://github.com/streamnative/kop) (2 weeks ago)
 - [[improve] Make the LengthFieldPrepender singleton](https://github.com/streamnative/kop/pull/1405) on [streamnative/kop](https://github.com/streamnative/kop) (2 weeks ago)
@@ -63,11 +63,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [nihadenes](https://github.com/nihadenes)
 - [HQebupt](https://github.com/HQebupt)
 - [Radiancebobo](https://github.com/Radiancebobo)
 - [OkamiMks](https://github.com/OkamiMks)
 - [a523](https://github.com/a523)
+- [Technoboy-](https://github.com/Technoboy-)
 
 #### 💬 Feedback
 
