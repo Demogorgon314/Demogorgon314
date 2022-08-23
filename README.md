@@ -27,15 +27,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/kop](https://github.com/streamnative/kop) ([v2.8.3.8](https://github.com/streamnative/kop/releases/tag/v2.8.3.8), 2 days ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
+- [streamnative/kop](https://github.com/streamnative/kop) ([v2.8.4.0-rc1](https://github.com/streamnative/kop/releases/tag/v2.8.4.0-rc1), 1 day ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 - [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) ([kernel_5.15.59_2022_08_07_3](https://github.com/Demogorgon314/OpenWrt-AutoBuild/releases/tag/kernel_5.15.59_2022_08_07_3), 2 weeks ago) - Custom version of OpenWrt
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.9.3](https://github.com/apache/pulsar/releases/tag/v2.9.3), 1 month ago) - Apache Pulsar - distributed pub-sub messaging system
 - [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) ([v0.0.16](https://github.com/streamnative/apache-pulsar-grafana-dashboard/releases/tag/v0.0.16), 1 year ago) - Apache Pulsar Grafana Dashboard
 
 #### 🔨 My recent Pull Requests
 
+- [[feature][client-cpp] Support inclusive seek for cpp client](https://github.com/apache/pulsar/pull/17209) on [apache/pulsar](https://github.com/apache/pulsar) (1 day ago)
 - [[Test] Fix unit test in JDK 17 env](https://github.com/streamnative/kop/pull/1450) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
-- [[Transaction] Return INVALID_PRODUCER_EPOCH error when the transaction produces epoch fence happened](https://github.com/streamnative/kop/pull/1443) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
+- [[Transaction] Return INVALID_PRODUCER_EPOCH error when the transaction produces epoch fence happened](https://github.com/streamnative/kop/pull/1443) on [streamnative/kop](https://github.com/streamnative/kop) (2 weeks ago)
 - [[Bugfix] Fix incorrect publish latency unit](https://github.com/streamnative/kop/pull/1441) on [streamnative/kop](https://github.com/streamnative/kop) (2 weeks ago)
 - [[CI] Cancel previous CI workflow if new commit pushed](https://github.com/streamnative/kop/pull/1425) on [streamnative/kop](https://github.com/streamnative/kop) (3 weeks ago)
 - [[improve] Trigger pending fetches when producing messages](https://github.com/streamnative/kop/pull/1423) on [streamnative/kop](https://github.com/streamnative/kop) (3 weeks ago)
@@ -43,11 +44,10 @@
 - [[fix][test] NamespaceServiceTest.testSplitBundleWithHighestThroughput](https://github.com/apache/pulsar/pull/16714) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 - [[improve] Check the topic exists from cache](https://github.com/streamnative/kop/pull/1414) on [streamnative/kop](https://github.com/streamnative/kop) (1 month ago)
 - [[improve] Consolidate Netty channel flushes to mitigate syscall overhead](https://github.com/streamnative/kop/pull/1409) on [streamnative/kop](https://github.com/streamnative/kop) (1 month ago)
-- [[improve] Make TransactionMarkerChannelInitializer LengthFieldPrepender singleton](https://github.com/streamnative/kop/pull/1408) on [streamnative/kop](https://github.com/streamnative/kop) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [0xricksanchez/like-dbg](https://github.com/0xricksanchez/like-dbg) - Fully dockerized Linux kernel debugging environment (4 days ago)
+- [0xricksanchez/like-dbg](https://github.com/0xricksanchez/like-dbg) - Fully dockerized Linux kernel debugging environment (5 days ago)
 - [fabianishere/pve-edge-kernel](https://github.com/fabianishere/pve-edge-kernel) - Newer Linux kernels for Proxmox VE (1 week ago)
 - [jammy928/CoinExchange_CryptoExchange_Java](https://github.com/jammy928/CoinExchange_CryptoExchange_Java) - The best Java open source crypto currency exchange platform, bitcoin exchange based on Java | BTC exchange | ETH exchange | digital currency exchange | trading platform | matching trading engine. This project is based on the development of Spring Cloud microservices and can be used to build and secondary development of digital currency exchanges. It has a complete source code for matching trading engines, back-end management (back-end &#43; front-end), front-end (transaction page, activity page, personal center, etc.), Android APP source code, Apple APP source code, currency wallet RPC source code. Contact Email: 877070886@qq.com (2 weeks ago)
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake&#39;s main development repository  (1 month ago)
