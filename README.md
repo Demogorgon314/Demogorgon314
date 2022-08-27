@@ -27,15 +27,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/kop](https://github.com/streamnative/kop) ([v2.8.4.0-rc1](https://github.com/streamnative/kop/releases/tag/v2.8.4.0-rc1), 4 days ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
+- [streamnative/kop](https://github.com/streamnative/kop) ([v2.10.1.7](https://github.com/streamnative/kop/releases/tag/v2.10.1.7), 1 day ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 - [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) ([kernel_5.15.59_2022_08_07_3](https://github.com/Demogorgon314/OpenWrt-AutoBuild/releases/tag/kernel_5.15.59_2022_08_07_3), 2 weeks ago) - Custom version of OpenWrt
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.9.3](https://github.com/apache/pulsar/releases/tag/v2.9.3), 1 month ago) - Apache Pulsar - distributed pub-sub messaging system
 - [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) ([v0.0.16](https://github.com/streamnative/apache-pulsar-grafana-dashboard/releases/tag/v0.0.16), 1 year ago) - Apache Pulsar Grafana Dashboard
 
 #### 🔨 My recent Pull Requests
 
-- [[improve][cpp] Unify arm crc32c hw checksum provider interface](https://github.com/apache/pulsar/pull/17271) on [apache/pulsar](https://github.com/apache/pulsar) (1 day ago)
-- [[feature][client-cpp] Support inclusive seek for cpp client](https://github.com/apache/pulsar/pull/17209) on [apache/pulsar](https://github.com/apache/pulsar) (4 days ago)
+- [[improve][cpp] Unify arm crc32c hw checksum provider interface](https://github.com/apache/pulsar/pull/17271) on [apache/pulsar](https://github.com/apache/pulsar) (2 days ago)
+- [[feature][client-cpp] Support inclusive seek for cpp client](https://github.com/apache/pulsar/pull/17209) on [apache/pulsar](https://github.com/apache/pulsar) (5 days ago)
 - [[Test] Fix unit test in JDK 17 env](https://github.com/streamnative/kop/pull/1450) on [streamnative/kop](https://github.com/streamnative/kop) (2 weeks ago)
 - [[Transaction] Return INVALID_PRODUCER_EPOCH error when the transaction produces epoch fence happened](https://github.com/streamnative/kop/pull/1443) on [streamnative/kop](https://github.com/streamnative/kop) (2 weeks ago)
 - [[Bugfix] Fix incorrect publish latency unit](https://github.com/streamnative/kop/pull/1441) on [streamnative/kop](https://github.com/streamnative/kop) (2 weeks ago)
