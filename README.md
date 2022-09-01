@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (1 day ago)
-- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (1 day ago)
+- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (2 days ago)
+- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (2 days ago)
 - [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) - Custom version of OpenWrt (3 weeks ago)
 - [openmessaging/benchmark](https://github.com/openmessaging/benchmark) - OpenMessaging Benchmark Framework (5 months ago)
 - [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) - Apache Pulsar Grafana Dashboard (6 months ago)
 - [Demogorgon314/homebrew-clang-format](https://github.com/Demogorgon314/homebrew-clang-format) - Homebrew clang-format (8 months ago)
 - [Demogorgon314/Pulsar-Wireshark-Dissector](https://github.com/Demogorgon314/Pulsar-Wireshark-Dissector) - Pulsar Wireshark Dissector (8 months ago)
 - [streamnative/examples](https://github.com/streamnative/examples) - Apache Pulsar examples and demos (9 months ago)
-- [Demogorgon314/learn-rust](https://github.com/Demogorgon314/learn-rust) - Learn rust (10 months ago)
+- [Demogorgon314/learn-rust](https://github.com/Demogorgon314/learn-rust) - Learn rust (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -27,27 +27,27 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/kop](https://github.com/streamnative/kop) ([v2.9.3.6](https://github.com/streamnative/kop/releases/tag/v2.9.3.6), 1 day ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
+- [streamnative/kop](https://github.com/streamnative/kop) ([v2.9.3.6](https://github.com/streamnative/kop/releases/tag/v2.9.3.6), 2 days ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 - [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) ([kernel_5.15.59_2022_08_07_3](https://github.com/Demogorgon314/OpenWrt-AutoBuild/releases/tag/kernel_5.15.59_2022_08_07_3), 3 weeks ago) - Custom version of OpenWrt
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.9.3](https://github.com/apache/pulsar/releases/tag/v2.9.3), 1 month ago) - Apache Pulsar - distributed pub-sub messaging system
 - [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) ([v0.0.16](https://github.com/streamnative/apache-pulsar-grafana-dashboard/releases/tag/v0.0.16), 1 year ago) - Apache Pulsar Grafana Dashboard
 
 #### 🔨 My recent Pull Requests
 
-- [[feature] Support disable group-level consumer metrics](https://github.com/streamnative/kop/pull/1462) on [streamnative/kop](https://github.com/streamnative/kop) (2 days ago)
-- [[improve][cpp] Unify arm crc32c hw checksum provider interface](https://github.com/apache/pulsar/pull/17271) on [apache/pulsar](https://github.com/apache/pulsar) (6 days ago)
+- [[fix] Handle replicated subscription marker correct in pulsar entry formatter](https://github.com/streamnative/kop/pull/1469) on [streamnative/kop](https://github.com/streamnative/kop) (1 day ago)
+- [[feature] Support disable group-level consumer metrics](https://github.com/streamnative/kop/pull/1462) on [streamnative/kop](https://github.com/streamnative/kop) (3 days ago)
+- [[improve][cpp] Unify arm crc32c hw checksum provider interface](https://github.com/apache/pulsar/pull/17271) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [[feature][client-cpp] Support inclusive seek for cpp client](https://github.com/apache/pulsar/pull/17209) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
-- [[Test] Fix unit test in JDK 17 env](https://github.com/streamnative/kop/pull/1450) on [streamnative/kop](https://github.com/streamnative/kop) (2 weeks ago)
+- [[Test] Fix unit test in JDK 17 env](https://github.com/streamnative/kop/pull/1450) on [streamnative/kop](https://github.com/streamnative/kop) (3 weeks ago)
 - [[Transaction] Return INVALID_PRODUCER_EPOCH error when the transaction produces epoch fence happened](https://github.com/streamnative/kop/pull/1443) on [streamnative/kop](https://github.com/streamnative/kop) (3 weeks ago)
 - [[Bugfix] Fix incorrect publish latency unit](https://github.com/streamnative/kop/pull/1441) on [streamnative/kop](https://github.com/streamnative/kop) (3 weeks ago)
 - [[CI] Cancel previous CI workflow if new commit pushed](https://github.com/streamnative/kop/pull/1425) on [streamnative/kop](https://github.com/streamnative/kop) (1 month ago)
 - [[improve] Trigger pending fetches when producing messages](https://github.com/streamnative/kop/pull/1423) on [streamnative/kop](https://github.com/streamnative/kop) (1 month ago)
 - [[Transaction][branch-2.8.3] Fix endless writing txn marker requests when the topic is deleted](https://github.com/streamnative/kop/pull/1417) on [streamnative/kop](https://github.com/streamnative/kop) (1 month ago)
-- [[fix][test] NamespaceServiceTest.testSplitBundleWithHighestThroughput](https://github.com/apache/pulsar/pull/16714) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [0xricksanchez/like-dbg](https://github.com/0xricksanchez/like-dbg) - Fully dockerized Linux kernel debugging environment (1 week ago)
+- [0xricksanchez/like-dbg](https://github.com/0xricksanchez/like-dbg) - Fully dockerized Linux kernel debugging environment (2 weeks ago)
 - [fabianishere/pve-edge-kernel](https://github.com/fabianishere/pve-edge-kernel) - Newer Linux kernels for Proxmox VE (3 weeks ago)
 - [jammy928/CoinExchange_CryptoExchange_Java](https://github.com/jammy928/CoinExchange_CryptoExchange_Java) - The best Java open source crypto currency exchange platform, bitcoin exchange based on Java | BTC exchange | ETH exchange | digital currency exchange | trading platform | matching trading engine. This project is based on the development of Spring Cloud microservices and can be used to build and secondary development of digital currency exchanges. It has a complete source code for matching trading engines, back-end management (back-end &#43; front-end), front-end (transaction page, activity page, personal center, etc.), Android APP source code, Apple APP source code, currency wallet RPC source code. Contact Email: 877070886@qq.com (3 weeks ago)
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake&#39;s main development repository  (1 month ago)
