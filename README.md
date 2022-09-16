@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (1 week ago)
+- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (1 day ago)
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (2 weeks ago)
 - [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) - Custom version of OpenWrt (1 month ago)
 - [openmessaging/benchmark](https://github.com/openmessaging/benchmark) - OpenMessaging Benchmark Framework (6 months ago)
@@ -27,13 +27,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [streamnative/kop](https://github.com/streamnative/kop) ([v2.10.1.8](https://github.com/streamnative/kop/releases/tag/v2.10.1.8), 1 day ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.7.5](https://github.com/apache/pulsar/releases/tag/v2.7.5), 1 week ago) - Apache Pulsar - distributed pub-sub messaging system
-- [streamnative/kop](https://github.com/streamnative/kop) ([v2.9.3.7](https://github.com/streamnative/kop/releases/tag/v2.9.3.7), 1 week ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 - [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) ([kernel_5.15.59_2022_08_07_3](https://github.com/Demogorgon314/OpenWrt-AutoBuild/releases/tag/kernel_5.15.59_2022_08_07_3), 1 month ago) - Custom version of OpenWrt
 - [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) ([v0.0.16](https://github.com/streamnative/apache-pulsar-grafana-dashboard/releases/tag/v0.0.16), 1 year ago) - Apache Pulsar Grafana Dashboard
 
 #### 🔨 My recent Pull Requests
 
+- [[Transaction] Fix concurrent modification exception when broker close](https://github.com/streamnative/kop/pull/1493) on [streamnative/kop](https://github.com/streamnative/kop) (1 day ago)
 - [New broker load balancer poc](https://github.com/Demogorgon314/pulsar/pull/2) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (2 weeks ago)
 - [[fix] Handle replicated subscription marker correct in pulsar entry formatter](https://github.com/streamnative/kop/pull/1469) on [streamnative/kop](https://github.com/streamnative/kop) (2 weeks ago)
 - [[feature] Support disable group-level consumer metrics](https://github.com/streamnative/kop/pull/1462) on [streamnative/kop](https://github.com/streamnative/kop) (2 weeks ago)
@@ -43,12 +44,11 @@
 - [[Transaction] Return INVALID_PRODUCER_EPOCH error when the transaction produces epoch fence happened](https://github.com/streamnative/kop/pull/1443) on [streamnative/kop](https://github.com/streamnative/kop) (1 month ago)
 - [[Bugfix] Fix incorrect publish latency unit](https://github.com/streamnative/kop/pull/1441) on [streamnative/kop](https://github.com/streamnative/kop) (1 month ago)
 - [[CI] Cancel previous CI workflow if new commit pushed](https://github.com/streamnative/kop/pull/1425) on [streamnative/kop](https://github.com/streamnative/kop) (1 month ago)
-- [[improve] Trigger pending fetches when producing messages](https://github.com/streamnative/kop/pull/1423) on [streamnative/kop](https://github.com/streamnative/kop) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [didi/KnowStreaming](https://github.com/didi/KnowStreaming) - 一站式云原生Kafka管控平台 (2 days ago)
-- [apache/pulsar-client-reactive](https://github.com/apache/pulsar-client-reactive) - Reactive client for Apache Pulsar (5 days ago)
+- [didi/KnowStreaming](https://github.com/didi/KnowStreaming) - 一站式云原生Kafka管控平台 (3 days ago)
+- [apache/pulsar-client-reactive](https://github.com/apache/pulsar-client-reactive) - Reactive client for Apache Pulsar (6 days ago)
 - [javapathfinder/jpf-core](https://github.com/javapathfinder/jpf-core) - JPF is an extensible software analysis framework for Java bytecode. jpf-core is the basis for all JPF projects; you always need to install it. It contains the basic VM and model checking infrastructure, and can be used to check for concurrency defects like deadlocks, and unhandled exceptions like NullPointerExceptions and AssertionErrors. (1 week ago)
 - [NJU-ProjectN/abstract-machine](https://github.com/NJU-ProjectN/abstract-machine) - A minimal, modularized, and machine-independent hardware abstraction layer (1 week ago)
 - [alesimula/wsa_pacman](https://github.com/alesimula/wsa_pacman) - A GUI package manager and package installer for Windows Subsystem for Android (WSA) (1 week ago)
