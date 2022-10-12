@@ -3,9 +3,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) - Apache Pulsar C&#43;&#43; client library (1 day ago)
-- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (1 week ago)
-- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (1 week ago)
-- [apache/pulsar-client-python](https://github.com/apache/pulsar-client-python) - Apache Pulsar Python client library (1 week ago)
+- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (2 weeks ago)
+- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (2 weeks ago)
+- [apache/pulsar-client-python](https://github.com/apache/pulsar-client-python) - Apache Pulsar Python client library (2 weeks ago)
 - [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) - Custom version of OpenWrt (2 months ago)
 - [openmessaging/benchmark](https://github.com/openmessaging/benchmark) - OpenMessaging Benchmark Framework (7 months ago)
 - [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) - Apache Pulsar Grafana Dashboard (7 months ago)
@@ -28,27 +28,27 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/kop](https://github.com/streamnative/kop) ([v2.10.1.10](https://github.com/streamnative/kop/releases/tag/v2.10.1.10), 2 days ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
+- [streamnative/kop](https://github.com/streamnative/kop) ([v2.10.1.10](https://github.com/streamnative/kop/releases/tag/v2.10.1.10), 3 days ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.8.4](https://github.com/apache/pulsar/releases/tag/v2.8.4), 1 week ago) - Apache Pulsar - distributed pub-sub messaging system
 - [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) ([kernel_5.15.59_2022_08_07_3](https://github.com/Demogorgon314/OpenWrt-AutoBuild/releases/tag/kernel_5.15.59_2022_08_07_3), 2 months ago) - Custom version of OpenWrt
 - [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) ([v0.0.16](https://github.com/streamnative/apache-pulsar-grafana-dashboard/releases/tag/v0.0.16), 1 year ago) - Apache Pulsar Grafana Dashboard
 
 #### 🔨 My recent Pull Requests
 
-- [[fix] Fix README.md build path](https://github.com/apache/pulsar-client-cpp/pull/29) on [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) (2 days ago)
-- [[feat] Expose start message id inclusive configuration to C API](https://github.com/apache/pulsar-client-cpp/pull/27) on [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) (2 days ago)
+- [Enable required check status for unit tests job](https://github.com/Demogorgon314/pulsar-client-cpp/pull/1) on [Demogorgon314/pulsar-client-cpp](https://github.com/Demogorgon314/pulsar-client-cpp) (1 day ago)
+- [Enable required check status for unit tests job](https://github.com/apache/pulsar-client-cpp/pull/35) on [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) (1 day ago)
+- [[fix] Fix README.md build path](https://github.com/apache/pulsar-client-cpp/pull/29) on [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) (3 days ago)
+- [[feat] Expose start message id inclusive configuration to C API](https://github.com/apache/pulsar-client-cpp/pull/27) on [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) (3 days ago)
 - [Add pull request template](https://github.com/apache/pulsar-client-cpp/pull/8) on [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) (1 week ago)
 - [Add bug report issue template](https://github.com/apache/pulsar-client-cpp/pull/7) on [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) (1 week ago)
 - [Fix list offsets response wrong result](https://github.com/streamnative/kop/pull/1512) on [streamnative/kop](https://github.com/streamnative/kop) (2 weeks ago)
-- [New broker load balancer poc](https://github.com/Demogorgon314/pulsar/pull/3) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (2 weeks ago)
+- [New broker load balancer poc](https://github.com/Demogorgon314/pulsar/pull/3) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (3 weeks ago)
 - [[Transaction] Fix concurrent modification exception when broker close](https://github.com/streamnative/kop/pull/1493) on [streamnative/kop](https://github.com/streamnative/kop) (3 weeks ago)
 - [New broker load balancer poc](https://github.com/Demogorgon314/pulsar/pull/2) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (1 month ago)
-- [[fix] Handle replicated subscription marker correct in pulsar entry formatter](https://github.com/streamnative/kop/pull/1469) on [streamnative/kop](https://github.com/streamnative/kop) (1 month ago)
-- [[feature] Support disable group-level consumer metrics](https://github.com/streamnative/kop/pull/1462) on [streamnative/kop](https://github.com/streamnative/kop) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [strengthen/iTV](https://github.com/strengthen/iTV) - 更好用的直播源播放器 (1 day ago)
+- [strengthen/iTV](https://github.com/strengthen/iTV) - 更好用的直播源播放器 (2 days ago)
 - [JasonWei512/EnergyStarX](https://github.com/JasonWei512/EnergyStarX) - 🔋Improve your Windows device&#39;s battery life. A WinUI 3 GUI for EnergyStar. (1 week ago)
 - [apache/pulsar-client-python](https://github.com/apache/pulsar-client-python) - Apache Pulsar Python client library (1 week ago)
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) - Apache Pulsar C&#43;&#43; client library (1 week ago)
