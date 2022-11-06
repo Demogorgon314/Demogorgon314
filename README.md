@@ -28,14 +28,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/kop](https://github.com/streamnative/kop) ([v2.9.3.15](https://github.com/streamnative/kop/releases/tag/v2.9.3.15), 1 day ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
+- [streamnative/kop](https://github.com/streamnative/kop) ([v2.9.3.15](https://github.com/streamnative/kop/releases/tag/v2.9.3.15), 2 days ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.10.2](https://github.com/apache/pulsar/releases/tag/v2.10.2), 1 week ago) - Apache Pulsar - distributed pub-sub messaging system
 - [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) ([kernel_5.15.59_2022_08_07_3](https://github.com/Demogorgon314/OpenWrt-AutoBuild/releases/tag/kernel_5.15.59_2022_08_07_3), 3 months ago) - Custom version of OpenWrt
 - [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) ([v0.0.16](https://github.com/streamnative/apache-pulsar-grafana-dashboard/releases/tag/v0.0.16), 1 year ago) - Apache Pulsar Grafana Dashboard
 
 #### 🔨 My recent Pull Requests
 
-- [Fix vcpkg cache test](https://github.com/Demogorgon314/pulsar-client-cpp/pull/3) on [Demogorgon314/pulsar-client-cpp](https://github.com/Demogorgon314/pulsar-client-cpp) (2 days ago)
+- [Fix vcpkg cache test](https://github.com/Demogorgon314/pulsar-client-cpp/pull/3) on [Demogorgon314/pulsar-client-cpp](https://github.com/Demogorgon314/pulsar-client-cpp) (3 days ago)
 - [[ci] Add macOS build workflow](https://github.com/apache/pulsar-client-cpp/pull/68) on [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) (1 week ago)
 - [Test macos workflow](https://github.com/Demogorgon314/pulsar-client-cpp/pull/2) on [Demogorgon314/pulsar-client-cpp](https://github.com/Demogorgon314/pulsar-client-cpp) (1 week ago)
 - [Fix macOS compilation errors caused by forward declaration](https://github.com/apache/pulsar-client-cpp/pull/67) on [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) (1 week ago)
@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share your VPN connection over hotspot or repeater! (root required) (5 days ago)
+- [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share your VPN connection over hotspot or repeater! (root required) (6 days ago)
 - [strengthen/iTV](https://github.com/strengthen/iTV) - 更好用的直播源播放器 (3 weeks ago)
 - [JasonWei512/EnergyStarX](https://github.com/JasonWei512/EnergyStarX) - 🔋Improve your Windows device&#39;s battery life. A WinUI 3 GUI for EnergyStar. (1 month ago)
 - [apache/pulsar-client-python](https://github.com/apache/pulsar-client-python) - Apache Pulsar Python client library (1 month ago)
