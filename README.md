@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (4 days ago)
+- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (5 days ago)
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (1 week ago)
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) - Apache Pulsar C&#43;&#43; client library (3 weeks ago)
 - [apache/pulsar-client-python](https://github.com/apache/pulsar-client-python) - Apache Pulsar Python client library (1 month ago)
@@ -35,20 +35,20 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[branch-2.10.2] Add commons-validator dependency](https://github.com/streamnative/kop/pull/1574) on [streamnative/kop](https://github.com/streamnative/kop) (3 days ago)
-- [[branch-2.9.3] Trigger pending fetches when producing messages](https://github.com/streamnative/kop/pull/1573) on [streamnative/kop](https://github.com/streamnative/kop) (3 days ago)
-- [Fix lookup error when use simplified IPv6 address](https://github.com/streamnative/kop/pull/1571) on [streamnative/kop](https://github.com/streamnative/kop) (4 days ago)
+- [[branch-2.10.2] Add commons-validator dependency](https://github.com/streamnative/kop/pull/1574) on [streamnative/kop](https://github.com/streamnative/kop) (4 days ago)
+- [[branch-2.9.3] Trigger pending fetches when producing messages](https://github.com/streamnative/kop/pull/1573) on [streamnative/kop](https://github.com/streamnative/kop) (4 days ago)
+- [Fix lookup error when use simplified IPv6 address](https://github.com/streamnative/kop/pull/1571) on [streamnative/kop](https://github.com/streamnative/kop) (5 days ago)
 - [[improve][client] Make table view support read the non-persistent topic](https://github.com/apache/pulsar/pull/18375) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
 - [[improve][client] Make table view support read the non-persistent topic](https://github.com/Demogorgon314/pulsar/pull/5) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (2 weeks ago)
 - [Fix vcpkg cache test](https://github.com/Demogorgon314/pulsar-client-cpp/pull/3) on [Demogorgon314/pulsar-client-cpp](https://github.com/Demogorgon314/pulsar-client-cpp) (2 weeks ago)
-- [[ci] Add macOS build workflow](https://github.com/apache/pulsar-client-cpp/pull/68) on [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) (3 weeks ago)
-- [Test macos workflow](https://github.com/Demogorgon314/pulsar-client-cpp/pull/2) on [Demogorgon314/pulsar-client-cpp](https://github.com/Demogorgon314/pulsar-client-cpp) (3 weeks ago)
-- [Fix macOS compilation errors caused by forward declaration](https://github.com/apache/pulsar-client-cpp/pull/67) on [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) (3 weeks ago)
+- [[ci] Add macOS build workflow](https://github.com/apache/pulsar-client-cpp/pull/68) on [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) (4 weeks ago)
+- [Test macos workflow](https://github.com/Demogorgon314/pulsar-client-cpp/pull/2) on [Demogorgon314/pulsar-client-cpp](https://github.com/Demogorgon314/pulsar-client-cpp) (4 weeks ago)
+- [Fix macOS compilation errors caused by forward declaration](https://github.com/apache/pulsar-client-cpp/pull/67) on [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) (4 weeks ago)
 - [[improve][broker] PIP-192: Define new load manager base interfaces](https://github.com/apache/pulsar/pull/18084) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [streamnative/function-mesh](https://github.com/streamnative/function-mesh) - The serverless framework purpose-built for event streaming applications. (4 days ago)
+- [streamnative/function-mesh](https://github.com/streamnative/function-mesh) - The serverless framework purpose-built for event streaming applications. (5 days ago)
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C# (1 week ago)
 - [apache/pulsar-client-node](https://github.com/apache/pulsar-client-node) - Apache Pulsar NodeJS Client (2 weeks ago)
 - [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share your VPN connection over hotspot or repeater! (root required) (3 weeks ago)
@@ -64,11 +64,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [freshtang](https://github.com/freshtang)
 - [cyrusjetson](https://github.com/cyrusjetson)
 - [HardwayLinka](https://github.com/HardwayLinka)
 - [yaalsn](https://github.com/yaalsn)
 - [HQebupt](https://github.com/HQebupt)
-- [Radiancebobo](https://github.com/Radiancebobo)
 
 #### 💬 Feedback
 
