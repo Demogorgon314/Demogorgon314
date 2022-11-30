@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (1 day ago)
+- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (2 days ago)
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (2 weeks ago)
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) - Apache Pulsar C&#43;&#43; client library (1 month ago)
 - [apache/pulsar-client-python](https://github.com/apache/pulsar-client-python) - Apache Pulsar Python client library (1 month ago)
@@ -27,6 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [streamnative/kop](https://github.com/streamnative/kop) ([v2.10.2.1](https://github.com/streamnative/kop/releases/tag/v2.10.2.1), 1 day ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) ([v3.0.0](https://github.com/apache/pulsar-client-cpp/releases/tag/v3.0.0), 2 weeks ago) - Apache Pulsar C&#43;&#43; client library
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.10.2](https://github.com/apache/pulsar/releases/tag/v2.10.2), 1 month ago) - Apache Pulsar - distributed pub-sub messaging system
 - [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) ([kernel_5.15.59_2022_08_07_3](https://github.com/Demogorgon314/OpenWrt-AutoBuild/releases/tag/kernel_5.15.59_2022_08_07_3), 3 months ago) - Custom version of OpenWrt
@@ -34,8 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[feature] Support message publish rate limiting](https://github.com/streamnative/kop/pull/1589) on [streamnative/kop](https://github.com/streamnative/kop) (5 days ago)
-- [[improve] Remove partition log when bundle unload](https://github.com/streamnative/kop/pull/1587) on [streamnative/kop](https://github.com/streamnative/kop) (6 days ago)
+- [[feature] Support message publish rate limiting](https://github.com/streamnative/kop/pull/1589) on [streamnative/kop](https://github.com/streamnative/kop) (6 days ago)
+- [[improve] Remove partition log when bundle unload](https://github.com/streamnative/kop/pull/1587) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
 - [[branch-2.10.2] Add commons-validator dependency](https://github.com/streamnative/kop/pull/1574) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
 - [[branch-2.9.3] Trigger pending fetches when producing messages](https://github.com/streamnative/kop/pull/1573) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
 - [Fix lookup error when use simplified IPv6 address](https://github.com/streamnative/kop/pull/1571) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
@@ -50,7 +51,7 @@
 - [streamnative/function-mesh](https://github.com/streamnative/function-mesh) - The serverless framework purpose-built for event streaming applications. (1 week ago)
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C# (2 weeks ago)
 - [apache/pulsar-client-node](https://github.com/apache/pulsar-client-node) - Apache Pulsar NodeJS Client (3 weeks ago)
-- [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share your VPN connection over hotspot or repeater! (root required) (4 weeks ago)
+- [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share your VPN connection over hotspot or repeater! (root required) (1 month ago)
 - [strengthen/iTV](https://github.com/strengthen/iTV) - 更好用的直播源播放器 (1 month ago)
 - [JasonWei512/EnergyStarX](https://github.com/JasonWei512/EnergyStarX) - 🔋Improve your Windows device&#39;s battery life. A WinUI 3 GUI for EnergyStar. (2 months ago)
 - [apache/pulsar-client-python](https://github.com/apache/pulsar-client-python) - Apache Pulsar Python client library (2 months ago)
