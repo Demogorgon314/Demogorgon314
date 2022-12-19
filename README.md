@@ -9,7 +9,6 @@
 - [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) - Custom version of OpenWrt (4 months ago)
 - [openmessaging/benchmark](https://github.com/openmessaging/benchmark) - OpenMessaging Benchmark Framework (9 months ago)
 - [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) - Apache Pulsar Grafana Dashboard (9 months ago)
-- [Demogorgon314/homebrew-clang-format](https://github.com/Demogorgon314/homebrew-clang-format) - Homebrew clang-format (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -26,22 +25,22 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/kop](https://github.com/streamnative/kop) ([v2.9.3.19](https://github.com/streamnative/kop/releases/tag/v2.9.3.19), 5 days ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
-- [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) ([v3.1.0](https://github.com/apache/pulsar-client-cpp/releases/tag/v3.1.0), 6 days ago) - Apache Pulsar C&#43;&#43; client library
+- [streamnative/kop](https://github.com/streamnative/kop) ([v2.9.3.19](https://github.com/streamnative/kop/releases/tag/v2.9.3.19), 6 days ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
+- [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) ([v3.1.0](https://github.com/apache/pulsar-client-cpp/releases/tag/v3.1.0), 1 week ago) - Apache Pulsar C&#43;&#43; client library
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.10.2](https://github.com/apache/pulsar/releases/tag/v2.10.2), 1 month ago) - Apache Pulsar - distributed pub-sub messaging system
 - [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) ([kernel_5.15.59_2022_08_07_3](https://github.com/Demogorgon314/OpenWrt-AutoBuild/releases/tag/kernel_5.15.59_2022_08_07_3), 4 months ago) - Custom version of OpenWrt
 - [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) ([v0.0.16](https://github.com/streamnative/apache-pulsar-grafana-dashboard/releases/tag/v0.0.16), 2 years ago) - Apache Pulsar Grafana Dashboard
 
 #### 🔨 My recent Pull Requests
 
-- [[improve][doc] Add note for using non-persistent topic in TableView](https://github.com/apache/pulsar/pull/18901) on [apache/pulsar](https://github.com/apache/pulsar) (5 days ago)
-- [[improve][broker] Write the child ownership to `ServiceUnitStateChannel` instead of ZK when handling bundle split](https://github.com/apache/pulsar/pull/18858) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
+- [[improve][doc] Add note for using non-persistent topic in TableView](https://github.com/apache/pulsar/pull/18901) on [apache/pulsar](https://github.com/apache/pulsar) (6 days ago)
+- [[improve][broker] PIP-192: Write the child ownership to `ServiceUnitStateChannel` instead of ZK when handling bundle split](https://github.com/apache/pulsar/pull/18858) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [[improve][broker] Write the child ownership to `ServiceUnitStateChannel` instead of ZK when handling bundle split](https://github.com/Demogorgon314/pulsar/pull/8) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (1 week ago)
 - [[improve][broker] PIP-192: Implement broker registry for new load manager](https://github.com/apache/pulsar/pull/18810) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [[improve][broker] PIP-192: Implement broker registry](https://github.com/Demogorgon314/pulsar/pull/7) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (1 week ago)
 - [[improve][broker] PIP-192: Implement load data store](https://github.com/apache/pulsar/pull/18777) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [[improve][broker] PIP-192: Implement load data store](https://github.com/Demogorgon314/pulsar/pull/6) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (1 week ago)
-- [[flaky-test] Fix MultiLedgerTest.testListOffsetForEmptyRolloverLedger flaky test](https://github.com/streamnative/kop/pull/1609) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
+- [[flaky-test] Fix MultiLedgerTest.testListOffsetForEmptyRolloverLedger flaky test](https://github.com/streamnative/kop/pull/1609) on [streamnative/kop](https://github.com/streamnative/kop) (2 weeks ago)
 - [Fix flaky-test: PendingTopicFuturesTest#testExceptionalComplete](https://github.com/streamnative/kop/pull/1605) on [streamnative/kop](https://github.com/streamnative/kop) (2 weeks ago)
 - [[feature] Support message publish rate limiting](https://github.com/streamnative/kop/pull/1589) on [streamnative/kop](https://github.com/streamnative/kop) (3 weeks ago)
 
