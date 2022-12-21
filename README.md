@@ -33,14 +33,14 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[improve][broker] PIP-192: Implement broker version filter for new load manager ](https://github.com/Demogorgon314/pulsar/pull/9) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (1 day ago)
-- [[branch-2.9.3][fix] Recycle fetchRequest records when resultFuture already complete](https://github.com/streamnative/kop/pull/1635) on [streamnative/kop](https://github.com/streamnative/kop) (1 day ago)
+- [[improve][broker] PIP-192: Implement broker version filter for new load manager ](https://github.com/Demogorgon314/pulsar/pull/9) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (2 days ago)
+- [[branch-2.9.3][fix] Recycle fetchRequest records when resultFuture already complete](https://github.com/streamnative/kop/pull/1635) on [streamnative/kop](https://github.com/streamnative/kop) (2 days ago)
 - [[improve][doc] Add note for using non-persistent topic in TableView](https://github.com/apache/pulsar/pull/18901) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [[improve][broker] PIP-192: Write the child ownership to `ServiceUnitStateChannel` instead of ZK when handling bundle split](https://github.com/apache/pulsar/pull/18858) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [[improve][broker] Write the child ownership to `ServiceUnitStateChannel` instead of ZK when handling bundle split](https://github.com/Demogorgon314/pulsar/pull/8) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (1 week ago)
 - [[improve][broker] PIP-192: Implement broker registry for new load manager](https://github.com/apache/pulsar/pull/18810) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
-- [[improve][broker] PIP-192: Implement broker registry](https://github.com/Demogorgon314/pulsar/pull/7) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (1 week ago)
-- [[improve][broker] PIP-192: Implement load data store](https://github.com/apache/pulsar/pull/18777) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
+- [[improve][broker] PIP-192: Implement broker registry](https://github.com/Demogorgon314/pulsar/pull/7) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (2 weeks ago)
+- [[improve][broker] PIP-192: Implement load data store](https://github.com/apache/pulsar/pull/18777) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
 - [[improve][broker] PIP-192: Implement load data store](https://github.com/Demogorgon314/pulsar/pull/6) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (2 weeks ago)
 - [[flaky-test] Fix MultiLedgerTest.testListOffsetForEmptyRolloverLedger flaky test](https://github.com/streamnative/kop/pull/1609) on [streamnative/kop](https://github.com/streamnative/kop) (2 weeks ago)
 
@@ -62,11 +62,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [AbdeenM](https://github.com/AbdeenM)
 - [freshtang](https://github.com/freshtang)
 - [HardwayLinka](https://github.com/HardwayLinka)
 - [yaalsn](https://github.com/yaalsn)
 - [HQebupt](https://github.com/HQebupt)
-- [Radiancebobo](https://github.com/Radiancebobo)
 
 #### 💬 Feedback
 
