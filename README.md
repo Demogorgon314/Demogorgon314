@@ -25,17 +25,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/kop](https://github.com/streamnative/kop) ([v2.9.3.0-rc-daily](https://github.com/streamnative/kop/releases/tag/v2.9.3.0-rc-daily), 1 day ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
-- [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) ([v3.1.0](https://github.com/apache/pulsar-client-cpp/releases/tag/v3.1.0), 1 week ago) - Apache Pulsar C&#43;&#43; client library
+- [streamnative/kop](https://github.com/streamnative/kop) ([v2.9.3.0-rc-daily](https://github.com/streamnative/kop/releases/tag/v2.9.3.0-rc-daily), 2 days ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
+- [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) ([v3.1.0](https://github.com/apache/pulsar-client-cpp/releases/tag/v3.1.0), 2 weeks ago) - Apache Pulsar C&#43;&#43; client library
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.10.2](https://github.com/apache/pulsar/releases/tag/v2.10.2), 1 month ago) - Apache Pulsar - distributed pub-sub messaging system
 - [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) ([kernel_5.15.59_2022_08_07_3](https://github.com/Demogorgon314/OpenWrt-AutoBuild/releases/tag/kernel_5.15.59_2022_08_07_3), 4 months ago) - Custom version of OpenWrt
 - [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) ([v0.0.16](https://github.com/streamnative/apache-pulsar-grafana-dashboard/releases/tag/v0.0.16), 2 years ago) - Apache Pulsar Grafana Dashboard
 
 #### 🔨 My recent Pull Requests
 
-- [[improve][broker] PIP-192: Implement broker version filter for new load manager](https://github.com/apache/pulsar/pull/19023) on [apache/pulsar](https://github.com/apache/pulsar) (3 days ago)
-- [[improve][broker] PIP-192: Implement broker version filter for new load manager ](https://github.com/Demogorgon314/pulsar/pull/9) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (6 days ago)
-- [[branch-2.9.3][fix] Recycle fetchRequest records when resultFuture already complete](https://github.com/streamnative/kop/pull/1635) on [streamnative/kop](https://github.com/streamnative/kop) (6 days ago)
+- [[improve][broker] PIP-192: Implement broker version filter for new load manager](https://github.com/apache/pulsar/pull/19023) on [apache/pulsar](https://github.com/apache/pulsar) (4 days ago)
+- [[improve][broker] PIP-192: Implement broker version filter for new load manager ](https://github.com/Demogorgon314/pulsar/pull/9) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (1 week ago)
+- [[branch-2.9.3][fix] Recycle fetchRequest records when resultFuture already complete](https://github.com/streamnative/kop/pull/1635) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
 - [[improve][doc] Add note for using non-persistent topic in TableView](https://github.com/apache/pulsar/pull/18901) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [[improve][broker] PIP-192: Write the child ownership to `ServiceUnitStateChannel` instead of ZK when handling bundle split](https://github.com/apache/pulsar/pull/18858) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
 - [[improve][broker] Write the child ownership to `ServiceUnitStateChannel` instead of ZK when handling bundle split](https://github.com/Demogorgon314/pulsar/pull/8) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (2 weeks ago)
