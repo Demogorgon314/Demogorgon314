@@ -2,11 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [apache/pulsar-client-go](https://github.com/apache/pulsar-client-go) - Apache Pulsar Go Client Library (1 day ago)
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (3 weeks ago)
 - [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (3 weeks ago)
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) - Apache Pulsar C&#43;&#43; client library (2 months ago)
 - [apache/pulsar-client-python](https://github.com/apache/pulsar-client-python) - Apache Pulsar Python client library (2 months ago)
-- [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) - Custom version of OpenWrt (4 months ago)
+- [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) - Custom version of OpenWrt (5 months ago)
 - [openmessaging/benchmark](https://github.com/openmessaging/benchmark) - OpenMessaging Benchmark Framework (10 months ago)
 - [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) - Apache Pulsar Grafana Dashboard (10 months ago)
 
@@ -25,17 +26,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/kop](https://github.com/streamnative/kop) ([v2.10.2.0-rc-daily](https://github.com/streamnative/kop/releases/tag/v2.10.2.0-rc-daily), 1 day ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
+- [streamnative/kop](https://github.com/streamnative/kop) ([v2.9.3.0-rc-daily](https://github.com/streamnative/kop/releases/tag/v2.9.3.0-rc-daily), today) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 - [apache/pulsar-client-python](https://github.com/apache/pulsar-client-python) ([v3.0.0](https://github.com/apache/pulsar-client-python/releases/tag/v3.0.0), 1 week ago) - Apache Pulsar Python client library
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) ([v3.1.0](https://github.com/apache/pulsar-client-cpp/releases/tag/v3.1.0), 3 weeks ago) - Apache Pulsar C&#43;&#43; client library
-- [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) ([kernel_5.15.59_2022_08_07_3](https://github.com/Demogorgon314/OpenWrt-AutoBuild/releases/tag/kernel_5.15.59_2022_08_07_3), 4 months ago) - Custom version of OpenWrt
+- [apache/pulsar-client-go](https://github.com/apache/pulsar-client-go) ([v0.9.0](https://github.com/apache/pulsar-client-go/releases/tag/v0.9.0), 2 months ago) - Apache Pulsar Go Client Library
+- [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) ([kernel_5.15.59_2022_08_07_3](https://github.com/Demogorgon314/OpenWrt-AutoBuild/releases/tag/kernel_5.15.59_2022_08_07_3), 5 months ago) - Custom version of OpenWrt
 - [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) ([v0.0.16](https://github.com/streamnative/apache-pulsar-grafana-dashboard/releases/tag/v0.0.16), 2 years ago) - Apache Pulsar Grafana Dashboard
 
 #### 🔨 My recent Pull Requests
 
-- [Handle nil value message correctly in table-view](https://github.com/apache/pulsar-client-go/pull/930) on [apache/pulsar-client-go](https://github.com/apache/pulsar-client-go) (4 days ago)
-- [[improve][broker] PIP-192: Implement extensible load manager](https://github.com/apache/pulsar/pull/19102) on [apache/pulsar](https://github.com/apache/pulsar) (5 days ago)
-- [[improve][broker] PIP-192: Implement extensible load manager](https://github.com/Demogorgon314/pulsar/pull/10) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (5 days ago)
+- [Handle nil value message correctly in table-view](https://github.com/apache/pulsar-client-go/pull/930) on [apache/pulsar-client-go](https://github.com/apache/pulsar-client-go) (5 days ago)
+- [[improve][broker] PIP-192: Implement extensible load manager](https://github.com/apache/pulsar/pull/19102) on [apache/pulsar](https://github.com/apache/pulsar) (6 days ago)
+- [[improve][broker] PIP-192: Implement extensible load manager](https://github.com/Demogorgon314/pulsar/pull/10) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (6 days ago)
 - [[improve][broker] PIP-192: Implement broker version filter for new load manager](https://github.com/apache/pulsar/pull/19023) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [[improve][broker] PIP-192: Implement broker version filter for new load manager ](https://github.com/Demogorgon314/pulsar/pull/9) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (2 weeks ago)
 - [[branch-2.9.3][fix] Recycle fetchRequest records when resultFuture already complete](https://github.com/streamnative/kop/pull/1635) on [streamnative/kop](https://github.com/streamnative/kop) (2 weeks ago)
@@ -46,16 +48,16 @@
 
 #### ⭐ Recent Stars
 
-- [RobloxResearch/SIMDString](https://github.com/RobloxResearch/SIMDString) - Fast string implementation for graphics. (6 days ago)
+- [Releem/mysqlconfigurer](https://github.com/Releem/mysqlconfigurer) - Releem is a simple MySQL tuning tool to improve database performance and reduce servers costs. (1 day ago)
+- [RobloxResearch/SIMDString](https://github.com/RobloxResearch/SIMDString) - Fast string implementation for graphics. (1 week ago)
 - [streamnative/function-mesh](https://github.com/streamnative/function-mesh) - The serverless framework purpose-built for event streaming applications. (1 month ago)
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C# (1 month ago)
 - [apache/pulsar-client-node](https://github.com/apache/pulsar-client-node) - Apache Pulsar NodeJS Client (1 month ago)
 - [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share your VPN connection over hotspot or repeater! (root required) (2 months ago)
 - [strengthen/iTV](https://github.com/strengthen/iTV) - 更好用的直播源播放器 (2 months ago)
-- [JasonWei512/EnergyStarX](https://github.com/JasonWei512/EnergyStarX) - 🔋Improve your Windows device&#39;s battery life. A WinUI 3 GUI for EnergyStar. (3 months ago)
+- [JasonWei512/EnergyStarX](https://github.com/JasonWei512/EnergyStarX) - 🔋Improve your Windows device&#39;s battery life. A WinUI 3 GUI for imbushuo/EnergyStar. (3 months ago)
 - [apache/pulsar-client-python](https://github.com/apache/pulsar-client-python) - Apache Pulsar Python client library (3 months ago)
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) - Apache Pulsar C&#43;&#43; client library (3 months ago)
-- [dylwedma11748/JTegraNX](https://github.com/dylwedma11748/JTegraNX) - Another RCM payload injector written in Java and C&#43;&#43; (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
