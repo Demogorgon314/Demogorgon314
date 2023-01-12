@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/pulsar-site](https://github.com/apache/pulsar-site) - Apache Pulsar Site (2 days ago)
+- [apache/pulsar-site](https://github.com/apache/pulsar-site) - Apache Pulsar Site (3 days ago)
 - [apache/pulsar-client-go](https://github.com/apache/pulsar-client-go) - Apache Pulsar Go Client Library (1 week ago)
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (1 month ago)
 - [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (1 month ago)
@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/kop](https://github.com/streamnative/kop) ([v2.9.4.1](https://github.com/streamnative/kop/releases/tag/v2.9.4.1), 2 days ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
+- [streamnative/kop](https://github.com/streamnative/kop) ([v2.10.3.0-rc-daily](https://github.com/streamnative/kop/releases/tag/v2.10.3.0-rc-daily), today) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 - [apache/pulsar-client-python](https://github.com/apache/pulsar-client-python) ([v3.0.0](https://github.com/apache/pulsar-client-python/releases/tag/v3.0.0), 2 weeks ago) - Apache Pulsar Python client library
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) ([v3.1.0](https://github.com/apache/pulsar-client-cpp/releases/tag/v3.1.0), 1 month ago) - Apache Pulsar C&#43;&#43; client library
 - [apache/pulsar-client-go](https://github.com/apache/pulsar-client-go) ([v0.9.0](https://github.com/apache/pulsar-client-go/releases/tag/v0.9.0), 3 months ago) - Apache Pulsar Go Client Library
@@ -38,12 +38,12 @@
 
 - [[improve] Add note for using non-persistent topic in TableView](https://github.com/apache/pulsar-site/pull/358) on [apache/pulsar-site](https://github.com/apache/pulsar-site) (1 week ago)
 - [Handle nil value message correctly in table-view](https://github.com/apache/pulsar-client-go/pull/930) on [apache/pulsar-client-go](https://github.com/apache/pulsar-client-go) (1 week ago)
-- [[improve][broker] PIP-192: Implement extensible load manager](https://github.com/apache/pulsar/pull/19102) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
-- [[improve][broker] PIP-192: Implement extensible load manager](https://github.com/Demogorgon314/pulsar/pull/10) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (1 week ago)
-- [[improve][broker] PIP-192: Implement broker version filter for new load manager](https://github.com/apache/pulsar/pull/19023) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
+- [[improve][broker] PIP-192: Implement extensible load manager](https://github.com/apache/pulsar/pull/19102) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
+- [[improve][broker] PIP-192: Implement extensible load manager](https://github.com/Demogorgon314/pulsar/pull/10) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (2 weeks ago)
+- [[improve][broker] PIP-192: Implement broker version filter for new load manager](https://github.com/apache/pulsar/pull/19023) on [apache/pulsar](https://github.com/apache/pulsar) (3 weeks ago)
 - [[improve][broker] PIP-192: Implement broker version filter for new load manager ](https://github.com/Demogorgon314/pulsar/pull/9) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (3 weeks ago)
 - [[branch-2.9.3][fix] Recycle fetchRequest records when resultFuture already complete](https://github.com/streamnative/kop/pull/1635) on [streamnative/kop](https://github.com/streamnative/kop) (3 weeks ago)
-- [[improve][doc] Add note for using non-persistent topic in TableView](https://github.com/apache/pulsar/pull/18901) on [apache/pulsar](https://github.com/apache/pulsar) (4 weeks ago)
+- [[improve][doc] Add note for using non-persistent topic in TableView](https://github.com/apache/pulsar/pull/18901) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 - [[improve][broker] PIP-192: Write the child ownership to `ServiceUnitStateChannel` instead of ZK when handling bundle split](https://github.com/apache/pulsar/pull/18858) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 - [[improve][broker] Write the child ownership to `ServiceUnitStateChannel` instead of ZK when handling bundle split](https://github.com/Demogorgon314/pulsar/pull/8) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (1 month ago)
 
