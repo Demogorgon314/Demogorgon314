@@ -27,8 +27,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/kop](https://github.com/streamnative/kop) ([v2.9.4.0-rc-daily](https://github.com/streamnative/kop/releases/tag/v2.9.4.0-rc-daily), 1 day ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
-- [apache/pulsar](https://github.com/apache/pulsar) ([v2.11.0](https://github.com/apache/pulsar/releases/tag/v2.11.0), 6 days ago) - Apache Pulsar - distributed pub-sub messaging system
+- [streamnative/kop](https://github.com/streamnative/kop) ([v2.10.3.0-rc-daily](https://github.com/streamnative/kop/releases/tag/v2.10.3.0-rc-daily), today) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
+- [apache/pulsar](https://github.com/apache/pulsar) ([v2.11.0](https://github.com/apache/pulsar/releases/tag/v2.11.0), 1 week ago) - Apache Pulsar - distributed pub-sub messaging system
 - [apache/pulsar-client-python](https://github.com/apache/pulsar-client-python) ([v3.0.0](https://github.com/apache/pulsar-client-python/releases/tag/v3.0.0), 3 weeks ago) - Apache Pulsar Python client library
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) ([v3.1.0](https://github.com/apache/pulsar-client-cpp/releases/tag/v3.1.0), 1 month ago) - Apache Pulsar C&#43;&#43; client library
 - [apache/pulsar-client-go](https://github.com/apache/pulsar-client-go) ([v0.9.0](https://github.com/apache/pulsar-client-go/releases/tag/v0.9.0), 3 months ago) - Apache Pulsar Go Client Library
@@ -38,7 +38,7 @@
 #### 🔨 My recent Pull Requests
 
 - [[improve] Add note for using non-persistent topic in TableView](https://github.com/apache/pulsar-site/pull/358) on [apache/pulsar-site](https://github.com/apache/pulsar-site) (2 weeks ago)
-- [Handle nil value message correctly in table-view](https://github.com/apache/pulsar-client-go/pull/930) on [apache/pulsar-client-go](https://github.com/apache/pulsar-client-go) (2 weeks ago)
+- [Handle nil value message correctly in table-view](https://github.com/apache/pulsar-client-go/pull/930) on [apache/pulsar-client-go](https://github.com/apache/pulsar-client-go) (3 weeks ago)
 - [[improve][broker] PIP-192: Implement extensible load manager](https://github.com/apache/pulsar/pull/19102) on [apache/pulsar](https://github.com/apache/pulsar) (3 weeks ago)
 - [[improve][broker] PIP-192: Implement extensible load manager](https://github.com/Demogorgon314/pulsar/pull/10) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (3 weeks ago)
 - [[improve][broker] PIP-192: Implement broker version filter for new load manager](https://github.com/apache/pulsar/pull/19023) on [apache/pulsar](https://github.com/apache/pulsar) (4 weeks ago)
@@ -50,7 +50,7 @@
 
 #### ⭐ Recent Stars
 
-- [test01wrk/MIUIPerfSaver](https://github.com/test01wrk/MIUIPerfSaver) - Remove MIUI&#39;s performance limit, run app at maximum FPS (3 days ago)
+- [test01wrk/MIUIPerfSaver](https://github.com/test01wrk/MIUIPerfSaver) - Remove MIUI&#39;s performance limit, run app at maximum FPS (4 days ago)
 - [Releem/mysqlconfigurer](https://github.com/Releem/mysqlconfigurer) - Releem is a simple MySQL tuning tool to improve database performance and reduce servers costs. (2 weeks ago)
 - [RobloxResearch/SIMDString](https://github.com/RobloxResearch/SIMDString) - Fast string implementation for graphics. (3 weeks ago)
 - [streamnative/function-mesh](https://github.com/streamnative/function-mesh) - The serverless framework purpose-built for event streaming applications. (2 months ago)
