@@ -27,10 +27,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/kop](https://github.com/streamnative/kop) ([v2.10.3.0-rc-daily](https://github.com/streamnative/kop/releases/tag/v2.10.3.0-rc-daily), 1 day ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
+- [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) ([v3.1.1](https://github.com/apache/pulsar-client-cpp/releases/tag/v3.1.1), 1 day ago) - Apache Pulsar C&#43;&#43; client library
+- [streamnative/kop](https://github.com/streamnative/kop) ([v2.10.3.0-rc-daily](https://github.com/streamnative/kop/releases/tag/v2.10.3.0-rc-daily), 2 days ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.11.0](https://github.com/apache/pulsar/releases/tag/v2.11.0), 2 weeks ago) - Apache Pulsar - distributed pub-sub messaging system
 - [apache/pulsar-client-python](https://github.com/apache/pulsar-client-python) ([v3.0.0](https://github.com/apache/pulsar-client-python/releases/tag/v3.0.0), 1 month ago) - Apache Pulsar Python client library
-- [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) ([v3.1.0](https://github.com/apache/pulsar-client-cpp/releases/tag/v3.1.0), 1 month ago) - Apache Pulsar C&#43;&#43; client library
 - [apache/pulsar-client-go](https://github.com/apache/pulsar-client-go) ([v0.9.0](https://github.com/apache/pulsar-client-go/releases/tag/v0.9.0), 3 months ago) - Apache Pulsar Go Client Library
 - [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) ([kernel_5.15.59_2022_08_07_3](https://github.com/Demogorgon314/OpenWrt-AutoBuild/releases/tag/kernel_5.15.59_2022_08_07_3), 5 months ago) - Custom version of OpenWrt
 - [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) ([v0.0.16](https://github.com/streamnative/apache-pulsar-grafana-dashboard/releases/tag/v0.0.16), 2 years ago) - Apache Pulsar Grafana Dashboard
@@ -39,8 +39,8 @@
 
 - [[improve] Add note for using non-persistent topic in TableView](https://github.com/apache/pulsar-site/pull/358) on [apache/pulsar-site](https://github.com/apache/pulsar-site) (3 weeks ago)
 - [Handle nil value message correctly in table-view](https://github.com/apache/pulsar-client-go/pull/930) on [apache/pulsar-client-go](https://github.com/apache/pulsar-client-go) (4 weeks ago)
-- [[improve][broker] PIP-192: Implement extensible load manager](https://github.com/apache/pulsar/pull/19102) on [apache/pulsar](https://github.com/apache/pulsar) (4 weeks ago)
-- [[improve][broker] PIP-192: Implement extensible load manager](https://github.com/Demogorgon314/pulsar/pull/10) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (4 weeks ago)
+- [[improve][broker] PIP-192: Implement extensible load manager](https://github.com/apache/pulsar/pull/19102) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
+- [[improve][broker] PIP-192: Implement extensible load manager](https://github.com/Demogorgon314/pulsar/pull/10) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (1 month ago)
 - [[improve][broker] PIP-192: Implement broker version filter for new load manager](https://github.com/apache/pulsar/pull/19023) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 - [[improve][broker] PIP-192: Implement broker version filter for new load manager ](https://github.com/Demogorgon314/pulsar/pull/9) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (1 month ago)
 - [[branch-2.9.3][fix] Recycle fetchRequest records when resultFuture already complete](https://github.com/streamnative/kop/pull/1635) on [streamnative/kop](https://github.com/streamnative/kop) (1 month ago)
