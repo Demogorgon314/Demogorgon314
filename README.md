@@ -27,8 +27,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) ([v3.1.1](https://github.com/apache/pulsar-client-cpp/releases/tag/v3.1.1), 1 day ago) - Apache Pulsar C&#43;&#43; client library
-- [streamnative/kop](https://github.com/streamnative/kop) ([v2.10.3.0-rc-daily](https://github.com/streamnative/kop/releases/tag/v2.10.3.0-rc-daily), 2 days ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
+- [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) ([v3.1.1](https://github.com/apache/pulsar-client-cpp/releases/tag/v3.1.1), 2 days ago) - Apache Pulsar C&#43;&#43; client library
+- [streamnative/kop](https://github.com/streamnative/kop) ([v2.10.3.0-rc-daily](https://github.com/streamnative/kop/releases/tag/v2.10.3.0-rc-daily), 3 days ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.11.0](https://github.com/apache/pulsar/releases/tag/v2.11.0), 2 weeks ago) - Apache Pulsar - distributed pub-sub messaging system
 - [apache/pulsar-client-python](https://github.com/apache/pulsar-client-python) ([v3.0.0](https://github.com/apache/pulsar-client-python/releases/tag/v3.0.0), 1 month ago) - Apache Pulsar Python client library
 - [apache/pulsar-client-go](https://github.com/apache/pulsar-client-go) ([v0.9.0](https://github.com/apache/pulsar-client-go/releases/tag/v0.9.0), 3 months ago) - Apache Pulsar Go Client Library
@@ -38,7 +38,7 @@
 #### 🔨 My recent Pull Requests
 
 - [[improve] Add note for using non-persistent topic in TableView](https://github.com/apache/pulsar-site/pull/358) on [apache/pulsar-site](https://github.com/apache/pulsar-site) (3 weeks ago)
-- [Handle nil value message correctly in table-view](https://github.com/apache/pulsar-client-go/pull/930) on [apache/pulsar-client-go](https://github.com/apache/pulsar-client-go) (4 weeks ago)
+- [Handle nil value message correctly in table-view](https://github.com/apache/pulsar-client-go/pull/930) on [apache/pulsar-client-go](https://github.com/apache/pulsar-client-go) (1 month ago)
 - [[improve][broker] PIP-192: Implement extensible load manager](https://github.com/apache/pulsar/pull/19102) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 - [[improve][broker] PIP-192: Implement extensible load manager](https://github.com/Demogorgon314/pulsar/pull/10) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (1 month ago)
 - [[improve][broker] PIP-192: Implement broker version filter for new load manager](https://github.com/apache/pulsar/pull/19023) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
@@ -56,7 +56,7 @@
 - [streamnative/function-mesh](https://github.com/streamnative/function-mesh) - The serverless framework purpose-built for event streaming applications. (2 months ago)
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C# (2 months ago)
 - [apache/pulsar-client-node](https://github.com/apache/pulsar-client-node) - Apache Pulsar NodeJS Client (2 months ago)
-- [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share your VPN connection over hotspot or repeater! (root required) (2 months ago)
+- [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share your VPN connection over hotspot or repeater! (root required) (3 months ago)
 - [strengthen/iTV](https://github.com/strengthen/iTV) - 更好用的直播源播放器 (3 months ago)
 - [JasonWei512/EnergyStarX](https://github.com/JasonWei512/EnergyStarX) - 🔋Improve your Windows device&#39;s battery life. A WinUI 3 GUI for imbushuo/EnergyStar. (4 months ago)
 - [apache/pulsar-client-python](https://github.com/apache/pulsar-client-python) - Apache Pulsar Python client library (4 months ago)
