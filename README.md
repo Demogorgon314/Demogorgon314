@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [streamnative/kop](https://github.com/streamnative/kop) ([v2.10.3.3](https://github.com/streamnative/kop/releases/tag/v2.10.3.3), 2 weeks ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) ([v3.1.1](https://github.com/apache/pulsar-client-cpp/releases/tag/v3.1.1), 2 weeks ago) - Apache Pulsar C&#43;&#43; client library
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.11.0](https://github.com/apache/pulsar/releases/tag/v2.11.0), 1 month ago) - Apache Pulsar - distributed pub-sub messaging system
 - [apache/pulsar-client-python](https://github.com/apache/pulsar-client-python) ([v3.0.0](https://github.com/apache/pulsar-client-python/releases/tag/v3.0.0), 1 month ago) - Apache Pulsar Python client library
@@ -37,8 +38,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add multi-tenant support for OAuth authentication](https://github.com/streamnative/kop/pull/1728) on [streamnative/kop](https://github.com/streamnative/kop) (1 day ago)
-- [[improve][broker] PIP-192 Added namespace unload scheduler](https://github.com/apache/pulsar/pull/19477) on [apache/pulsar](https://github.com/apache/pulsar) (5 days ago)
+- [Add multi-tenant support for OAuth authentication](https://github.com/streamnative/kop/pull/1728) on [streamnative/kop](https://github.com/streamnative/kop) (2 days ago)
+- [[improve][broker] PIP-192 Added namespace unload scheduler](https://github.com/apache/pulsar/pull/19477) on [apache/pulsar](https://github.com/apache/pulsar) (6 days ago)
 - [[fix][test] Fix flaky test BrokerRegistryTest.testRegisterAndLookup](https://github.com/apache/pulsar/pull/19402) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [Fix Wireshark build](https://github.com/apache/pulsar-client-cpp/pull/182) on [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) (2 weeks ago)
 - [[improve] Add note for using non-persistent topic in TableView](https://github.com/apache/pulsar-site/pull/358) on [apache/pulsar-site](https://github.com/apache/pulsar-site) (1 month ago)
@@ -50,12 +51,12 @@
 
 #### ⭐ Recent Stars
 
-- [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb (1 day ago)
+- [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb (2 days ago)
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system. (1 week ago)
-- [test01wrk/MIUIPerfSaver](https://github.com/test01wrk/MIUIPerfSaver) - Remove MIUI&#39;s performance limit, run app at maximum FPS (4 weeks ago)
+- [test01wrk/MIUIPerfSaver](https://github.com/test01wrk/MIUIPerfSaver) - Remove MIUI&#39;s performance limit, run app at maximum FPS (1 month ago)
 - [Releem/mysqlconfigurer](https://github.com/Releem/mysqlconfigurer) - Releem is a simple MySQL tuning tool to improve database performance and reduce servers costs. (1 month ago)
 - [RobloxResearch/SIMDString](https://github.com/RobloxResearch/SIMDString) - Fast string implementation for graphics. (1 month ago)
-- [streamnative/function-mesh](https://github.com/streamnative/function-mesh) - The serverless framework purpose-built for event streaming applications. (2 months ago)
+- [streamnative/function-mesh](https://github.com/streamnative/function-mesh) - The serverless framework purpose-built for event streaming applications. (3 months ago)
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C# (3 months ago)
 - [apache/pulsar-client-node](https://github.com/apache/pulsar-client-node) - Apache Pulsar NodeJS Client (3 months ago)
 - [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share your VPN connection over hotspot or repeater! (root required) (3 months ago)
