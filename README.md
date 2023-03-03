@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (1 week ago)
+- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (1 day ago)
 - [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (2 weeks ago)
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) - Apache Pulsar C&#43;&#43; client library (1 month ago)
 - [Demogorgon314/Pulsar-Wireshark-Dissector](https://github.com/Demogorgon314/Pulsar-Wireshark-Dissector) - Pulsar Wireshark Dissector (1 month ago)
@@ -28,7 +28,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/kop](https://github.com/streamnative/kop) ([v2.11.0.1](https://github.com/streamnative/kop/releases/tag/v2.11.0.1), 6 days ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) ([v3.1.2](https://github.com/apache/pulsar-client-cpp/releases/tag/v3.1.2), 2 weeks ago) - Apache Pulsar C&#43;&#43; client library
 - [streamnative/apache-pulsar-grafana-dashboard](https://github.com/streamnative/apache-pulsar-grafana-dashboard) ([v0.0.18](https://github.com/streamnative/apache-pulsar-grafana-dashboard/releases/tag/v0.0.18), 2 weeks ago) - Apache Pulsar Grafana Dashboard
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.11.0](https://github.com/apache/pulsar/releases/tag/v2.11.0), 1 month ago) - Apache Pulsar - distributed pub-sub messaging system
@@ -51,8 +50,8 @@
 
 #### ⭐ Recent Stars
 
-- [datasone/grub-mod-setup_var](https://github.com/datasone/grub-mod-setup_var) - A modified grub allowing tweaking hidden BIOS settings. (1 day ago)
-- [LongSoft/UEFITool](https://github.com/LongSoft/UEFITool) - UEFI firmware image viewer and editor (1 day ago)
+- [datasone/grub-mod-setup_var](https://github.com/datasone/grub-mod-setup_var) - A modified grub allowing tweaking hidden BIOS settings. (2 days ago)
+- [LongSoft/UEFITool](https://github.com/LongSoft/UEFITool) - UEFI firmware image viewer and editor (2 days ago)
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb (2 weeks ago)
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system. (3 weeks ago)
 - [test01wrk/MIUIPerfSaver](https://github.com/test01wrk/MIUIPerfSaver) - Remove MIUI&#39;s performance limit, run app at maximum FPS (1 month ago)
