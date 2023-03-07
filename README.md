@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (4 days ago)
+- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (5 days ago)
 - [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (2 weeks ago)
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) - Apache Pulsar C&#43;&#43; client library (1 month ago)
 - [Demogorgon314/Pulsar-Wireshark-Dissector](https://github.com/Demogorgon314/Pulsar-Wireshark-Dissector) - Pulsar Wireshark Dissector (1 month ago)
@@ -27,7 +27,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/kop](https://github.com/streamnative/kop) ([v2.9.4.4](https://github.com/streamnative/kop/releases/tag/v2.9.4.4), 4 days ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) ([v3.1.2](https://github.com/apache/pulsar-client-cpp/releases/tag/v3.1.2), 2 weeks ago) - Apache Pulsar C&#43;&#43; client library
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.11.0](https://github.com/apache/pulsar/releases/tag/v2.11.0), 1 month ago) - Apache Pulsar - distributed pub-sub messaging system
 - [apache/pulsar-client-python](https://github.com/apache/pulsar-client-python) ([v3.0.0](https://github.com/apache/pulsar-client-python/releases/tag/v3.0.0), 2 months ago) - Apache Pulsar Python client library
@@ -49,8 +48,8 @@
 
 #### ⭐ Recent Stars
 
-- [datasone/grub-mod-setup_var](https://github.com/datasone/grub-mod-setup_var) - A modified grub allowing tweaking hidden BIOS settings. (5 days ago)
-- [LongSoft/UEFITool](https://github.com/LongSoft/UEFITool) - UEFI firmware image viewer and editor (5 days ago)
+- [datasone/grub-mod-setup_var](https://github.com/datasone/grub-mod-setup_var) - A modified grub allowing tweaking hidden BIOS settings. (6 days ago)
+- [LongSoft/UEFITool](https://github.com/LongSoft/UEFITool) - UEFI firmware image viewer and editor (6 days ago)
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb (3 weeks ago)
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system. (1 month ago)
 - [test01wrk/MIUIPerfSaver](https://github.com/test01wrk/MIUIPerfSaver) - Remove MIUI&#39;s performance limit, run app at maximum FPS (1 month ago)
@@ -58,7 +57,7 @@
 - [RobloxResearch/SIMDString](https://github.com/RobloxResearch/SIMDString) - Fast string implementation for graphics. (2 months ago)
 - [streamnative/function-mesh](https://github.com/streamnative/function-mesh) - The serverless framework purpose-built for event streaming applications. (3 months ago)
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C# (3 months ago)
-- [apache/pulsar-client-node](https://github.com/apache/pulsar-client-node) - Apache Pulsar NodeJS Client (3 months ago)
+- [apache/pulsar-client-node](https://github.com/apache/pulsar-client-node) - Apache Pulsar NodeJS Client (4 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
