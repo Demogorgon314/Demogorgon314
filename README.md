@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (3 days ago)
-- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (3 days ago)
+- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (4 days ago)
+- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (4 days ago)
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) - Apache Pulsar C&#43;&#43; client library (1 month ago)
 - [Demogorgon314/Pulsar-Wireshark-Dissector](https://github.com/Demogorgon314/Pulsar-Wireshark-Dissector) - Pulsar Wireshark Dissector (1 month ago)
 - [apache/pulsar-site](https://github.com/apache/pulsar-site) - Apache Pulsar Site (2 months ago)
@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/kop](https://github.com/streamnative/kop) ([v2.11.0.2](https://github.com/streamnative/kop/releases/tag/v2.11.0.2), 3 days ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
+- [streamnative/kop](https://github.com/streamnative/kop) ([v2.11.0.3](https://github.com/streamnative/kop/releases/tag/v2.11.0.3), 1 day ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) ([v3.1.2](https://github.com/apache/pulsar-client-cpp/releases/tag/v3.1.2), 3 weeks ago) - Apache Pulsar C&#43;&#43; client library
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.11.0](https://github.com/apache/pulsar/releases/tag/v2.11.0), 1 month ago) - Apache Pulsar - distributed pub-sub messaging system
 - [apache/pulsar-client-python](https://github.com/apache/pulsar-client-python) ([v3.0.0](https://github.com/apache/pulsar-client-python/releases/tag/v3.0.0), 2 months ago) - Apache Pulsar Python client library
@@ -36,7 +36,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[improve][broker] PIP-192: Add metrics for unload operation](https://github.com/apache/pulsar/pull/19749) on [apache/pulsar](https://github.com/apache/pulsar) (2 days ago)
+- [[improve][broker] PIP-192: Make split admin API functional](https://github.com/apache/pulsar/pull/19773) on [apache/pulsar](https://github.com/apache/pulsar) (1 day ago)
+- [[improve][broker] PIP-192: Add metrics for unload operation](https://github.com/apache/pulsar/pull/19749) on [apache/pulsar](https://github.com/apache/pulsar) (3 days ago)
 - [[improve][broker] PIP-192:  Add large topic count filter](https://github.com/apache/pulsar/pull/19613) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
 - [Demogorgon314/pip 192 support broker isolation policy](https://github.com/Demogorgon314/pulsar/pull/12) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (2 weeks ago)
 - [[improve][broker] PIP-192: Support broker isolation policy](https://github.com/apache/pulsar/pull/19592) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
@@ -44,8 +45,7 @@
 - [[improve][broker] PIP-192: Make unload and transfer admin API functional](https://github.com/Demogorgon314/pulsar/pull/11) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (3 weeks ago)
 - [[refactor][admin] Refactor namespace bundle transfer admin api](https://github.com/apache/pulsar/pull/19525) on [apache/pulsar](https://github.com/apache/pulsar) (3 weeks ago)
 - [Add multi-tenant support for OAuth authentication](https://github.com/streamnative/kop/pull/1728) on [streamnative/kop](https://github.com/streamnative/kop) (3 weeks ago)
-- [[improve][broker] PIP-192 Added namespace unload scheduler](https://github.com/apache/pulsar/pull/19477) on [apache/pulsar](https://github.com/apache/pulsar) (4 weeks ago)
-- [[fix][test] Fix flaky test BrokerRegistryTest.testRegisterAndLookup](https://github.com/apache/pulsar/pull/19402) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
+- [[improve][broker] PIP-192 Added namespace unload scheduler](https://github.com/apache/pulsar/pull/19477) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 
 #### ⭐ Recent Stars
 
