@@ -26,7 +26,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/kop](https://github.com/streamnative/kop) ([v2.10.4.1](https://github.com/streamnative/kop/releases/tag/v2.10.4.1), today) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
+- [streamnative/kop](https://github.com/streamnative/kop) ([v2.10.4.1](https://github.com/streamnative/kop/releases/tag/v2.10.4.1), 1 day ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.9.5](https://github.com/apache/pulsar/releases/tag/v2.9.5), 1 week ago) - Apache Pulsar - distributed pub-sub messaging system
 - [apache/pulsar-client-go](https://github.com/apache/pulsar-client-go) ([v0.10.0](https://github.com/apache/pulsar-client-go/releases/tag/v0.10.0), 3 weeks ago) - Apache Pulsar Go Client Library
 - [apache/pulsar-client-python](https://github.com/apache/pulsar-client-python) ([v3.1.0](https://github.com/apache/pulsar-client-python/releases/tag/v3.1.0), 1 month ago) - Apache Pulsar Python client library
@@ -35,29 +35,29 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[improve] Enable transaction and schema registry on docker compose](https://github.com/streamnative/kop/pull/1809) on [streamnative/kop](https://github.com/streamnative/kop) (3 days ago)
+- [[improve] Enable transaction and schema registry on docker compose](https://github.com/streamnative/kop/pull/1809) on [streamnative/kop](https://github.com/streamnative/kop) (4 days ago)
 - [[improve][test] Add integration test for ExtensibleLoadManager](https://github.com/apache/pulsar/pull/20138) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [[improve][test] Add integration test for new load manager](https://github.com/Demogorgon314/pulsar/pull/13) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (1 week ago)
 - [[improve][broker] PIP-192: Redirect the request to current load manager](https://github.com/apache/pulsar/pull/20058) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
-- [[test] Add kafka admin api unit test](https://github.com/streamnative/kop/pull/1793) on [streamnative/kop](https://github.com/streamnative/kop) (2 weeks ago)
+- [[test] Add kafka admin api unit test](https://github.com/streamnative/kop/pull/1793) on [streamnative/kop](https://github.com/streamnative/kop) (3 weeks ago)
 - [[improve][broker] PIP-192: Update the lookup data path to support deploy and rollback](https://github.com/apache/pulsar/pull/19999) on [apache/pulsar](https://github.com/apache/pulsar) (3 weeks ago)
-- [[improve][broker] PIP-192: Filter the transfer dest broker](https://github.com/apache/pulsar/pull/19958) on [apache/pulsar](https://github.com/apache/pulsar) (4 weeks ago)
+- [[improve][broker] PIP-192: Filter the transfer dest broker](https://github.com/apache/pulsar/pull/19958) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 - [[improve] Add message.max.bytes for describe broker config](https://github.com/streamnative/kop/pull/1776) on [streamnative/kop](https://github.com/streamnative/kop) (1 month ago)
 - [[improve][broker] PIP-192: Support delete namespace bundle admin API](https://github.com/apache/pulsar/pull/19851) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 - [[improve][broker] PIP-192: Make split admin API functional](https://github.com/apache/pulsar/pull/19773) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS) - An open-source tool-augmented conversational language model from Fudan University (6 days ago)
-- [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. (1 week ago)
+- [streamnative/oxia](https://github.com/streamnative/oxia) - Oxia - Metadata store and coordination system (1 day ago)
+- [OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS) - An open-source tool-augmented conversational language model from Fudan University (1 week ago)
+- [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. (2 weeks ago)
 - [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (2 weeks ago)
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (2 weeks ago)
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (3 weeks ago)
 - [yetone/openai-translator](https://github.com/yetone/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API. (1 month ago)
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab: (1 month ago)
 - [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型 (1 month ago)
 - [datasone/grub-mod-setup_var](https://github.com/datasone/grub-mod-setup_var) - A modified grub allowing tweaking hidden BIOS settings. (1 month ago)
 - [LongSoft/UEFITool](https://github.com/LongSoft/UEFITool) - UEFI firmware image viewer and editor (1 month ago)
-- [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
