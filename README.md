@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (2 days ago)
-- [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) - DataStax - Starlight for Kafka (2 days ago)
+- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (3 days ago)
+- [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) - DataStax - Starlight for Kafka (3 days ago)
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (1 week ago)
 - [Demogorgon314/SpringBootKStreamDemo](https://github.com/Demogorgon314/SpringBootKStreamDemo) -  (1 month ago)
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) - Apache Pulsar C&#43;&#43; client library (4 months ago)
@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [streamnative/kop](https://github.com/streamnative/kop) ([v2.11.1.2-arrowstreet](https://github.com/streamnative/kop/releases/tag/v2.11.1.2-arrowstreet), 2 days ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 - [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) ([v2.10.3.9](https://github.com/datastax/starlight-for-kafka/releases/tag/v2.10.3.9), 2 weeks ago) - DataStax - Starlight for Kafka
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) ([v3.2.0](https://github.com/apache/pulsar-client-cpp/releases/tag/v3.2.0), 2 weeks ago) - Apache Pulsar C&#43;&#43; client library
 - [apache/pulsar](https://github.com/apache/pulsar) ([v3.0.0](https://github.com/apache/pulsar/releases/tag/v3.0.0), 1 month ago) - Apache Pulsar - distributed pub-sub messaging system
@@ -37,14 +38,14 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[improve] Get size from byteBuf earlier to prevent unnecessary retention](https://github.com/streamnative/kop/pull/1878) on [streamnative/kop](https://github.com/streamnative/kop) (2 days ago)
-- [[cherry-pick][back-port] Make TxnTransitMetadata.topicPartitions immutable](https://github.com/datastax/starlight-for-kafka/pull/89) on [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) (2 days ago)
-- [[improvement] hide scary InterruptedException in KopEventManager during broker shutdown](https://github.com/streamnative/kop/pull/1874) on [streamnative/kop](https://github.com/streamnative/kop) (3 days ago)
-- [[improvement] Use ByteBuf for Request serialization](https://github.com/streamnative/kop/pull/1871) on [streamnative/kop](https://github.com/streamnative/kop) (3 days ago)
-- [[bugfix][transactions] Make TxnTransitMetadata.topicPartitions immutable](https://github.com/streamnative/kop/pull/1869) on [streamnative/kop](https://github.com/streamnative/kop) (4 days ago)
-- [[bugfix][transactions] Prevent ConcurrentModificationException in getProducer()](https://github.com/streamnative/kop/pull/1868) on [streamnative/kop](https://github.com/streamnative/kop) (4 days ago)
-- [[bugfix][transactions] Release memory in TransactionMarkerChannelHandler](https://github.com/streamnative/kop/pull/1867) on [streamnative/kop](https://github.com/streamnative/kop) (4 days ago)
-- [[Transaction] Support producer state manager recovery](https://github.com/Demogorgon314/kop/pull/2) on [Demogorgon314/kop](https://github.com/Demogorgon314/kop) (5 days ago)
+- [[improve] Get size from byteBuf earlier to prevent unnecessary retention](https://github.com/streamnative/kop/pull/1878) on [streamnative/kop](https://github.com/streamnative/kop) (3 days ago)
+- [[cherry-pick][back-port] Make TxnTransitMetadata.topicPartitions immutable](https://github.com/datastax/starlight-for-kafka/pull/89) on [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) (3 days ago)
+- [[improvement] hide scary InterruptedException in KopEventManager during broker shutdown](https://github.com/streamnative/kop/pull/1874) on [streamnative/kop](https://github.com/streamnative/kop) (4 days ago)
+- [[improvement] Use ByteBuf for Request serialization](https://github.com/streamnative/kop/pull/1871) on [streamnative/kop](https://github.com/streamnative/kop) (4 days ago)
+- [[bugfix][transactions] Make TxnTransitMetadata.topicPartitions immutable](https://github.com/streamnative/kop/pull/1869) on [streamnative/kop](https://github.com/streamnative/kop) (5 days ago)
+- [[bugfix][transactions] Prevent ConcurrentModificationException in getProducer()](https://github.com/streamnative/kop/pull/1868) on [streamnative/kop](https://github.com/streamnative/kop) (5 days ago)
+- [[bugfix][transactions] Release memory in TransactionMarkerChannelHandler](https://github.com/streamnative/kop/pull/1867) on [streamnative/kop](https://github.com/streamnative/kop) (5 days ago)
+- [[Transaction] Support producer state manager recovery](https://github.com/Demogorgon314/kop/pull/2) on [Demogorgon314/kop](https://github.com/Demogorgon314/kop) (6 days ago)
 - [[fix][broker] Fix broker load manager class filter NPE](https://github.com/apache/pulsar/pull/20350) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
 - [Fix flaky-test: KafkaNonPartitionedTopicTest.testNonPartitionedTopic](https://github.com/streamnative/kop/pull/1853) on [streamnative/kop](https://github.com/streamnative/kop) (2 weeks ago)
 
