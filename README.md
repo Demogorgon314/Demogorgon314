@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (today)
-- [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) - DataStax - Starlight for Kafka (5 days ago)
+- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (1 day ago)
+- [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) - DataStax - Starlight for Kafka (6 days ago)
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (2 weeks ago)
 - [Demogorgon314/SpringBootKStreamDemo](https://github.com/Demogorgon314/SpringBootKStreamDemo) -  (1 month ago)
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) - Apache Pulsar C&#43;&#43; client library (4 months ago)
@@ -28,7 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/pulsar-client-python](https://github.com/apache/pulsar-client-python) ([v3.2.0](https://github.com/apache/pulsar-client-python/releases/tag/v3.2.0), 1 day ago) - Apache Pulsar Python client library
+- [streamnative/kop](https://github.com/streamnative/kop) ([v2.11.1.2-arrowstreet](https://github.com/streamnative/kop/releases/tag/v2.11.1.2-arrowstreet), 1 day ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
+- [apache/pulsar-client-python](https://github.com/apache/pulsar-client-python) ([v3.2.0](https://github.com/apache/pulsar-client-python/releases/tag/v3.2.0), 2 days ago) - Apache Pulsar Python client library
 - [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) ([v2.10.3.9](https://github.com/datastax/starlight-for-kafka/releases/tag/v2.10.3.9), 3 weeks ago) - DataStax - Starlight for Kafka
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) ([v3.2.0](https://github.com/apache/pulsar-client-cpp/releases/tag/v3.2.0), 3 weeks ago) - Apache Pulsar C&#43;&#43; client library
 - [apache/pulsar](https://github.com/apache/pulsar) ([v3.0.0](https://github.com/apache/pulsar/releases/tag/v3.0.0), 1 month ago) - Apache Pulsar - distributed pub-sub messaging system
@@ -37,16 +38,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[improve] Get size from byteBuf earlier to prevent unnecessary retention](https://github.com/streamnative/kop/pull/1878) on [streamnative/kop](https://github.com/streamnative/kop) (5 days ago)
-- [[cherry-pick][back-port] Make TxnTransitMetadata.topicPartitions immutable](https://github.com/datastax/starlight-for-kafka/pull/89) on [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) (5 days ago)
-- [[improvement] hide scary InterruptedException in KopEventManager during broker shutdown](https://github.com/streamnative/kop/pull/1874) on [streamnative/kop](https://github.com/streamnative/kop) (6 days ago)
-- [[improvement] Use ByteBuf for Request serialization](https://github.com/streamnative/kop/pull/1871) on [streamnative/kop](https://github.com/streamnative/kop) (6 days ago)
+- [[bugfix] Fix decode pulsar format batch records timestamp](https://github.com/streamnative/kop/pull/1888) on [streamnative/kop](https://github.com/streamnative/kop) (1 day ago)
+- [[improve] Get size from byteBuf earlier to prevent unnecessary retention](https://github.com/streamnative/kop/pull/1878) on [streamnative/kop](https://github.com/streamnative/kop) (6 days ago)
+- [[cherry-pick][back-port] Make TxnTransitMetadata.topicPartitions immutable](https://github.com/datastax/starlight-for-kafka/pull/89) on [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) (6 days ago)
+- [[improvement] hide scary InterruptedException in KopEventManager during broker shutdown](https://github.com/streamnative/kop/pull/1874) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
+- [[improvement] Use ByteBuf for Request serialization](https://github.com/streamnative/kop/pull/1871) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
 - [[bugfix][transactions] Make TxnTransitMetadata.topicPartitions immutable](https://github.com/streamnative/kop/pull/1869) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
 - [[bugfix][transactions] Prevent ConcurrentModificationException in getProducer()](https://github.com/streamnative/kop/pull/1868) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
 - [[bugfix][transactions] Release memory in TransactionMarkerChannelHandler](https://github.com/streamnative/kop/pull/1867) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
 - [[Transaction] Support producer state manager recovery](https://github.com/Demogorgon314/kop/pull/2) on [Demogorgon314/kop](https://github.com/Demogorgon314/kop) (1 week ago)
 - [[fix][broker] Fix broker load manager class filter NPE](https://github.com/apache/pulsar/pull/20350) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
-- [Fix flaky-test: KafkaNonPartitionedTopicTest.testNonPartitionedTopic](https://github.com/streamnative/kop/pull/1853) on [streamnative/kop](https://github.com/streamnative/kop) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
