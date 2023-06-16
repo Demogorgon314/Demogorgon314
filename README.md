@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (1 day ago)
-- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (3 days ago)
+- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (1 day ago)
+- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (2 days ago)
 - [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) - DataStax - Starlight for Kafka (1 week ago)
 - [Demogorgon314/SpringBootKStreamDemo](https://github.com/Demogorgon314/SpringBootKStreamDemo) -  (1 month ago)
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) - Apache Pulsar C&#43;&#43; client library (4 months ago)
@@ -37,9 +37,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[improvements] Use the TopicEventListener API](https://github.com/streamnative/kop/pull/1899) on [streamnative/kop](https://github.com/streamnative/kop) (2 days ago)
-- [[improve][broker] Handle get owned namespaces admin API in ExtensibleLoadManager](https://github.com/apache/pulsar/pull/20552) on [apache/pulsar](https://github.com/apache/pulsar) (6 days ago)
-- [[fix][broker] Handle heartbeat namespace in ExtensibleLoadManager](https://github.com/apache/pulsar/pull/20551) on [apache/pulsar](https://github.com/apache/pulsar) (6 days ago)
+- [[improvements] Use the TopicEventListener API](https://github.com/streamnative/kop/pull/1899) on [streamnative/kop](https://github.com/streamnative/kop) (3 days ago)
+- [[improve][broker] Handle get owned namespaces admin API in ExtensibleLoadManager](https://github.com/apache/pulsar/pull/20552) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
+- [[fix][broker] Handle heartbeat namespace in ExtensibleLoadManager](https://github.com/apache/pulsar/pull/20551) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [Optimize getHeadersFromMetadata, replace Java streams with for loop](https://github.com/streamnative/kop/pull/1897) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
 - [[transactions] Reduce spammy log during broker shutdown](https://github.com/streamnative/kop/pull/1896) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
 - [[debug] add better log for CONCURRENT_TRANSACTIONS error](https://github.com/streamnative/kop/pull/1895) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
@@ -58,7 +58,7 @@
 - [streamnative/oxia](https://github.com/streamnative/oxia) - Oxia - Metadata store and coordination system (1 month ago)
 - [OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS) - An open-source tool-augmented conversational language model from Fudan University (1 month ago)
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. (2 months ago)
-- [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (2 months ago)
+- [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023) (2 months ago)
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
