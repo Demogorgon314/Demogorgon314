@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (3 days ago)
-- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (4 days ago)
-- [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) - DataStax - Starlight for Kafka (1 week ago)
+- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (4 days ago)
+- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (5 days ago)
+- [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) - DataStax - Starlight for Kafka (2 weeks ago)
 - [Demogorgon314/SpringBootKStreamDemo](https://github.com/Demogorgon314/SpringBootKStreamDemo) -  (1 month ago)
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) - Apache Pulsar C&#43;&#43; client library (4 months ago)
 - [Demogorgon314/Pulsar-Wireshark-Dissector](https://github.com/Demogorgon314/Pulsar-Wireshark-Dissector) - Pulsar Wireshark Dissector (4 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/kop](https://github.com/streamnative/kop) ([v2.9.5.2](https://github.com/streamnative/kop/releases/tag/v2.9.5.2), 1 week ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
+- [streamnative/kop](https://github.com/streamnative/kop) ([v2.10.4.3-5ce22c](https://github.com/streamnative/kop/releases/tag/v2.10.4.3-5ce22c), 1 day ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 - [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) ([v2.10.3.10](https://github.com/datastax/starlight-for-kafka/releases/tag/v2.10.3.10), 1 week ago) - DataStax - Starlight for Kafka
 - [apache/pulsar-client-python](https://github.com/apache/pulsar-client-python) ([v3.2.0](https://github.com/apache/pulsar-client-python/releases/tag/v3.2.0), 2 weeks ago) - Apache Pulsar Python client library
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) ([v3.2.0](https://github.com/apache/pulsar-client-cpp/releases/tag/v3.2.0), 1 month ago) - Apache Pulsar C&#43;&#43; client library
@@ -38,9 +38,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[transactions] Better handling of network exceptions while sending TX markers](https://github.com/streamnative/kop/pull/1907) on [streamnative/kop](https://github.com/streamnative/kop) (3 days ago)
-- [[transaction] Producer state manager snapshot recovery - Part-1: Add snapshot I/O buffer](https://github.com/streamnative/kop/pull/1906) on [streamnative/kop](https://github.com/streamnative/kop) (3 days ago)
-- [[improvements] Use the TopicEventListener API](https://github.com/streamnative/kop/pull/1899) on [streamnative/kop](https://github.com/streamnative/kop) (6 days ago)
+- [[transactions] Better handling of network exceptions while sending TX markers](https://github.com/streamnative/kop/pull/1907) on [streamnative/kop](https://github.com/streamnative/kop) (4 days ago)
+- [[transaction] Producer state manager snapshot recovery - Part-1: Add snapshot I/O buffer](https://github.com/streamnative/kop/pull/1906) on [streamnative/kop](https://github.com/streamnative/kop) (4 days ago)
+- [[improvements] Use the TopicEventListener API](https://github.com/streamnative/kop/pull/1899) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
 - [[improve][broker] Handle get owned namespaces admin API in ExtensibleLoadManager](https://github.com/apache/pulsar/pull/20552) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [[fix][broker] Handle heartbeat namespace in ExtensibleLoadManager](https://github.com/apache/pulsar/pull/20551) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [Optimize getHeadersFromMetadata, replace Java streams with for loop](https://github.com/streamnative/kop/pull/1897) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
@@ -56,7 +56,7 @@
 - [faceair/clash-speedtest](https://github.com/faceair/clash-speedtest) - clash speedtest (1 month ago)
 - [deep-floyd/IF](https://github.com/deep-floyd/IF) -  (1 month ago)
 - [streamnative/oxia](https://github.com/streamnative/oxia) - Oxia - Metadata store and coordination system (1 month ago)
-- [OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS) - An open-source tool-augmented conversational language model from Fudan University (1 month ago)
+- [OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS) - An open-source tool-augmented conversational language model from Fudan University (2 months ago)
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. (2 months ago)
 - [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023) (2 months ago)
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (2 months ago)
