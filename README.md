@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (3 days ago)
-- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (3 days ago)
+- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (4 days ago)
+- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (4 days ago)
 - [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) - DataStax - Starlight for Kafka (2 weeks ago)
 - [Demogorgon314/SpringBootKStreamDemo](https://github.com/Demogorgon314/SpringBootKStreamDemo) -  (1 month ago)
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) - Apache Pulsar C&#43;&#43; client library (4 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/kop](https://github.com/streamnative/kop) ([v3.0.0.3](https://github.com/streamnative/kop/releases/tag/v3.0.0.3), 1 day ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
+- [streamnative/kop](https://github.com/streamnative/kop) ([v3.0.0.3](https://github.com/streamnative/kop/releases/tag/v3.0.0.3), 2 days ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 - [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) ([v2.10.3.10](https://github.com/datastax/starlight-for-kafka/releases/tag/v2.10.3.10), 2 weeks ago) - DataStax - Starlight for Kafka
 - [apache/pulsar-client-python](https://github.com/apache/pulsar-client-python) ([v3.2.0](https://github.com/apache/pulsar-client-python/releases/tag/v3.2.0), 2 weeks ago) - Apache Pulsar Python client library
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) ([v3.2.0](https://github.com/apache/pulsar-client-cpp/releases/tag/v3.2.0), 1 month ago) - Apache Pulsar C&#43;&#43; client library
@@ -38,9 +38,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[fix][broker] Fix ExtensibleLoadManager flaky test ](https://github.com/Demogorgon314/pulsar/pull/14) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (1 day ago)
-- [[fix][broker] Fix ExtensibleLoadManager flaky test](https://github.com/apache/pulsar/pull/20634) on [apache/pulsar](https://github.com/apache/pulsar) (1 day ago)
-- [[fix][broker] Fix get owned service units NPE](https://github.com/apache/pulsar/pull/20625) on [apache/pulsar](https://github.com/apache/pulsar) (3 days ago)
+- [[fix][broker] Fix ExtensibleLoadManager flaky test ](https://github.com/Demogorgon314/pulsar/pull/14) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (2 days ago)
+- [[fix][broker] Fix ExtensibleLoadManager flaky test](https://github.com/apache/pulsar/pull/20634) on [apache/pulsar](https://github.com/apache/pulsar) (2 days ago)
+- [[fix][broker] Fix get owned service units NPE](https://github.com/apache/pulsar/pull/20625) on [apache/pulsar](https://github.com/apache/pulsar) (4 days ago)
 - [[transactions] Better handling of network exceptions while sending TX markers](https://github.com/streamnative/kop/pull/1907) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
 - [[transaction] Producer state manager snapshot recovery - Part-1: Add snapshot I/O buffer](https://github.com/streamnative/kop/pull/1906) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
 - [[improvements] Use the TopicEventListener API](https://github.com/streamnative/kop/pull/1899) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
