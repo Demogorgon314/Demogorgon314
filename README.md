@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (5 days ago)
-- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (5 days ago)
-- [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) - DataStax - Starlight for Kafka (2 weeks ago)
+- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (6 days ago)
+- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (6 days ago)
+- [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) - DataStax - Starlight for Kafka (3 weeks ago)
 - [Demogorgon314/SpringBootKStreamDemo](https://github.com/Demogorgon314/SpringBootKStreamDemo) -  (1 month ago)
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) - Apache Pulsar C&#43;&#43; client library (4 months ago)
 - [Demogorgon314/Pulsar-Wireshark-Dissector](https://github.com/Demogorgon314/Pulsar-Wireshark-Dissector) - Pulsar Wireshark Dissector (4 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/kop](https://github.com/streamnative/kop) ([v3.0.0.3](https://github.com/streamnative/kop/releases/tag/v3.0.0.3), 3 days ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
+- [streamnative/kop](https://github.com/streamnative/kop) ([v3.0.0.3](https://github.com/streamnative/kop/releases/tag/v3.0.0.3), 4 days ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 - [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) ([v2.10.3.10](https://github.com/datastax/starlight-for-kafka/releases/tag/v2.10.3.10), 2 weeks ago) - DataStax - Starlight for Kafka
 - [apache/pulsar-client-python](https://github.com/apache/pulsar-client-python) ([v3.2.0](https://github.com/apache/pulsar-client-python/releases/tag/v3.2.0), 3 weeks ago) - Apache Pulsar Python client library
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) ([v3.2.0](https://github.com/apache/pulsar-client-cpp/releases/tag/v3.2.0), 1 month ago) - Apache Pulsar C&#43;&#43; client library
@@ -38,19 +38,20 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[fix][broker] Fix ExtensibleLoadManager flaky test ](https://github.com/Demogorgon314/pulsar/pull/14) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (3 days ago)
-- [[fix][broker] Fix ExtensibleLoadManager flaky test](https://github.com/apache/pulsar/pull/20634) on [apache/pulsar](https://github.com/apache/pulsar) (3 days ago)
-- [[fix][broker] Fix get owned service units NPE](https://github.com/apache/pulsar/pull/20625) on [apache/pulsar](https://github.com/apache/pulsar) (5 days ago)
+- [Make broker filter async](https://github.com/Demogorgon314/pulsar/pull/15) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (1 day ago)
+- [[transaction] Implement producer state manager recovery](https://github.com/streamnative/kop/pull/1923) on [streamnative/kop](https://github.com/streamnative/kop) (1 day ago)
+- [[fix][broker] Fix ExtensibleLoadManager flaky test ](https://github.com/Demogorgon314/pulsar/pull/14) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (4 days ago)
+- [[fix][broker] Fix ExtensibleLoadManager flaky test](https://github.com/apache/pulsar/pull/20634) on [apache/pulsar](https://github.com/apache/pulsar) (4 days ago)
+- [[fix][broker] Fix get owned service units NPE](https://github.com/apache/pulsar/pull/20625) on [apache/pulsar](https://github.com/apache/pulsar) (6 days ago)
 - [[transactions] Better handling of network exceptions while sending TX markers](https://github.com/streamnative/kop/pull/1907) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
 - [[transaction] Producer state manager snapshot recovery - Part-1: Add snapshot I/O buffer](https://github.com/streamnative/kop/pull/1906) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
-- [[improvements] Use the TopicEventListener API](https://github.com/streamnative/kop/pull/1899) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
+- [[improvements] Use the TopicEventListener API](https://github.com/streamnative/kop/pull/1899) on [streamnative/kop](https://github.com/streamnative/kop) (2 weeks ago)
 - [[improve][broker] Handle get owned namespaces admin API in ExtensibleLoadManager](https://github.com/apache/pulsar/pull/20552) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
 - [[fix][broker] Handle heartbeat namespace in ExtensibleLoadManager](https://github.com/apache/pulsar/pull/20551) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
-- [Optimize getHeadersFromMetadata, replace Java streams with for loop](https://github.com/streamnative/kop/pull/1897) on [streamnative/kop](https://github.com/streamnative/kop) (2 weeks ago)
-- [[transactions] Reduce spammy log during broker shutdown](https://github.com/streamnative/kop/pull/1896) on [streamnative/kop](https://github.com/streamnative/kop) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
+- [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型 (1 day ago)
 - [bb-qq/r8152](https://github.com/bb-qq/r8152) - Synology DSM driver for Realtek RTL8152/RTL8153/RTL8156 based adapters (1 month ago)
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it&#39;s combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, &#34;infinite&#34; ctx_len, and free sentence embedding. (1 month ago)
 - [faceair/clash-speedtest](https://github.com/faceair/clash-speedtest) - clash speedtest (1 month ago)
@@ -60,7 +61,6 @@
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. (2 months ago)
 - [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023) (2 months ago)
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (2 months ago)
-- [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API. (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
