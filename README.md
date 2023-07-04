@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Demogorgon314/ClashRules](https://github.com/Demogorgon314/ClashRules) -  (2 days ago)
-- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (3 days ago)
-- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (5 days ago)
-- [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) - DataStax - Starlight for Kafka (3 weeks ago)
+- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (1 day ago)
+- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (1 day ago)
+- [Demogorgon314/ClashRules](https://github.com/Demogorgon314/ClashRules) -  (3 days ago)
+- [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) - DataStax - Starlight for Kafka (4 weeks ago)
 - [Demogorgon314/SpringBootKStreamDemo](https://github.com/Demogorgon314/SpringBootKStreamDemo) -  (2 months ago)
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) - Apache Pulsar C&#43;&#43; client library (5 months ago)
 - [Demogorgon314/Pulsar-Wireshark-Dissector](https://github.com/Demogorgon314/Pulsar-Wireshark-Dissector) - Pulsar Wireshark Dissector (5 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/kop](https://github.com/streamnative/kop) ([v2.10.4.4](https://github.com/streamnative/kop/releases/tag/v2.10.4.4), 4 days ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
+- [streamnative/kop](https://github.com/streamnative/kop) ([v2.11.1.3](https://github.com/streamnative/kop/releases/tag/v2.11.1.3), 1 day ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 - [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) ([v2.10.3.10](https://github.com/datastax/starlight-for-kafka/releases/tag/v2.10.3.10), 3 weeks ago) - DataStax - Starlight for Kafka
 - [apache/pulsar-client-python](https://github.com/apache/pulsar-client-python) ([v3.2.0](https://github.com/apache/pulsar-client-python/releases/tag/v3.2.0), 4 weeks ago) - Apache Pulsar Python client library
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) ([v3.2.0](https://github.com/apache/pulsar-client-cpp/releases/tag/v3.2.0), 1 month ago) - Apache Pulsar C&#43;&#43; client library
@@ -38,11 +38,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[branch-2.10.4] Upgrade kafka client version to 2.1.1](https://github.com/streamnative/kop/pull/1933) on [streamnative/kop](https://github.com/streamnative/kop) (3 days ago)
-- [[improve] Pass group ID to authorizer when using OAuth](https://github.com/streamnative/kop/pull/1926) on [streamnative/kop](https://github.com/streamnative/kop) (5 days ago)
-- [[improve][broker] Make ExtensibleLoadManagerImpl&#39;s broker filter pure async](https://github.com/apache/pulsar/pull/20666) on [apache/pulsar](https://github.com/apache/pulsar) (5 days ago)
-- [Demogorgon314/make broker filter async](https://github.com/Demogorgon314/pulsar/pull/16) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (6 days ago)
-- [[improve][broker] Make get list from bundle Admin API async](https://github.com/apache/pulsar/pull/20652) on [apache/pulsar](https://github.com/apache/pulsar) (6 days ago)
+- [[branch-2.10.4] Upgrade kafka client version to 2.1.1](https://github.com/streamnative/kop/pull/1933) on [streamnative/kop](https://github.com/streamnative/kop) (4 days ago)
+- [[improve] Pass group ID to authorizer when using OAuth](https://github.com/streamnative/kop/pull/1926) on [streamnative/kop](https://github.com/streamnative/kop) (6 days ago)
+- [[improve][broker] Make ExtensibleLoadManagerImpl&#39;s broker filter pure async](https://github.com/apache/pulsar/pull/20666) on [apache/pulsar](https://github.com/apache/pulsar) (6 days ago)
+- [Demogorgon314/make broker filter async](https://github.com/Demogorgon314/pulsar/pull/16) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (1 week ago)
+- [[improve][broker] Make get list from bundle Admin API async](https://github.com/apache/pulsar/pull/20652) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [Make broker filter async](https://github.com/Demogorgon314/pulsar/pull/15) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (1 week ago)
 - [[transaction] Implement producer state manager recovery](https://github.com/streamnative/kop/pull/1923) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
 - [[fix][broker] Fix ExtensibleLoadManager flaky test ](https://github.com/Demogorgon314/pulsar/pull/14) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (1 week ago)
@@ -51,7 +51,8 @@
 
 #### ⭐ Recent Stars
 
-- [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址 (2 days ago)
+- [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩TV和Pad客户端，A third-party bilibili client for TV &amp; Pad。 (1 day ago)
+- [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址 (3 days ago)
 - [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型 (1 week ago)
 - [bb-qq/r8152](https://github.com/bb-qq/r8152) - Synology DSM driver for Realtek RTL8152/RTL8153/RTL8156 based adapters (1 month ago)
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it&#39;s combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, &#34;infinite&#34; ctx_len, and free sentence embedding. (1 month ago)
@@ -60,7 +61,6 @@
 - [streamnative/oxia](https://github.com/streamnative/oxia) - Oxia - Metadata store and coordination system (2 months ago)
 - [OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS) - An open-source tool-augmented conversational language model from Fudan University (2 months ago)
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. (2 months ago)
-- [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023) (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
