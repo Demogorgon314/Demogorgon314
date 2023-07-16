@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Demogorgon314/ClashRules](https://github.com/Demogorgon314/ClashRules) -  (2 days ago)
+- [Demogorgon314/ClashRules](https://github.com/Demogorgon314/ClashRules) -  (3 days ago)
 - [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (1 week ago)
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (1 week ago)
 - [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) - DataStax - Starlight for Kafka (1 month ago)
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/kop](https://github.com/streamnative/kop) ([v2.10.4.5-5ce22c](https://github.com/streamnative/kop/releases/tag/v2.10.4.5-5ce22c), 2 days ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
-- [apache/pulsar-client-go](https://github.com/apache/pulsar-client-go) ([v0.11.0](https://github.com/apache/pulsar-client-go/releases/tag/v0.11.0), 5 days ago) - Apache Pulsar Go Client Library
+- [streamnative/kop](https://github.com/streamnative/kop) ([v2.10.4.5-5ce22c](https://github.com/streamnative/kop/releases/tag/v2.10.4.5-5ce22c), 3 days ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
+- [apache/pulsar-client-go](https://github.com/apache/pulsar-client-go) ([v0.11.0](https://github.com/apache/pulsar-client-go/releases/tag/v0.11.0), 6 days ago) - Apache Pulsar Go Client Library
 - [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) ([v2.10.3.10](https://github.com/datastax/starlight-for-kafka/releases/tag/v2.10.3.10), 1 month ago) - DataStax - Starlight for Kafka
 - [apache/pulsar-client-python](https://github.com/apache/pulsar-client-python) ([v3.2.0](https://github.com/apache/pulsar-client-python/releases/tag/v3.2.0), 1 month ago) - Apache Pulsar Python client library
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) ([v3.2.0](https://github.com/apache/pulsar-client-cpp/releases/tag/v3.2.0), 2 months ago) - Apache Pulsar C&#43;&#43; client library
