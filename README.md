@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (1 day ago)
-- [Demogorgon314/ClashRules](https://github.com/Demogorgon314/ClashRules) -  (6 days ago)
+- [Demogorgon314/ClashRules](https://github.com/Demogorgon314/ClashRules) -  (1 week ago)
 - [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (2 weeks ago)
 - [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) - DataStax - Starlight for Kafka (1 month ago)
 - [Demogorgon314/SpringBootKStreamDemo](https://github.com/Demogorgon314/SpringBootKStreamDemo) -  (2 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/pulsar](https://github.com/apache/pulsar) ([v2.11.2](https://github.com/apache/pulsar/releases/tag/v2.11.2), 5 days ago) - Apache Pulsar - distributed pub-sub messaging system
+- [apache/pulsar](https://github.com/apache/pulsar) ([v2.11.2](https://github.com/apache/pulsar/releases/tag/v2.11.2), 6 days ago) - Apache Pulsar - distributed pub-sub messaging system
 - [streamnative/kop](https://github.com/streamnative/kop) ([v2.10.4.5-5ce22c](https://github.com/streamnative/kop/releases/tag/v2.10.4.5-5ce22c), 1 week ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 - [apache/pulsar-client-go](https://github.com/apache/pulsar-client-go) ([v0.11.0](https://github.com/apache/pulsar-client-go/releases/tag/v0.11.0), 2 weeks ago) - Apache Pulsar Go Client Library
 - [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) ([v2.10.3.10](https://github.com/datastax/starlight-for-kafka/releases/tag/v2.10.3.10), 1 month ago) - DataStax - Starlight for Kafka
@@ -38,7 +38,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[improve][broker] Avoid print redirect exception log when get list from bundle](https://github.com/apache/pulsar/pull/20846) on [apache/pulsar](https://github.com/apache/pulsar) (3 days ago)
+- [[improve][broker] Add annotation for topic compaction strategy](https://github.com/apache/pulsar/pull/20858) on [apache/pulsar](https://github.com/apache/pulsar) (1 day ago)
+- [[improve][broker] Avoid print redirect exception log when get list from bundle](https://github.com/apache/pulsar/pull/20846) on [apache/pulsar](https://github.com/apache/pulsar) (4 days ago)
 - [[improve][broker] Add broker filter sync method back to guarantee the API compatibility](https://github.com/apache/pulsar/pull/20826) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [[docs] Add docs for OAuth credentials](https://github.com/streamnative/kop/pull/1964) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
 - [[fix][broker] Avoid infinite bundle unloading](https://github.com/apache/pulsar/pull/20822) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
@@ -46,12 +47,11 @@
 - [[branch-2.10.4] Upgrade kafka client version to 2.1.1](https://github.com/streamnative/kop/pull/1933) on [streamnative/kop](https://github.com/streamnative/kop) (3 weeks ago)
 - [[improve] Pass group ID to authorizer when using OAuth](https://github.com/streamnative/kop/pull/1926) on [streamnative/kop](https://github.com/streamnative/kop) (3 weeks ago)
 - [[improve][broker] Make ExtensibleLoadManagerImpl&#39;s broker filter pure async](https://github.com/apache/pulsar/pull/20666) on [apache/pulsar](https://github.com/apache/pulsar) (3 weeks ago)
-- [Demogorgon314/make broker filter async](https://github.com/Demogorgon314/pulsar/pull/16) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (3 weeks ago)
-- [[improve][broker] Make get list from bundle Admin API async](https://github.com/apache/pulsar/pull/20652) on [apache/pulsar](https://github.com/apache/pulsar) (3 weeks ago)
+- [Demogorgon314/make broker filter async](https://github.com/Demogorgon314/pulsar/pull/16) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [oslabs-beta/PulsarPortrait](https://github.com/oslabs-beta/PulsarPortrait) - Pulsar (3 days ago)
+- [oslabs-beta/PulsarPortrait](https://github.com/oslabs-beta/PulsarPortrait) - Pulsar (4 days ago)
 - [istoreos/istoreos](https://github.com/istoreos/istoreos) - 提供一个人人会用的的路由、NAS系统 (1 week ago)
 - [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩TV和Pad客户端，A third-party bilibili client for TV &amp; Pad。 (3 weeks ago)
 - [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址 (3 weeks ago)
