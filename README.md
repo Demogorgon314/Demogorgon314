@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (2 days ago)
+- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (3 days ago)
 - [Demogorgon314/ClashRules](https://github.com/Demogorgon314/ClashRules) -  (1 week ago)
 - [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (3 weeks ago)
 - [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) - DataStax - Starlight for Kafka (1 month ago)
-- [Demogorgon314/SpringBootKStreamDemo](https://github.com/Demogorgon314/SpringBootKStreamDemo) -  (2 months ago)
+- [Demogorgon314/SpringBootKStreamDemo](https://github.com/Demogorgon314/SpringBootKStreamDemo) -  (3 months ago)
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) - Apache Pulsar C&#43;&#43; client library (5 months ago)
 - [Demogorgon314/Pulsar-Wireshark-Dissector](https://github.com/Demogorgon314/Pulsar-Wireshark-Dissector) - Pulsar Wireshark Dissector (5 months ago)
 - [apache/pulsar-site](https://github.com/apache/pulsar-site) - Apache Pulsar Site (6 months ago)
@@ -38,23 +38,23 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[transaction] Use the config&#39;s metadata tenant when disable multi-tenant metadata](https://github.com/streamnative/kop/pull/1980) on [streamnative/kop](https://github.com/streamnative/kop) (1 day ago)
-- [[oauthclient] Create a zero-dependencies jar: - remove Async HTTP client and use the standard JDK Http client - shade and relocate Jackson Databind, used for JSON](https://github.com/streamnative/kop/pull/1979) on [streamnative/kop](https://github.com/streamnative/kop) (2 days ago)
-- [[branch-2.11][fix][broker] Avoid infinite bundle unloading (#20822)](https://github.com/apache/pulsar/pull/20878) on [apache/pulsar](https://github.com/apache/pulsar) (2 days ago)
-- [[branch-2.10][fix][broker] Avoid infinite bundle unloading (#20822)](https://github.com/apache/pulsar/pull/20877) on [apache/pulsar](https://github.com/apache/pulsar) (2 days ago)
-- [[improve][broker] Add annotation for topic compaction strategy](https://github.com/apache/pulsar/pull/20858) on [apache/pulsar](https://github.com/apache/pulsar) (4 days ago)
+- [[security] broker to broker hostname verification](https://github.com/streamnative/kop/pull/1983) on [streamnative/kop](https://github.com/streamnative/kop) (1 day ago)
+- [[transaction] Use the config&#39;s metadata tenant when disable multi-tenant metadata](https://github.com/streamnative/kop/pull/1980) on [streamnative/kop](https://github.com/streamnative/kop) (2 days ago)
+- [[oauthclient] Create a zero-dependencies jar: - remove Async HTTP client and use the standard JDK Http client - shade and relocate Jackson Databind, used for JSON](https://github.com/streamnative/kop/pull/1979) on [streamnative/kop](https://github.com/streamnative/kop) (3 days ago)
+- [[branch-2.11][fix][broker] Avoid infinite bundle unloading (#20822)](https://github.com/apache/pulsar/pull/20878) on [apache/pulsar](https://github.com/apache/pulsar) (3 days ago)
+- [[branch-2.10][fix][broker] Avoid infinite bundle unloading (#20822)](https://github.com/apache/pulsar/pull/20877) on [apache/pulsar](https://github.com/apache/pulsar) (3 days ago)
+- [[improve][broker] Add annotation for topic compaction strategy](https://github.com/apache/pulsar/pull/20858) on [apache/pulsar](https://github.com/apache/pulsar) (5 days ago)
 - [[improve][broker] Avoid print redirect exception log when get list from bundle](https://github.com/apache/pulsar/pull/20846) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [[improve][broker] Add broker filter sync method back to guarantee the API compatibility](https://github.com/apache/pulsar/pull/20826) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [[docs] Add docs for OAuth credentials](https://github.com/streamnative/kop/pull/1964) on [streamnative/kop](https://github.com/streamnative/kop) (1 week ago)
 - [[fix][broker] Avoid infinite bundle unloading](https://github.com/apache/pulsar/pull/20822) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
-- [[branch-2.10.4][improve] Pass group ID to authorizer when using OAuth (#1926)](https://github.com/streamnative/kop/pull/1945) on [streamnative/kop](https://github.com/streamnative/kop) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
 - [oslabs-beta/PulsarPortrait](https://github.com/oslabs-beta/PulsarPortrait) - Pulsar (1 week ago)
 - [istoreos/istoreos](https://github.com/istoreos/istoreos) - 提供一个人人会用的的路由、NAS系统 (1 week ago)
 - [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩TV和Pad客户端，A third-party bilibili client for TV &amp; Pad。 (3 weeks ago)
-- [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址 (3 weeks ago)
+- [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址 (4 weeks ago)
 - [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型 (1 month ago)
 - [bb-qq/r8152](https://github.com/bb-qq/r8152) - Synology DSM driver for Realtek RTL8152/RTL8153/RTL8156 based adapters (2 months ago)
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it&#39;s combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, &#34;infinite&#34; ctx_len, and free sentence embedding. (2 months ago)
