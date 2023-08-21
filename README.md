@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (5 days ago)
-- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (6 days ago)
+- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (6 days ago)
+- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (1 week ago)
 - [Demogorgon314/ClashRules](https://github.com/Demogorgon314/ClashRules) -  (1 week ago)
 - [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) - DataStax - Starlight for Kafka (2 months ago)
 - [Demogorgon314/SpringBootKStreamDemo](https://github.com/Demogorgon314/SpringBootKStreamDemo) -  (3 months ago)
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/pulsar](https://github.com/apache/pulsar) ([v3.1.0](https://github.com/apache/pulsar/releases/tag/v3.1.0), 6 days ago) - Apache Pulsar - distributed pub-sub messaging system
-- [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) ([v3.3.0](https://github.com/apache/pulsar-client-cpp/releases/tag/v3.3.0), 2 weeks ago) - Apache Pulsar C&#43;&#43; client library
+- [apache/pulsar](https://github.com/apache/pulsar) ([v3.1.0](https://github.com/apache/pulsar/releases/tag/v3.1.0), 1 week ago) - Apache Pulsar - distributed pub-sub messaging system
+- [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) ([v3.3.0](https://github.com/apache/pulsar-client-cpp/releases/tag/v3.3.0), 3 weeks ago) - Apache Pulsar C&#43;&#43; client library
 - [streamnative/kop](https://github.com/streamnative/kop) ([v2.10.4.5-5ce22c](https://github.com/streamnative/kop/releases/tag/v2.10.4.5-5ce22c), 1 month ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 - [apache/pulsar-client-go](https://github.com/apache/pulsar-client-go) ([v0.11.0](https://github.com/apache/pulsar-client-go/releases/tag/v0.11.0), 1 month ago) - Apache Pulsar Go Client Library
 - [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) ([v2.10.3.10](https://github.com/datastax/starlight-for-kafka/releases/tag/v2.10.3.10), 2 months ago) - DataStax - Starlight for Kafka
@@ -46,7 +46,7 @@
 - [[oauthclient] Create a zero-dependencies jar: - remove Async HTTP client and use the standard JDK Http client - shade and relocate Jackson Databind, used for JSON](https://github.com/streamnative/kop/pull/1979) on [streamnative/kop](https://github.com/streamnative/kop) (3 weeks ago)
 - [[branch-2.11][fix][broker] Avoid infinite bundle unloading (#20822)](https://github.com/apache/pulsar/pull/20878) on [apache/pulsar](https://github.com/apache/pulsar) (3 weeks ago)
 - [[branch-2.10][fix][broker] Avoid infinite bundle unloading (#20822)](https://github.com/apache/pulsar/pull/20877) on [apache/pulsar](https://github.com/apache/pulsar) (3 weeks ago)
-- [[improve][broker] Add annotation for topic compaction strategy](https://github.com/apache/pulsar/pull/20858) on [apache/pulsar](https://github.com/apache/pulsar) (3 weeks ago)
+- [[improve][broker] Add annotation for topic compaction strategy](https://github.com/apache/pulsar/pull/20858) on [apache/pulsar](https://github.com/apache/pulsar) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
