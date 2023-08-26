@@ -42,7 +42,7 @@
 - [[fix][transaction] Contains UUID when auto topic creation](https://github.com/streamnative/kop/pull/1993) on [streamnative/kop](https://github.com/streamnative/kop) (2 weeks ago)
 - [[improve][oauthclient] Support decode base64 format credentials URL](https://github.com/streamnative/kop/pull/1990) on [streamnative/kop](https://github.com/streamnative/kop) (3 weeks ago)
 - [[security] broker to broker hostname verification](https://github.com/streamnative/kop/pull/1983) on [streamnative/kop](https://github.com/streamnative/kop) (4 weeks ago)
-- [[transaction] Use the config&#39;s metadata tenant when disable multi-tenant metadata](https://github.com/streamnative/kop/pull/1980) on [streamnative/kop](https://github.com/streamnative/kop) (4 weeks ago)
+- [[transaction] Use the config&#39;s metadata tenant when disable multi-tenant metadata](https://github.com/streamnative/kop/pull/1980) on [streamnative/kop](https://github.com/streamnative/kop) (1 month ago)
 - [[oauthclient] Create a zero-dependencies jar: - remove Async HTTP client and use the standard JDK Http client - shade and relocate Jackson Databind, used for JSON](https://github.com/streamnative/kop/pull/1979) on [streamnative/kop](https://github.com/streamnative/kop) (1 month ago)
 - [[branch-2.11][fix][broker] Avoid infinite bundle unloading (#20822)](https://github.com/apache/pulsar/pull/20878) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 - [[branch-2.10][fix][broker] Avoid infinite bundle unloading (#20822)](https://github.com/apache/pulsar/pull/20877) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
