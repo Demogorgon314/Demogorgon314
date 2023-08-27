@@ -41,7 +41,7 @@
 - [[fix][transaction] Use pulsar format when write marker to __consumer_offsets topic](https://github.com/streamnative/kop/pull/1994) on [streamnative/kop](https://github.com/streamnative/kop) (2 weeks ago)
 - [[fix][transaction] Contains UUID when auto topic creation](https://github.com/streamnative/kop/pull/1993) on [streamnative/kop](https://github.com/streamnative/kop) (2 weeks ago)
 - [[improve][oauthclient] Support decode base64 format credentials URL](https://github.com/streamnative/kop/pull/1990) on [streamnative/kop](https://github.com/streamnative/kop) (3 weeks ago)
-- [[security] broker to broker hostname verification](https://github.com/streamnative/kop/pull/1983) on [streamnative/kop](https://github.com/streamnative/kop) (4 weeks ago)
+- [[security] broker to broker hostname verification](https://github.com/streamnative/kop/pull/1983) on [streamnative/kop](https://github.com/streamnative/kop) (1 month ago)
 - [[transaction] Use the config&#39;s metadata tenant when disable multi-tenant metadata](https://github.com/streamnative/kop/pull/1980) on [streamnative/kop](https://github.com/streamnative/kop) (1 month ago)
 - [[oauthclient] Create a zero-dependencies jar: - remove Async HTTP client and use the standard JDK Http client - shade and relocate Jackson Databind, used for JSON](https://github.com/streamnative/kop/pull/1979) on [streamnative/kop](https://github.com/streamnative/kop) (1 month ago)
 - [[branch-2.11][fix][broker] Avoid infinite bundle unloading (#20822)](https://github.com/apache/pulsar/pull/20878) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
@@ -58,7 +58,7 @@
 - [bb-qq/r8152](https://github.com/bb-qq/r8152) - Synology DSM driver for Realtek RTL8152/RTL8153/RTL8156 based adapters (3 months ago)
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it&#39;s combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, &#34;infinite&#34; ctx_len, and free sentence embedding. (3 months ago)
 - [faceair/clash-speedtest](https://github.com/faceair/clash-speedtest) - clash speedtest (3 months ago)
-- [deep-floyd/IF](https://github.com/deep-floyd/IF) -  (3 months ago)
+- [deep-floyd/IF](https://github.com/deep-floyd/IF) -  (4 months ago)
 - [streamnative/oxia](https://github.com/streamnative/oxia) - Oxia - Metadata store and coordination system (4 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
