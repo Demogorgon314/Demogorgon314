@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (2 days ago)
+- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (3 days ago)
 - [Demogorgon314/ClashRules](https://github.com/Demogorgon314/ClashRules) -  (1 week ago)
 - [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (3 weeks ago)
 - [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) - DataStax - Starlight for Kafka (3 months ago)
@@ -41,7 +41,7 @@
 - [[fix][broker] Cleanup correctly heartbeat bundle ownership when handling broker deletion event](https://github.com/apache/pulsar/pull/21083) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [[cleanup][admin] Do not print full stacktrace when get partitioned metadata not found](https://github.com/apache/pulsar/pull/20979) on [apache/pulsar](https://github.com/apache/pulsar) (3 weeks ago)
 - [[fix][transaction] Use pulsar format when write marker to __consumer_offsets topic](https://github.com/streamnative/kop/pull/1994) on [streamnative/kop](https://github.com/streamnative/kop) (4 weeks ago)
-- [[fix][transaction] Contains UUID when auto topic creation](https://github.com/streamnative/kop/pull/1993) on [streamnative/kop](https://github.com/streamnative/kop) (4 weeks ago)
+- [[fix][transaction] Contains UUID when auto topic creation](https://github.com/streamnative/kop/pull/1993) on [streamnative/kop](https://github.com/streamnative/kop) (1 month ago)
 - [[improve][oauthclient] Support decode base64 format credentials URL](https://github.com/streamnative/kop/pull/1990) on [streamnative/kop](https://github.com/streamnative/kop) (1 month ago)
 - [[security] broker to broker hostname verification](https://github.com/streamnative/kop/pull/1983) on [streamnative/kop](https://github.com/streamnative/kop) (1 month ago)
 - [[transaction] Use the config&#39;s metadata tenant when disable multi-tenant metadata](https://github.com/streamnative/kop/pull/1980) on [streamnative/kop](https://github.com/streamnative/kop) (1 month ago)
@@ -50,6 +50,7 @@
 
 #### ⭐ Recent Stars
 
+- [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) - 李跳跳自定义规则 (1 day ago)
 - [EpicGames/UnrealEngine](https://github.com/EpicGames/UnrealEngine) - Unreal Engine source code (1 week ago)
 - [oslabs-beta/PulsarPortrait](https://github.com/oslabs-beta/PulsarPortrait) - Pulsar (1 month ago)
 - [istoreos/istoreos](https://github.com/istoreos/istoreos) - 提供一个人人会用的的路由、NAS系统 (1 month ago)
@@ -59,7 +60,6 @@
 - [bb-qq/r8152](https://github.com/bb-qq/r8152) - Synology DSM driver for Realtek RTL8152/RTL8153/RTL8156 based adapters (3 months ago)
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it&#39;s combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, &#34;infinite&#34; ctx_len, and free sentence embedding. (3 months ago)
 - [faceair/clash-speedtest](https://github.com/faceair/clash-speedtest) - clash speedtest (4 months ago)
-- [deep-floyd/IF](https://github.com/deep-floyd/IF) -  (4 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
