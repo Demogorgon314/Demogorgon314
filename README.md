@@ -4,7 +4,7 @@
 
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (1 week ago)
 - [Demogorgon314/ClashRules](https://github.com/Demogorgon314/ClashRules) -  (2 weeks ago)
-- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (3 weeks ago)
+- [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (4 weeks ago)
 - [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) - DataStax - Starlight for Kafka (3 months ago)
 - [Demogorgon314/SpringBootKStreamDemo](https://github.com/Demogorgon314/SpringBootKStreamDemo) -  (4 months ago)
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) - Apache Pulsar C&#43;&#43; client library (7 months ago)
@@ -37,8 +37,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[fix][broker] Avoid splitting one batch message into two entries in StrategicTwoPhaseCompactor](https://github.com/apache/pulsar/pull/21156) on [apache/pulsar](https://github.com/apache/pulsar) (1 day ago)
 - [[fix][broker] Avoid splitting one batch message into two entries in StrategicTwoPhaseCompactor](https://github.com/apache/pulsar/pull/21091) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
-- [[fix][broker] Cleanup correctly heartbeat bundle ownership when handling broker deletion event](https://github.com/apache/pulsar/pull/21083) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
+- [[fix][broker] Cleanup correctly heartbeat bundle ownership when handling broker deletion event](https://github.com/apache/pulsar/pull/21083) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
 - [[cleanup][admin] Do not print full stacktrace when get partitioned metadata not found](https://github.com/apache/pulsar/pull/20979) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 - [[fix][transaction] Use pulsar format when write marker to __consumer_offsets topic](https://github.com/streamnative/kop/pull/1994) on [streamnative/kop](https://github.com/streamnative/kop) (1 month ago)
 - [[fix][transaction] Contains UUID when auto topic creation](https://github.com/streamnative/kop/pull/1993) on [streamnative/kop](https://github.com/streamnative/kop) (1 month ago)
@@ -46,11 +47,10 @@
 - [[security] broker to broker hostname verification](https://github.com/streamnative/kop/pull/1983) on [streamnative/kop](https://github.com/streamnative/kop) (1 month ago)
 - [[transaction] Use the config&#39;s metadata tenant when disable multi-tenant metadata](https://github.com/streamnative/kop/pull/1980) on [streamnative/kop](https://github.com/streamnative/kop) (1 month ago)
 - [[oauthclient] Create a zero-dependencies jar: - remove Async HTTP client and use the standard JDK Http client - shade and relocate Jackson Databind, used for JSON](https://github.com/streamnative/kop/pull/1979) on [streamnative/kop](https://github.com/streamnative/kop) (1 month ago)
-- [[branch-2.11][fix][broker] Avoid infinite bundle unloading (#20822)](https://github.com/apache/pulsar/pull/20878) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) - 李跳跳自定义规则 (5 days ago)
+- [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) - 李跳跳自定义规则 (6 days ago)
 - [EpicGames/UnrealEngine](https://github.com/EpicGames/UnrealEngine) - Unreal Engine source code (2 weeks ago)
 - [oslabs-beta/PulsarPortrait](https://github.com/oslabs-beta/PulsarPortrait) - Pulsar (1 month ago)
 - [istoreos/istoreos](https://github.com/istoreos/istoreos) - 提供一个人人会用的的路由、NAS系统 (1 month ago)
