@@ -11,7 +11,7 @@
 - [Demogorgon314/Pulsar-Wireshark-Dissector](https://github.com/Demogorgon314/Pulsar-Wireshark-Dissector) - Pulsar Wireshark Dissector (7 months ago)
 - [apache/pulsar-site](https://github.com/apache/pulsar-site) - Apache Pulsar Site (8 months ago)
 - [apache/pulsar-client-go](https://github.com/apache/pulsar-client-go) - Apache Pulsar Go Client Library (8 months ago)
-- [apache/pulsar-client-python](https://github.com/apache/pulsar-client-python) - Apache Pulsar Python client library (10 months ago)
+- [apache/pulsar-client-python](https://github.com/apache/pulsar-client-python) - Apache Pulsar Python client library (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -37,7 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[fix][broker] Avoid splitting one batch message into two entries in StrategicTwoPhaseCompactor](https://github.com/apache/pulsar/pull/21156) on [apache/pulsar](https://github.com/apache/pulsar) (4 days ago)
+- [[fix][broker] Avoid splitting one batch message into two entries in StrategicTwoPhaseCompactor](https://github.com/apache/pulsar/pull/21156) on [apache/pulsar](https://github.com/apache/pulsar) (5 days ago)
 - [[fix][broker] Avoid splitting one batch message into two entries in StrategicTwoPhaseCompactor](https://github.com/apache/pulsar/pull/21091) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
 - [[fix][broker] Cleanup correctly heartbeat bundle ownership when handling broker deletion event](https://github.com/apache/pulsar/pull/21083) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
 - [[cleanup][admin] Do not print full stacktrace when get partitioned metadata not found](https://github.com/apache/pulsar/pull/20979) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
