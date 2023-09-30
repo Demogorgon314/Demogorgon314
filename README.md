@@ -10,7 +10,7 @@
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) - Apache Pulsar C&#43;&#43; client library (8 months ago)
 - [Demogorgon314/Pulsar-Wireshark-Dissector](https://github.com/Demogorgon314/Pulsar-Wireshark-Dissector) - Pulsar Wireshark Dissector (8 months ago)
 - [apache/pulsar-site](https://github.com/apache/pulsar-site) - Apache Pulsar Site (8 months ago)
-- [apache/pulsar-client-go](https://github.com/apache/pulsar-client-go) - Apache Pulsar Go Client Library (8 months ago)
+- [apache/pulsar-client-go](https://github.com/apache/pulsar-client-go) - Apache Pulsar Go Client Library (9 months ago)
 - [apache/pulsar-client-python](https://github.com/apache/pulsar-client-python) - Apache Pulsar Python client library (11 months ago)
 
 #### 🌱 My latest projects
@@ -44,7 +44,7 @@
 - [[cleanup][admin] Do not print full stacktrace when get partitioned metadata not found](https://github.com/apache/pulsar/pull/20979) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 - [[fix][transaction] Use pulsar format when write marker to __consumer_offsets topic](https://github.com/streamnative/kop/pull/1994) on [streamnative/kop](https://github.com/streamnative/kop) (1 month ago)
 - [[fix][transaction] Contains UUID when auto topic creation](https://github.com/streamnative/kop/pull/1993) on [streamnative/kop](https://github.com/streamnative/kop) (1 month ago)
-- [[improve][oauthclient] Support decode base64 format credentials URL](https://github.com/streamnative/kop/pull/1990) on [streamnative/kop](https://github.com/streamnative/kop) (1 month ago)
+- [[improve][oauthclient] Support decode base64 format credentials URL](https://github.com/streamnative/kop/pull/1990) on [streamnative/kop](https://github.com/streamnative/kop) (2 months ago)
 - [[security] broker to broker hostname verification](https://github.com/streamnative/kop/pull/1983) on [streamnative/kop](https://github.com/streamnative/kop) (2 months ago)
 - [[transaction] Use the config&#39;s metadata tenant when disable multi-tenant metadata](https://github.com/streamnative/kop/pull/1980) on [streamnative/kop](https://github.com/streamnative/kop) (2 months ago)
 
