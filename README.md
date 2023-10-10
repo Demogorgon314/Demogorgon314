@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (1 day ago)
+- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (2 days ago)
 - [Demogorgon314/ClashRules](https://github.com/Demogorgon314/ClashRules) -  (1 month ago)
 - [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (1 month ago)
 - [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) - DataStax - Starlight for Kafka (4 months ago)
@@ -37,16 +37,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[branch-3.1][fix][broker] Fix lookup heartbeat and sla namespace bundle when using extensible load manager (#21213)](https://github.com/apache/pulsar/pull/21314) on [apache/pulsar](https://github.com/apache/pulsar) (1 day ago)
-- [[branch-3.0][fix][broker] Fix lookup heartbeat and sla namespace bundle when using extensible load manager (#21213)](https://github.com/apache/pulsar/pull/21313) on [apache/pulsar](https://github.com/apache/pulsar) (1 day ago)
+- [[fix][broker] Fix unload operation stuck when use ExtensibleLoadManager](https://github.com/apache/pulsar/pull/21332) on [apache/pulsar](https://github.com/apache/pulsar) (1 day ago)
+- [[branch-3.1][fix][broker] Fix lookup heartbeat and sla namespace bundle when using extensible load manager (#21213)](https://github.com/apache/pulsar/pull/21314) on [apache/pulsar](https://github.com/apache/pulsar) (2 days ago)
+- [[branch-3.0][fix][broker] Fix lookup heartbeat and sla namespace bundle when using extensible load manager (#21213)](https://github.com/apache/pulsar/pull/21313) on [apache/pulsar](https://github.com/apache/pulsar) (2 days ago)
 - [[fix][broker] Fix lookup heartbeat and sla namespace bundle when using extensible load manager](https://github.com/apache/pulsar/pull/21213) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
 - [[branch-3.0][fix][broker] Avoid splitting one batch message into two entries in StrategicTwoPhaseCompactor](https://github.com/apache/pulsar/pull/21156) on [apache/pulsar](https://github.com/apache/pulsar) (4 weeks ago)
 - [[fix][broker] Avoid splitting one batch message into two entries in StrategicTwoPhaseCompactor](https://github.com/apache/pulsar/pull/21091) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 - [[fix][broker] Cleanup correctly heartbeat bundle ownership when handling broker deletion event](https://github.com/apache/pulsar/pull/21083) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
-- [[cleanup][admin] Do not print full stacktrace when get partitioned metadata not found](https://github.com/apache/pulsar/pull/20979) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
+- [[cleanup][admin] Do not print full stacktrace when get partitioned metadata not found](https://github.com/apache/pulsar/pull/20979) on [apache/pulsar](https://github.com/apache/pulsar) (2 months ago)
 - [[fix][transaction] Use pulsar format when write marker to __consumer_offsets topic](https://github.com/streamnative/kop/pull/1994) on [streamnative/kop](https://github.com/streamnative/kop) (2 months ago)
 - [[fix][transaction] Contains UUID when auto topic creation](https://github.com/streamnative/kop/pull/1993) on [streamnative/kop](https://github.com/streamnative/kop) (2 months ago)
-- [[improve][oauthclient] Support decode base64 format credentials URL](https://github.com/streamnative/kop/pull/1990) on [streamnative/kop](https://github.com/streamnative/kop) (2 months ago)
 
 #### ⭐ Recent Stars
 
