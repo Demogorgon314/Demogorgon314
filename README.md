@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[improve][pip] PIP-306: Introduce start index for AppendIndexMetadataInterceptor](https://github.com/apache/pulsar/pull/21381) on [apache/pulsar](https://github.com/apache/pulsar) (1 day ago)
 - [[fix][broker] Fix unload operation stuck when use ExtensibleLoadManager](https://github.com/apache/pulsar/pull/21332) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [[fix][broker][branch-3.1] Fix lookup heartbeat and sla namespace bundle when using extensible load manager (#21213)](https://github.com/apache/pulsar/pull/21314) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [[fix][broker][branch-3.0] Fix lookup heartbeat and sla namespace bundle when using extensible load manager (#21213)](https://github.com/apache/pulsar/pull/21313) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
@@ -46,7 +47,6 @@
 - [[fix][broker] Cleanup correctly heartbeat bundle ownership when handling broker deletion event](https://github.com/apache/pulsar/pull/21083) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 - [[cleanup][admin] Do not print full stacktrace when get partitioned metadata not found](https://github.com/apache/pulsar/pull/20979) on [apache/pulsar](https://github.com/apache/pulsar) (2 months ago)
 - [[fix][transaction] Use pulsar format when write marker to __consumer_offsets topic](https://github.com/streamnative/kop/pull/1994) on [streamnative/kop](https://github.com/streamnative/kop) (2 months ago)
-- [[fix][transaction] Contains UUID when auto topic creation](https://github.com/streamnative/kop/pull/1993) on [streamnative/kop](https://github.com/streamnative/kop) (2 months ago)
 
 #### ⭐ Recent Stars
 
