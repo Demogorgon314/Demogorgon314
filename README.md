@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) ([v3.4.0](https://github.com/apache/pulsar-client-cpp/releases/tag/v3.4.0), 3 days ago) - Apache Pulsar C&#43;&#43; client library
+- [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) ([v3.4.0](https://github.com/apache/pulsar-client-cpp/releases/tag/v3.4.0), 4 days ago) - Apache Pulsar C&#43;&#43; client library
 - [apache/pulsar-client-go](https://github.com/apache/pulsar-client-go) ([v0.11.1](https://github.com/apache/pulsar-client-go/releases/tag/v0.11.1), 1 week ago) - Apache Pulsar Go Client Library
 - [apache/pulsar](https://github.com/apache/pulsar) ([v3.1.1](https://github.com/apache/pulsar/releases/tag/v3.1.1), 3 weeks ago) - Apache Pulsar - distributed pub-sub messaging system
 - [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) ([v2.10.3.10](https://github.com/datastax/starlight-for-kafka/releases/tag/v2.10.3.10), 5 months ago) - DataStax - Starlight for Kafka
@@ -38,7 +38,7 @@
 
 - [Add kop with debezium mysql connect demo](https://github.com/streamnative/sn-demos/pull/10) on [streamnative/sn-demos](https://github.com/streamnative/sn-demos) (1 week ago)
 - [[fix][test] Fix ExtensibleLoadManagerImplTest flaky test](https://github.com/apache/pulsar/pull/21479) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
-- [Update kop-with-simple-connect.md](https://github.com/streamnative/sn-demos/pull/8) on [streamnative/sn-demos](https://github.com/streamnative/sn-demos) (3 weeks ago)
+- [Update kop-with-simple-connect.md](https://github.com/streamnative/sn-demos/pull/8) on [streamnative/sn-demos](https://github.com/streamnative/sn-demos) (4 weeks ago)
 - [[improve][pip] PIP-306: Introduce start index for AppendIndexMetadataInterceptor](https://github.com/apache/pulsar/pull/21381) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 - [[fix][broker] Fix unload operation stuck when use ExtensibleLoadManager](https://github.com/apache/pulsar/pull/21332) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 - [[fix][broker][branch-3.1] Fix lookup heartbeat and sla namespace bundle when using extensible load manager (#21213)](https://github.com/apache/pulsar/pull/21314) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
