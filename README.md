@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) ([v3.4.1](https://github.com/apache/pulsar-client-cpp/releases/tag/v3.4.1), 4 days ago) - Apache Pulsar C&#43;&#43; client library
+- [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) ([v3.4.1](https://github.com/apache/pulsar-client-cpp/releases/tag/v3.4.1), 5 days ago) - Apache Pulsar C&#43;&#43; client library
 - [apache/pulsar-client-go](https://github.com/apache/pulsar-client-go) ([v0.11.1](https://github.com/apache/pulsar-client-go/releases/tag/v0.11.1), 3 weeks ago) - Apache Pulsar Go Client Library
 - [apache/pulsar](https://github.com/apache/pulsar) ([v3.1.1](https://github.com/apache/pulsar/releases/tag/v3.1.1), 1 month ago) - Apache Pulsar - distributed pub-sub messaging system
 - [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) ([v2.10.3.10](https://github.com/datastax/starlight-for-kafka/releases/tag/v2.10.3.10), 5 months ago) - DataStax - Starlight for Kafka
@@ -65,11 +65,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [1Jack2](https://github.com/1Jack2)
 - [thetumbled](https://github.com/thetumbled)
 - [ohmyj](https://github.com/ohmyj)
 - [Asbaharoon](https://github.com/Asbaharoon)
 - [freshtang](https://github.com/freshtang)
-- [HardwayLinka](https://github.com/HardwayLinka)
 
 #### 💬 Feedback
 
