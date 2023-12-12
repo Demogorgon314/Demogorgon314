@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/pulsar](https://github.com/apache/pulsar) ([v3.0.2](https://github.com/apache/pulsar/releases/tag/v3.0.2), 3 days ago) - Apache Pulsar - distributed pub-sub messaging system
+- [apache/pulsar](https://github.com/apache/pulsar) ([v3.0.2](https://github.com/apache/pulsar/releases/tag/v3.0.2), 4 days ago) - Apache Pulsar - distributed pub-sub messaging system
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) ([v3.4.1](https://github.com/apache/pulsar-client-cpp/releases/tag/v3.4.1), 2 weeks ago) - Apache Pulsar C&#43;&#43; client library
 - [apache/pulsar-client-go](https://github.com/apache/pulsar-client-go) ([v0.11.1](https://github.com/apache/pulsar-client-go/releases/tag/v0.11.1), 1 month ago) - Apache Pulsar Go Client Library
 - [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) ([v2.10.3.10](https://github.com/datastax/starlight-for-kafka/releases/tag/v2.10.3.10), 6 months ago) - DataStax - Starlight for Kafka
@@ -36,7 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Upgrade boost version to 1.83.0](https://github.com/Demogorgon314/pulsar-client-cpp/pull/4) on [Demogorgon314/pulsar-client-cpp](https://github.com/Demogorgon314/pulsar-client-cpp) (5 days ago)
+- [Upgrade boost version to 1.83.0](https://github.com/Demogorgon314/pulsar-client-cpp/pull/4) on [Demogorgon314/pulsar-client-cpp](https://github.com/Demogorgon314/pulsar-client-cpp) (6 days ago)
 - [Add kop with debezium mysql connect demo](https://github.com/streamnative/sn-demos/pull/10) on [streamnative/sn-demos](https://github.com/streamnative/sn-demos) (1 month ago)
 - [[fix][test] Fix ExtensibleLoadManagerImplTest flaky test](https://github.com/apache/pulsar/pull/21479) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 - [Update kop-with-simple-connect.md](https://github.com/streamnative/sn-demos/pull/8) on [streamnative/sn-demos](https://github.com/streamnative/sn-demos) (1 month ago)
