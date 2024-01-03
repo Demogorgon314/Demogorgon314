@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (6 days ago)
+- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (1 week ago)
 - [streamnative/sn-demos](https://github.com/streamnative/sn-demos) -  (1 month ago)
 - [Demogorgon314/ClashRules](https://github.com/Demogorgon314/ClashRules) -  (4 months ago)
 - [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (4 months ago)
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/pulsar](https://github.com/apache/pulsar) ([v3.1.2](https://github.com/apache/pulsar/releases/tag/v3.1.2), 1 day ago) - Apache Pulsar - distributed pub-sub messaging system
+- [apache/pulsar](https://github.com/apache/pulsar) ([v3.1.2](https://github.com/apache/pulsar/releases/tag/v3.1.2), 2 days ago) - Apache Pulsar - distributed pub-sub messaging system
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) ([v3.4.2](https://github.com/apache/pulsar-client-cpp/releases/tag/v3.4.2), 2 weeks ago) - Apache Pulsar C&#43;&#43; client library
 - [apache/pulsar-client-go](https://github.com/apache/pulsar-client-go) ([v0.11.1](https://github.com/apache/pulsar-client-go/releases/tag/v0.11.1), 1 month ago) - Apache Pulsar Go Client Library
-- [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) ([v2.10.3.10](https://github.com/datastax/starlight-for-kafka/releases/tag/v2.10.3.10), 6 months ago) - DataStax - Starlight for Kafka
+- [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) ([v2.10.3.10](https://github.com/datastax/starlight-for-kafka/releases/tag/v2.10.3.10), 7 months ago) - DataStax - Starlight for Kafka
 - [streamnative/kop](https://github.com/streamnative/kop) ([v2.11.1.2-b2c38c](https://github.com/streamnative/kop/releases/tag/v2.11.1.2-b2c38c), 7 months ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 
 #### 🔨 My recent Pull Requests
@@ -39,7 +39,7 @@
 - [[fix][test] Fix ExtensibleLoadManager flaky integration test](https://github.com/apache/pulsar/pull/21799) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [Fix ExtensibleLoadManager Intergation test](https://github.com/Demogorgon314/pulsar/pull/17) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (1 week ago)
 - [[fix][broker] Fix TableViewLoadDataStoreImpl NPE](https://github.com/apache/pulsar/pull/21777) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
-- [Upgrade boost version to 1.83.0](https://github.com/Demogorgon314/pulsar-client-cpp/pull/4) on [Demogorgon314/pulsar-client-cpp](https://github.com/Demogorgon314/pulsar-client-cpp) (3 weeks ago)
+- [Upgrade boost version to 1.83.0](https://github.com/Demogorgon314/pulsar-client-cpp/pull/4) on [Demogorgon314/pulsar-client-cpp](https://github.com/Demogorgon314/pulsar-client-cpp) (4 weeks ago)
 - [Add kop with debezium mysql connect demo](https://github.com/streamnative/sn-demos/pull/10) on [streamnative/sn-demos](https://github.com/streamnative/sn-demos) (1 month ago)
 - [[fix][test] Fix ExtensibleLoadManagerImplTest flaky test](https://github.com/apache/pulsar/pull/21479) on [apache/pulsar](https://github.com/apache/pulsar) (2 months ago)
 - [Update kop-with-simple-connect.md](https://github.com/streamnative/sn-demos/pull/8) on [streamnative/sn-demos](https://github.com/streamnative/sn-demos) (2 months ago)
