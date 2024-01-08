@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (1 week ago)
-- [streamnative/sn-demos](https://github.com/streamnative/sn-demos) -  (1 month ago)
+- [streamnative/sn-demos](https://github.com/streamnative/sn-demos) -  (2 months ago)
 - [Demogorgon314/ClashRules](https://github.com/Demogorgon314/ClashRules) -  (4 months ago)
 - [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (4 months ago)
 - [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) - DataStax - Starlight for Kafka (7 months ago)
@@ -11,7 +11,6 @@
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) - Apache Pulsar C&#43;&#43; client library (11 months ago)
 - [Demogorgon314/Pulsar-Wireshark-Dissector](https://github.com/Demogorgon314/Pulsar-Wireshark-Dissector) - Pulsar Wireshark Dissector (11 months ago)
 - [apache/pulsar-site](https://github.com/apache/pulsar-site) - Apache Pulsar Site (1 year ago)
-- [apache/pulsar-client-go](https://github.com/apache/pulsar-client-go) - Apache Pulsar Go Client Library (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -28,18 +27,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/pulsar](https://github.com/apache/pulsar) ([v2.11.3](https://github.com/apache/pulsar/releases/tag/v2.11.3), 4 days ago) - Apache Pulsar - distributed pub-sub messaging system
+- [apache/pulsar](https://github.com/apache/pulsar) ([v2.11.3](https://github.com/apache/pulsar/releases/tag/v2.11.3), 5 days ago) - Apache Pulsar - distributed pub-sub messaging system
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) ([v3.4.2](https://github.com/apache/pulsar-client-cpp/releases/tag/v3.4.2), 3 weeks ago) - Apache Pulsar C&#43;&#43; client library
 - [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) ([v2.10.3.10](https://github.com/datastax/starlight-for-kafka/releases/tag/v2.10.3.10), 7 months ago) - DataStax - Starlight for Kafka
 - [streamnative/kop](https://github.com/streamnative/kop) ([v2.11.1.2-b2c38c](https://github.com/streamnative/kop/releases/tag/v2.11.1.2-b2c38c), 7 months ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 
 #### 🔨 My recent Pull Requests
 
-- [[fix][test] Fix ExtensibleLoadManager flaky integration test](https://github.com/apache/pulsar/pull/21799) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
+- [[fix][test] Fix ExtensibleLoadManager flaky integration test](https://github.com/apache/pulsar/pull/21799) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
 - [Fix ExtensibleLoadManager Intergation test](https://github.com/Demogorgon314/pulsar/pull/17) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (2 weeks ago)
 - [[fix][broker] Fix TableViewLoadDataStoreImpl NPE](https://github.com/apache/pulsar/pull/21777) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
 - [Upgrade boost version to 1.83.0](https://github.com/Demogorgon314/pulsar-client-cpp/pull/4) on [Demogorgon314/pulsar-client-cpp](https://github.com/Demogorgon314/pulsar-client-cpp) (1 month ago)
-- [Add kop with debezium mysql connect demo](https://github.com/streamnative/sn-demos/pull/10) on [streamnative/sn-demos](https://github.com/streamnative/sn-demos) (1 month ago)
+- [Add kop with debezium mysql connect demo](https://github.com/streamnative/sn-demos/pull/10) on [streamnative/sn-demos](https://github.com/streamnative/sn-demos) (2 months ago)
 - [[fix][test] Fix ExtensibleLoadManagerImplTest flaky test](https://github.com/apache/pulsar/pull/21479) on [apache/pulsar](https://github.com/apache/pulsar) (2 months ago)
 - [Update kop-with-simple-connect.md](https://github.com/streamnative/sn-demos/pull/8) on [streamnative/sn-demos](https://github.com/streamnative/sn-demos) (2 months ago)
 - [[improve][pip] PIP-306: Introduce start index for AppendIndexMetadataInterceptor](https://github.com/apache/pulsar/pull/21381) on [apache/pulsar](https://github.com/apache/pulsar) (2 months ago)
