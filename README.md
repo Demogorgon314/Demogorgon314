@@ -6,7 +6,7 @@
 - [streamnative/sn-demos](https://github.com/streamnative/sn-demos) -  (2 months ago)
 - [Demogorgon314/ClashRules](https://github.com/Demogorgon314/ClashRules) -  (5 months ago)
 - [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (5 months ago)
-- [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) - DataStax - Starlight for Kafka (7 months ago)
+- [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) - DataStax - Starlight for Kafka (8 months ago)
 - [Demogorgon314/SpringBootKStreamDemo](https://github.com/Demogorgon314/SpringBootKStreamDemo) -  (9 months ago)
 - [Demogorgon314/Pulsar-Wireshark-Dissector](https://github.com/Demogorgon314/Pulsar-Wireshark-Dissector) - Pulsar Wireshark Dissector (1 year ago)
 - [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) - Apache Pulsar C&#43;&#43; client library (1 year ago)
@@ -26,10 +26,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) ([v3.1.0.1](https://github.com/datastax/starlight-for-kafka/releases/tag/v3.1.0.1), 1 day ago) - DataStax - Starlight for Kafka
 - [streamnative/kop](https://github.com/streamnative/kop) ([v3.1.1.1](https://github.com/streamnative/kop/releases/tag/v3.1.1.1), 3 weeks ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 - [apache/pulsar](https://github.com/apache/pulsar) ([v2.11.3](https://github.com/apache/pulsar/releases/tag/v2.11.3), 4 weeks ago) - Apache Pulsar - distributed pub-sub messaging system
-- [apache/pulsar-client-cpp](https://github.com/apache/pulsar-client-cpp) ([v3.4.2](https://github.com/apache/pulsar-client-cpp/releases/tag/v3.4.2), 1 month ago) - Apache Pulsar C&#43;&#43; client library
-- [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) ([v2.10.3.10](https://github.com/datastax/starlight-for-kafka/releases/tag/v2.10.3.10), 7 months ago) - DataStax - Starlight for Kafka
 
 #### 🔨 My recent Pull Requests
 
@@ -46,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [ckcr4lyf/EvilAppleJuice-ESP32](https://github.com/ckcr4lyf/EvilAppleJuice-ESP32) - Spam Apple Proximity Messages via an ESP32 (2 days ago)
+- [ckcr4lyf/EvilAppleJuice-ESP32](https://github.com/ckcr4lyf/EvilAppleJuice-ESP32) - Spam Apple Proximity Messages via an ESP32 (3 days ago)
 - [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) - 李跳跳自定义规则 (4 months ago)
 - [EpicGames/UnrealEngine](https://github.com/EpicGames/UnrealEngine) - Unreal Engine source code (5 months ago)
 - [oslabs-beta/PulsarPortrait](https://github.com/oslabs-beta/PulsarPortrait) - Pulsar (6 months ago)
