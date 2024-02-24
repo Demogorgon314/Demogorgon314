@@ -4,10 +4,10 @@
 
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (1 month ago)
 - [streamnative/sn-demos](https://github.com/streamnative/sn-demos) -  (3 months ago)
-- [Demogorgon314/ClashRules](https://github.com/Demogorgon314/ClashRules) -  (5 months ago)
+- [Demogorgon314/ClashRules](https://github.com/Demogorgon314/ClashRules) -  (6 months ago)
 - [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (6 months ago)
 - [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) - DataStax - Starlight for Kafka (8 months ago)
-- [Demogorgon314/SpringBootKStreamDemo](https://github.com/Demogorgon314/SpringBootKStreamDemo) -  (9 months ago)
+- [Demogorgon314/SpringBootKStreamDemo](https://github.com/Demogorgon314/SpringBootKStreamDemo) -  (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -43,7 +43,7 @@
 
 #### ⭐ Recent Stars
 
-- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs (2 days ago)
+- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs (3 days ago)
 - [ckcr4lyf/EvilAppleJuice-ESP32](https://github.com/ckcr4lyf/EvilAppleJuice-ESP32) - Spam Apple Proximity Messages via an ESP32 (3 weeks ago)
 - [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) - 李跳跳自定义规则 (5 months ago)
 - [EpicGames/UnrealEngine](https://github.com/EpicGames/UnrealEngine) - Unreal Engine source code (6 months ago)
@@ -59,11 +59,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [diviyeshpatel](https://github.com/diviyeshpatel)
 - [1Jack2](https://github.com/1Jack2)
 - [thetumbled](https://github.com/thetumbled)
 - [ohmyj](https://github.com/ohmyj)
 - [Asbaharoon](https://github.com/Asbaharoon)
-- [freshtang](https://github.com/freshtang)
 
 #### 💬 Feedback
 
