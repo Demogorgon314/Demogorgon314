@@ -25,7 +25,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [apache/pulsar](https://github.com/apache/pulsar) ([v3.2.0](https://github.com/apache/pulsar/releases/tag/v3.2.0), 3 weeks ago) - Apache Pulsar - distributed pub-sub messaging system
-- [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) ([v3.1.0.1](https://github.com/datastax/starlight-for-kafka/releases/tag/v3.1.0.1), 4 weeks ago) - DataStax - Starlight for Kafka
+- [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) ([v3.1.0.1](https://github.com/datastax/starlight-for-kafka/releases/tag/v3.1.0.1), 1 month ago) - DataStax - Starlight for Kafka
 - [streamnative/kop](https://github.com/streamnative/kop) ([v3.1.1.1](https://github.com/streamnative/kop/releases/tag/v3.1.1.1), 1 month ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 
 #### 🔨 My recent Pull Requests
