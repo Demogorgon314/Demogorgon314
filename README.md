@@ -6,7 +6,7 @@
 - [streamnative/sn-demos](https://github.com/streamnative/sn-demos) -  (3 months ago)
 - [Demogorgon314/ClashRules](https://github.com/Demogorgon314/ClashRules) -  (6 months ago)
 - [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (6 months ago)
-- [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) - DataStax - Starlight for Kafka (8 months ago)
+- [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) - DataStax - Starlight for Kafka (9 months ago)
 - [Demogorgon314/SpringBootKStreamDemo](https://github.com/Demogorgon314/SpringBootKStreamDemo) -  (10 months ago)
 
 #### 🌱 My latest projects
