@@ -30,6 +30,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add KSN mTLS auth example](https://github.com/streamnative/private-cloud/pull/33) on [streamnative/private-cloud](https://github.com/streamnative/private-cloud) (1 day ago)
 - [[fix][test] Fix ExtensibleLoadManager flaky integration test](https://github.com/apache/pulsar/pull/21799) on [apache/pulsar](https://github.com/apache/pulsar) (3 months ago)
 - [Fix ExtensibleLoadManager Intergation test](https://github.com/Demogorgon314/pulsar/pull/17) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (3 months ago)
 - [[fix][broker] Fix TableViewLoadDataStoreImpl NPE](https://github.com/apache/pulsar/pull/21777) on [apache/pulsar](https://github.com/apache/pulsar) (3 months ago)
@@ -39,7 +40,6 @@
 - [Update kop-with-simple-connect.md](https://github.com/streamnative/sn-demos/pull/8) on [streamnative/sn-demos](https://github.com/streamnative/sn-demos) (5 months ago)
 - [[improve][pip] PIP-306: Introduce start index for AppendIndexMetadataInterceptor](https://github.com/apache/pulsar/pull/21381) on [apache/pulsar](https://github.com/apache/pulsar) (5 months ago)
 - [[fix][broker] Fix unload operation stuck when use ExtensibleLoadManager](https://github.com/apache/pulsar/pull/21332) on [apache/pulsar](https://github.com/apache/pulsar) (5 months ago)
-- [[fix][broker][branch-3.1] Fix lookup heartbeat and sla namespace bundle when using extensible load manager (#21213)](https://github.com/apache/pulsar/pull/21314) on [apache/pulsar](https://github.com/apache/pulsar) (5 months ago)
 
 #### ⭐ Recent Stars
 
