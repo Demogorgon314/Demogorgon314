@@ -25,15 +25,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/pulsar](https://github.com/apache/pulsar) ([v3.2.2](https://github.com/apache/pulsar/releases/tag/v3.2.2), 1 week ago) - Apache Pulsar - distributed pub-sub messaging system
-- [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.1.1](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.1.1), 2 weeks ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
+- [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.1.2](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.1.2), 1 day ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
+- [apache/pulsar](https://github.com/apache/pulsar) ([v3.2.2](https://github.com/apache/pulsar/releases/tag/v3.2.2), 2 weeks ago) - Apache Pulsar - distributed pub-sub messaging system
 - [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) ([v3.1.0.1](https://github.com/datastax/starlight-for-kafka/releases/tag/v3.1.0.1), 2 months ago) - DataStax - Starlight for Kafka
 - [streamnative/kop](https://github.com/streamnative/kop) ([v3.1.1.1](https://github.com/streamnative/kop/releases/tag/v3.1.1.1), 3 months ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 
 #### 🔨 My recent Pull Requests
 
-- [[fix][broker] Support lookup options for extensible load manager](https://github.com/apache/pulsar/pull/22487) on [apache/pulsar](https://github.com/apache/pulsar) (3 days ago)
-- [[fix][broker] Check the broker is available for the SLA monitor bundle when the ExtensibleLoadManager is enabled](https://github.com/apache/pulsar/pull/22485) on [apache/pulsar](https://github.com/apache/pulsar) (4 days ago)
+- [[fix][broker] Support lookup options for extensible load manager](https://github.com/apache/pulsar/pull/22487) on [apache/pulsar](https://github.com/apache/pulsar) (4 days ago)
+- [[fix][broker] Check the broker is available for the SLA monitor bundle when the ExtensibleLoadManager is enabled](https://github.com/apache/pulsar/pull/22485) on [apache/pulsar](https://github.com/apache/pulsar) (5 days ago)
 - [Add KSN mTLS auth example](https://github.com/streamnative/private-cloud/pull/33) on [streamnative/private-cloud](https://github.com/streamnative/private-cloud) (2 weeks ago)
 - [[fix][test] Fix ExtensibleLoadManager flaky integration test](https://github.com/apache/pulsar/pull/21799) on [apache/pulsar](https://github.com/apache/pulsar) (3 months ago)
 - [Fix ExtensibleLoadManager Intergation test](https://github.com/Demogorgon314/pulsar/pull/17) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (3 months ago)
@@ -49,7 +49,7 @@
 - [ckcr4lyf/EvilAppleJuice-ESP32](https://github.com/ckcr4lyf/EvilAppleJuice-ESP32) - Spam Apple Proximity Messages via an ESP32 (2 months ago)
 - [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) - 李跳跳自定义规则 (7 months ago)
 - [EpicGames/UnrealEngine](https://github.com/EpicGames/UnrealEngine) - Unreal Engine source code (7 months ago)
-- [oslabs-beta/PulsarPortrait](https://github.com/oslabs-beta/PulsarPortrait) - Pulsar (8 months ago)
+- [oslabs-beta/PulsarPortrait](https://github.com/oslabs-beta/PulsarPortrait) - Pulsar (9 months ago)
 - [istoreos/istoreos](https://github.com/istoreos/istoreos) - 提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-22.03） (9 months ago)
 - [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩客户端，A third-party bilibili client。 (9 months ago)
 - [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址 (9 months ago)
