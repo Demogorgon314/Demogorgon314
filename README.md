@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (1 day ago)
+- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (2 days ago)
 - [Demogorgon314/ClashRules](https://github.com/Demogorgon314/ClashRules) -  (2 weeks ago)
 - [streamnative/private-cloud](https://github.com/streamnative/private-cloud) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs). (3 weeks ago)
 - [streamnative/sn-demos](https://github.com/streamnative/sn-demos) -  (5 months ago)
@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.1.2](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.1.2), 4 days ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
+- [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.1.2](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.1.2), 5 days ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
 - [apache/pulsar](https://github.com/apache/pulsar) ([v3.2.2](https://github.com/apache/pulsar/releases/tag/v3.2.2), 2 weeks ago) - Apache Pulsar - distributed pub-sub messaging system
 - [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) ([v3.1.0.1](https://github.com/datastax/starlight-for-kafka/releases/tag/v3.1.0.1), 2 months ago) - DataStax - Starlight for Kafka
 - [streamnative/kop](https://github.com/streamnative/kop) ([v3.1.1.1](https://github.com/streamnative/kop/releases/tag/v3.1.1.1), 3 months ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
@@ -47,7 +47,7 @@
 
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs (1 month ago)
 - [ckcr4lyf/EvilAppleJuice-ESP32](https://github.com/ckcr4lyf/EvilAppleJuice-ESP32) - Spam Apple Proximity Messages via an ESP32 (2 months ago)
-- [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) - 李跳跳自定义规则 (7 months ago)
+- [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) -  (7 months ago)
 - [EpicGames/UnrealEngine](https://github.com/EpicGames/UnrealEngine) - Unreal Engine source code (7 months ago)
 - [oslabs-beta/PulsarPortrait](https://github.com/oslabs-beta/PulsarPortrait) - Pulsar (9 months ago)
 - [istoreos/istoreos](https://github.com/istoreos/istoreos) - 提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-22.03） (9 months ago)
