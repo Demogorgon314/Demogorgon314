@@ -24,8 +24,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.1.4](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.1.4), 3 days ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
-- [apache/pulsar](https://github.com/apache/pulsar) ([v3.2.3](https://github.com/apache/pulsar/releases/tag/v3.2.3), 3 days ago) - Apache Pulsar - distributed pub-sub messaging system
+- [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.1.4](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.1.4), 4 days ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
+- [apache/pulsar](https://github.com/apache/pulsar) ([v3.2.3](https://github.com/apache/pulsar/releases/tag/v3.2.3), 4 days ago) - Apache Pulsar - distributed pub-sub messaging system
 - [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) ([v3.1.0.1](https://github.com/datastax/starlight-for-kafka/releases/tag/v3.1.0.1), 3 months ago) - DataStax - Starlight for Kafka
 - [streamnative/kop](https://github.com/streamnative/kop) ([v3.1.1.1](https://github.com/streamnative/kop/releases/tag/v3.1.1.1), 4 months ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 
@@ -45,7 +45,7 @@
 #### ⭐ Recent Stars
 
 - [streamnative/cloud-api-server](https://github.com/streamnative/cloud-api-server) - StreamNative Cloud API Server (3 weeks ago)
-- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs (2 months ago)
+- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs (3 months ago)
 - [ckcr4lyf/EvilAppleJuice-ESP32](https://github.com/ckcr4lyf/EvilAppleJuice-ESP32) - Spam Apple Proximity Messages via an ESP32 (3 months ago)
 - [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) -  (8 months ago)
 - [EpicGames/UnrealEngine](https://github.com/EpicGames/UnrealEngine) - Unreal Engine source code (8 months ago)
@@ -53,7 +53,7 @@
 - [istoreos/istoreos](https://github.com/istoreos/istoreos) - 提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-22.03） (10 months ago)
 - [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩客户端，A third-party bilibili client。 (10 months ago)
 - [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址 (10 months ago)
-- [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型 (10 months ago)
+- [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型 (11 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
