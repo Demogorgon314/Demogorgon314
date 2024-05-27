@@ -4,7 +4,7 @@
 
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (2 weeks ago)
 - [Demogorgon314/ClashRules](https://github.com/Demogorgon314/ClashRules) -  (1 month ago)
-- [streamnative/private-cloud](https://github.com/streamnative/private-cloud) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs). (1 month ago)
+- [streamnative/private-cloud](https://github.com/streamnative/private-cloud) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs). (2 months ago)
 - [streamnative/sn-demos](https://github.com/streamnative/sn-demos) -  (6 months ago)
 - [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (9 months ago)
 - [datastax/starlight-for-kafka](https://github.com/datastax/starlight-for-kafka) - DataStax - Starlight for Kafka (11 months ago)
