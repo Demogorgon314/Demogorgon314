@@ -5,7 +5,7 @@
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (4 weeks ago)
 - [Demogorgon314/ClashRules](https://github.com/Demogorgon314/ClashRules) -  (3 months ago)
 - [streamnative/private-cloud](https://github.com/streamnative/private-cloud) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs). (3 months ago)
-- [streamnative/sn-demos](https://github.com/streamnative/sn-demos) -  (7 months ago)
+- [streamnative/sn-demos](https://github.com/streamnative/sn-demos) -  (8 months ago)
 - [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (10 months ago)
 
 #### 🌱 My latest projects
@@ -25,7 +25,7 @@
 
 - [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.1.5](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.1.5), 4 weeks ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
 - [apache/pulsar](https://github.com/apache/pulsar) ([v3.3.0](https://github.com/apache/pulsar/releases/tag/v3.3.0), 1 month ago) - Apache Pulsar - distributed pub-sub messaging system
-- [streamnative/kop](https://github.com/streamnative/kop) ([v3.1.1.1](https://github.com/streamnative/kop/releases/tag/v3.1.1.1), 5 months ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
+- [streamnative/kop](https://github.com/streamnative/kop) ([v3.1.1.1](https://github.com/streamnative/kop/releases/tag/v3.1.1.1), 6 months ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 
 #### 🔨 My recent Pull Requests
 
@@ -42,6 +42,7 @@
 
 #### ⭐ Recent Stars
 
+- [sipeed/LicheeRV-Nano-Build](https://github.com/sipeed/LicheeRV-Nano-Build) - LicheeRV-Nano-Build (1 day ago)
 - [xykt/IPQuality](https://github.com/xykt/IPQuality) - A script for IP quality detection (4 weeks ago)
 - [streamnative/cloud-api-server](https://github.com/streamnative/cloud-api-server) - StreamNative Cloud API Server (2 months ago)
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs (4 months ago)
@@ -51,7 +52,6 @@
 - [oslabs-beta/PulsarPortrait](https://github.com/oslabs-beta/PulsarPortrait) - Pulsar (11 months ago)
 - [istoreos/istoreos](https://github.com/istoreos/istoreos) - 提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-22.03） (11 months ago)
 - [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩客户端，A third-party bilibili client。 (1 year ago)
-- [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址 (1 year ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
