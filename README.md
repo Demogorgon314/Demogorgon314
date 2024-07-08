@@ -29,8 +29,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[feat][broker][branch-3.3] PIP-321 Introduce allowed-cluster at the namespace level (#22378)](https://github.com/apache/pulsar/pull/22961) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
-- [[feat][broker][branch-3.0] PIP-321 Introduce allowed-cluster at the namespace level (#22378)](https://github.com/apache/pulsar/pull/22960) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
+- [[feat][broker][branch-3.3] PIP-321 Introduce allowed-cluster at the namespace level (#22378)](https://github.com/apache/pulsar/pull/22961) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
+- [[feat][broker][branch-3.0] PIP-321 Introduce allowed-cluster at the namespace level (#22378)](https://github.com/apache/pulsar/pull/22960) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
 - [[fix][broker] Fix geo-replication admin client url](https://github.com/apache/pulsar/pull/22584) on [apache/pulsar](https://github.com/apache/pulsar) (2 months ago)
 - [[fix][broker] Support lookup options for extensible load manager](https://github.com/apache/pulsar/pull/22487) on [apache/pulsar](https://github.com/apache/pulsar) (2 months ago)
 - [[fix][broker] Check the broker is available for the SLA monitor bundle when the ExtensibleLoadManager is enabled](https://github.com/apache/pulsar/pull/22485) on [apache/pulsar](https://github.com/apache/pulsar) (2 months ago)
@@ -42,7 +42,8 @@
 
 #### ⭐ Recent Stars
 
-- [sipeed/LicheeRV-Nano-Build](https://github.com/sipeed/LicheeRV-Nano-Build) - LicheeRV-Nano-Build (2 days ago)
+- [mofeng-git/One-KVM](https://github.com/mofeng-git/One-KVM) - One-KVM，结合玩客云和PiKVM，实现低成本远控方案。 (1 day ago)
+- [sipeed/LicheeRV-Nano-Build](https://github.com/sipeed/LicheeRV-Nano-Build) - LicheeRV-Nano-Build (3 days ago)
 - [xykt/IPQuality](https://github.com/xykt/IPQuality) - A script for IP quality detection (1 month ago)
 - [streamnative/cloud-api-server](https://github.com/streamnative/cloud-api-server) - StreamNative Cloud API Server (2 months ago)
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs (4 months ago)
@@ -51,7 +52,6 @@
 - [EpicGames/UnrealEngine](https://github.com/EpicGames/UnrealEngine) - Unreal Engine source code (10 months ago)
 - [oslabs-beta/PulsarPortrait](https://github.com/oslabs-beta/PulsarPortrait) - Pulsar (11 months ago)
 - [istoreos/istoreos](https://github.com/istoreos/istoreos) - 提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-22.03） (11 months ago)
-- [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩客户端，A third-party bilibili client。 (1 year ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
