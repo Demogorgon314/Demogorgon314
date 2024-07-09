@@ -42,8 +42,8 @@
 
 #### ⭐ Recent Stars
 
-- [mofeng-git/One-KVM](https://github.com/mofeng-git/One-KVM) - One-KVM，结合玩客云和PiKVM，实现低成本远控方案。 (1 day ago)
-- [sipeed/LicheeRV-Nano-Build](https://github.com/sipeed/LicheeRV-Nano-Build) - LicheeRV-Nano-Build (3 days ago)
+- [mofeng-git/One-KVM](https://github.com/mofeng-git/One-KVM) - One-KVM，结合玩客云和PiKVM，实现低成本远控方案。 (2 days ago)
+- [sipeed/LicheeRV-Nano-Build](https://github.com/sipeed/LicheeRV-Nano-Build) - LicheeRV-Nano-Build (4 days ago)
 - [xykt/IPQuality](https://github.com/xykt/IPQuality) - A script for IP quality detection (1 month ago)
 - [streamnative/cloud-api-server](https://github.com/streamnative/cloud-api-server) - StreamNative Cloud API Server (2 months ago)
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs (4 months ago)
