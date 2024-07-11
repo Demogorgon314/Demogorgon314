@@ -29,22 +29,22 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Prepare for release 0.4.0](https://github.com/streamnative/oxia-java/pull/167) on [streamnative/oxia-java](https://github.com/streamnative/oxia-java) (1 day ago)
+- [[feature] Support load configuration from file](https://github.com/streamnative/oxia-java/pull/168) on [streamnative/oxia-java](https://github.com/streamnative/oxia-java) (1 day ago)
+- [Prepare for release 0.4.0](https://github.com/streamnative/oxia-java/pull/167) on [streamnative/oxia-java](https://github.com/streamnative/oxia-java) (2 days ago)
 - [[feat][broker][branch-3.3] PIP-321 Introduce allowed-cluster at the namespace level (#22378)](https://github.com/apache/pulsar/pull/22961) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
 - [[feat][broker][branch-3.0] PIP-321 Introduce allowed-cluster at the namespace level (#22378)](https://github.com/apache/pulsar/pull/22960) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
 - [[fix][broker] Fix geo-replication admin client url](https://github.com/apache/pulsar/pull/22584) on [apache/pulsar](https://github.com/apache/pulsar) (2 months ago)
-- [[fix][broker] Support lookup options for extensible load manager](https://github.com/apache/pulsar/pull/22487) on [apache/pulsar](https://github.com/apache/pulsar) (2 months ago)
+- [[fix][broker] Support lookup options for extensible load manager](https://github.com/apache/pulsar/pull/22487) on [apache/pulsar](https://github.com/apache/pulsar) (3 months ago)
 - [[fix][broker] Check the broker is available for the SLA monitor bundle when the ExtensibleLoadManager is enabled](https://github.com/apache/pulsar/pull/22485) on [apache/pulsar](https://github.com/apache/pulsar) (3 months ago)
 - [Add KSN mTLS auth example](https://github.com/streamnative/private-cloud/pull/33) on [streamnative/private-cloud](https://github.com/streamnative/private-cloud) (3 months ago)
 - [[fix][test] Fix ExtensibleLoadManager flaky integration test](https://github.com/apache/pulsar/pull/21799) on [apache/pulsar](https://github.com/apache/pulsar) (6 months ago)
 - [Fix ExtensibleLoadManager Intergation test](https://github.com/Demogorgon314/pulsar/pull/17) on [Demogorgon314/pulsar](https://github.com/Demogorgon314/pulsar) (6 months ago)
-- [[fix][broker] Fix TableViewLoadDataStoreImpl NPE](https://github.com/apache/pulsar/pull/21777) on [apache/pulsar](https://github.com/apache/pulsar) (6 months ago)
 
 #### ⭐ Recent Stars
 
-- [AstraThreshold/oled-ui-astra](https://github.com/AstraThreshold/oled-ui-astra) - A smooth, easy-to-deploy, and easy-to-extend OLED UI framework, based on C&#43;&#43;. (1 day ago)
-- [mofeng-git/One-KVM](https://github.com/mofeng-git/One-KVM) - One-KVM，结合玩客云和PiKVM，实现低成本远控方案。 (3 days ago)
-- [sipeed/LicheeRV-Nano-Build](https://github.com/sipeed/LicheeRV-Nano-Build) - LicheeRV-Nano-Build (5 days ago)
+- [AstraThreshold/oled-ui-astra](https://github.com/AstraThreshold/oled-ui-astra) - A smooth, easy-to-deploy, and easy-to-extend OLED UI framework, based on C&#43;&#43;. (2 days ago)
+- [mofeng-git/One-KVM](https://github.com/mofeng-git/One-KVM) - One-KVM，结合玩客云和PiKVM，实现低成本远控方案。 (4 days ago)
+- [sipeed/LicheeRV-Nano-Build](https://github.com/sipeed/LicheeRV-Nano-Build) - LicheeRV-Nano-Build (6 days ago)
 - [xykt/IPQuality](https://github.com/xykt/IPQuality) - A script for IP quality detection (1 month ago)
 - [streamnative/cloud-api-server](https://github.com/streamnative/cloud-api-server) - StreamNative Cloud API Server (2 months ago)
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs (4 months ago)
