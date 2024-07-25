@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [streamnative/oxia-java](https://github.com/streamnative/oxia-java) - A Java client library for Oxia (1 week ago)
-- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (1 week ago)
+- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (2 weeks ago)
 - [Demogorgon314/ClashRules](https://github.com/Demogorgon314/ClashRules) -  (3 months ago)
 - [streamnative/private-cloud](https://github.com/streamnative/private-cloud) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs). (3 months ago)
 - [streamnative/sn-demos](https://github.com/streamnative/sn-demos) -  (8 months ago)
@@ -40,7 +40,7 @@
 - [[fix][broker] Fix geo-replication admin client url](https://github.com/apache/pulsar/pull/22584) on [apache/pulsar](https://github.com/apache/pulsar) (3 months ago)
 - [[fix][broker] Support lookup options for extensible load manager](https://github.com/apache/pulsar/pull/22487) on [apache/pulsar](https://github.com/apache/pulsar) (3 months ago)
 - [[fix][broker] Check the broker is available for the SLA monitor bundle when the ExtensibleLoadManager is enabled](https://github.com/apache/pulsar/pull/22485) on [apache/pulsar](https://github.com/apache/pulsar) (3 months ago)
-- [Add KSN mTLS auth example](https://github.com/streamnative/private-cloud/pull/33) on [streamnative/private-cloud](https://github.com/streamnative/private-cloud) (3 months ago)
+- [Add KSN mTLS auth example](https://github.com/streamnative/private-cloud/pull/33) on [streamnative/private-cloud](https://github.com/streamnative/private-cloud) (4 months ago)
 
 #### ⭐ Recent Stars
 
