@@ -5,7 +5,7 @@
 - [streamnative/oxia-java](https://github.com/streamnative/oxia-java) - A Java client library for Oxia (1 week ago)
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (2 weeks ago)
 - [Demogorgon314/ClashRules](https://github.com/Demogorgon314/ClashRules) -  (3 months ago)
-- [streamnative/private-cloud](https://github.com/streamnative/private-cloud) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs). (3 months ago)
+- [streamnative/private-cloud](https://github.com/streamnative/private-cloud) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs). (4 months ago)
 - [streamnative/sn-demos](https://github.com/streamnative/sn-demos) -  (8 months ago)
 - [streamnative/kop](https://github.com/streamnative/kop) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar (11 months ago)
 
@@ -25,7 +25,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [streamnative/oxia-java](https://github.com/streamnative/oxia-java) ([v0.3.1](https://github.com/streamnative/oxia-java/releases/tag/v0.3.1), 1 week ago) - A Java client library for Oxia
-- [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.1.6](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.1.6), 1 week ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
+- [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.1.6](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.1.6), 2 weeks ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
 - [apache/pulsar](https://github.com/apache/pulsar) ([v3.3.0](https://github.com/apache/pulsar/releases/tag/v3.3.0), 1 month ago) - Apache Pulsar - distributed pub-sub messaging system
 - [streamnative/kop](https://github.com/streamnative/kop) ([v3.1.1.1](https://github.com/streamnative/kop/releases/tag/v3.1.1.1), 6 months ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 
@@ -46,7 +46,7 @@
 
 - [AstraThreshold/oled-ui-astra](https://github.com/AstraThreshold/oled-ui-astra) - A smooth, easy-to-deploy, and easy-to-extend OLED UI framework, based on C&#43;&#43;. (2 weeks ago)
 - [mofeng-git/One-KVM](https://github.com/mofeng-git/One-KVM) - One-KVM，结合玩客云和PiKVM，实现低成本远控方案。 (2 weeks ago)
-- [sipeed/LicheeRV-Nano-Build](https://github.com/sipeed/LicheeRV-Nano-Build) - LicheeRV-Nano-Build (2 weeks ago)
+- [sipeed/LicheeRV-Nano-Build](https://github.com/sipeed/LicheeRV-Nano-Build) - LicheeRV-Nano-Build (3 weeks ago)
 - [xykt/IPQuality](https://github.com/xykt/IPQuality) - A script for IP quality detection (1 month ago)
 - [streamnative/cloud-api-server](https://github.com/streamnative/cloud-api-server) - StreamNative Cloud API Server (3 months ago)
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs (5 months ago)
