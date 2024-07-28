@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (1 day ago)
+- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (2 days ago)
 - [streamnative/oxia-java](https://github.com/streamnative/oxia-java) - A Java client library for Oxia (1 week ago)
 - [Demogorgon314/ClashRules](https://github.com/Demogorgon314/ClashRules) -  (3 months ago)
 - [streamnative/private-cloud](https://github.com/streamnative/private-cloud) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs). (4 months ago)
@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[improve][broker] Support to specify auth-plugin, auth-parameters and tls-enable arguments when init cluster metadata](https://github.com/apache/pulsar/pull/23087) on [apache/pulsar](https://github.com/apache/pulsar) (1 day ago)
 - [[improve][pip] PIP-366: Support to specify different config for Configuration and Local Metadata Store](https://github.com/apache/pulsar/pull/23041) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [[improve][pip] PIP-366: Support to specify different config for Configuration and Local Metadata Store](https://github.com/apache/pulsar/pull/23033) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [[feature] Support load configuration from file or properties](https://github.com/streamnative/oxia-java/pull/168) on [streamnative/oxia-java](https://github.com/streamnative/oxia-java) (2 weeks ago)
@@ -40,12 +41,11 @@
 - [[fix][broker] Fix geo-replication admin client url](https://github.com/apache/pulsar/pull/22584) on [apache/pulsar](https://github.com/apache/pulsar) (3 months ago)
 - [[fix][broker] Support lookup options for extensible load manager](https://github.com/apache/pulsar/pull/22487) on [apache/pulsar](https://github.com/apache/pulsar) (3 months ago)
 - [[fix][broker] Check the broker is available for the SLA monitor bundle when the ExtensibleLoadManager is enabled](https://github.com/apache/pulsar/pull/22485) on [apache/pulsar](https://github.com/apache/pulsar) (3 months ago)
-- [Add KSN mTLS auth example](https://github.com/streamnative/private-cloud/pull/33) on [streamnative/private-cloud](https://github.com/streamnative/private-cloud) (4 months ago)
 
 #### ⭐ Recent Stars
 
 - [AstraThreshold/oled-ui-astra](https://github.com/AstraThreshold/oled-ui-astra) - A smooth, easy-to-deploy, and easy-to-extend OLED UI framework, based on C&#43;&#43;. (2 weeks ago)
-- [mofeng-git/One-KVM](https://github.com/mofeng-git/One-KVM) - One-KVM，结合玩客云和PiKVM，实现低成本远控方案。 (2 weeks ago)
+- [mofeng-git/One-KVM](https://github.com/mofeng-git/One-KVM) - One-KVM，结合玩客云和PiKVM，实现低成本远控方案。 (3 weeks ago)
 - [sipeed/LicheeRV-Nano-Build](https://github.com/sipeed/LicheeRV-Nano-Build) - LicheeRV-Nano-Build (3 weeks ago)
 - [xykt/IPQuality](https://github.com/xykt/IPQuality) - A script for IP quality detection (1 month ago)
 - [streamnative/cloud-api-server](https://github.com/streamnative/cloud-api-server) - StreamNative Cloud API Server (3 months ago)
