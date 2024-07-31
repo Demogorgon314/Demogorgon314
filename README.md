@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (1 day ago)
-- [streamnative/oxia-java](https://github.com/streamnative/oxia-java) - A Java client library for Oxia (1 week ago)
+- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (2 days ago)
+- [streamnative/oxia-java](https://github.com/streamnative/oxia-java) - A Java client library for Oxia (2 weeks ago)
 - [Demogorgon314/ClashRules](https://github.com/Demogorgon314/ClashRules) -  (4 months ago)
 - [streamnative/private-cloud](https://github.com/streamnative/private-cloud) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs). (4 months ago)
 - [streamnative/sn-demos](https://github.com/streamnative/sn-demos) -  (8 months ago)
@@ -24,17 +24,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/oxia-java](https://github.com/streamnative/oxia-java) ([v0.3.1](https://github.com/streamnative/oxia-java/releases/tag/v0.3.1), 1 week ago) - A Java client library for Oxia
+- [streamnative/oxia-java](https://github.com/streamnative/oxia-java) ([v0.3.1](https://github.com/streamnative/oxia-java/releases/tag/v0.3.1), 2 weeks ago) - A Java client library for Oxia
 - [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.1.6](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.1.6), 2 weeks ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
 - [apache/pulsar](https://github.com/apache/pulsar) ([v3.3.0](https://github.com/apache/pulsar/releases/tag/v3.3.0), 1 month ago) - Apache Pulsar - distributed pub-sub messaging system
 - [streamnative/kop](https://github.com/streamnative/kop) ([v3.1.1.1](https://github.com/streamnative/kop/releases/tag/v3.1.1.1), 6 months ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 
 #### 🔨 My recent Pull Requests
 
-- [[improve][broker] Support to specify auth-plugin, auth-parameters and tls-enable arguments when init cluster metadata](https://github.com/apache/pulsar/pull/23087) on [apache/pulsar](https://github.com/apache/pulsar) (3 days ago)
+- [[improve][broker] Support to specify auth-plugin, auth-parameters and tls-enable arguments when init cluster metadata](https://github.com/apache/pulsar/pull/23087) on [apache/pulsar](https://github.com/apache/pulsar) (4 days ago)
 - [[improve][pip] PIP-366: Support to specify different config for Configuration and Local Metadata Store](https://github.com/apache/pulsar/pull/23041) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
 - [[improve][pip] PIP-366: Support to specify different config for Configuration and Local Metadata Store](https://github.com/apache/pulsar/pull/23033) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
-- [[feature] Support load configuration from file or properties](https://github.com/streamnative/oxia-java/pull/168) on [streamnative/oxia-java](https://github.com/streamnative/oxia-java) (2 weeks ago)
+- [[feature] Support load configuration from file or properties](https://github.com/streamnative/oxia-java/pull/168) on [streamnative/oxia-java](https://github.com/streamnative/oxia-java) (3 weeks ago)
 - [Prepare for release 0.4.0](https://github.com/streamnative/oxia-java/pull/167) on [streamnative/oxia-java](https://github.com/streamnative/oxia-java) (3 weeks ago)
 - [[feat][broker][branch-3.3] PIP-321 Introduce allowed-cluster at the namespace level (#22378)](https://github.com/apache/pulsar/pull/22961) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 - [[feat][broker][branch-3.0] PIP-321 Introduce allowed-cluster at the namespace level (#22378)](https://github.com/apache/pulsar/pull/22960) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [AnswerDotAI/gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp) - A lightweight library for portable low-level GPU computation using WebGPU.  (2 days ago)
+- [AnswerDotAI/gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp) - A lightweight library for portable low-level GPU computation using WebGPU.  (3 days ago)
 - [AstraThreshold/oled-ui-astra](https://github.com/AstraThreshold/oled-ui-astra) - A smooth, easy-to-deploy, and easy-to-extend OLED UI framework, based on C&#43;&#43;. (3 weeks ago)
 - [mofeng-git/One-KVM](https://github.com/mofeng-git/One-KVM) - One-KVM，结合玩客云和PiKVM，实现低成本远控方案。 (3 weeks ago)
 - [sipeed/LicheeRV-Nano-Build](https://github.com/sipeed/LicheeRV-Nano-Build) - LicheeRV-Nano-Build (3 weeks ago)
