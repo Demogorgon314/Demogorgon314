@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (2 days ago)
-- [streamnative/oxia-java](https://github.com/streamnative/oxia-java) - A Java client library for Oxia (4 weeks ago)
+- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (3 days ago)
+- [streamnative/oxia-java](https://github.com/streamnative/oxia-java) - A Java client library for Oxia (1 month ago)
 - [Demogorgon314/ClashRules](https://github.com/Demogorgon314/ClashRules) -  (4 months ago)
 - [streamnative/private-cloud](https://github.com/streamnative/private-cloud) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs). (4 months ago)
 - [streamnative/sn-demos](https://github.com/streamnative/sn-demos) -  (9 months ago)
@@ -27,14 +27,13 @@
 - [streamnative/oxia-java](https://github.com/streamnative/oxia-java) ([v0.3.2](https://github.com/streamnative/oxia-java/releases/tag/v0.3.2), 1 week ago) - A Java client library for Oxia
 - [apache/pulsar](https://github.com/apache/pulsar) ([v3.3.1](https://github.com/apache/pulsar/releases/tag/v3.3.1), 2 weeks ago) - Apache Pulsar - distributed pub-sub messaging system
 - [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.1.6](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.1.6), 1 month ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
-- [streamnative/kop](https://github.com/streamnative/kop) ([v3.1.1.1](https://github.com/streamnative/kop/releases/tag/v3.1.1.1), 7 months ago) - Kafka-on-Pulsar - A protocol handler that brings native Kafka protocol to Apache Pulsar
 
 #### 🔨 My recent Pull Requests
 
-- [[fix][broker] Fix AvgShedder strategy check](https://github.com/apache/pulsar/pull/23156) on [apache/pulsar](https://github.com/apache/pulsar) (3 days ago)
-- [[improve][broker] Should notify bundle ownership listener onLoad event when ServiceUnitState start (ExtensibleLoadManagerImpl only)](https://github.com/apache/pulsar/pull/23152) on [apache/pulsar](https://github.com/apache/pulsar) (3 days ago)
+- [[fix][broker] Fix AvgShedder strategy check](https://github.com/apache/pulsar/pull/23156) on [apache/pulsar](https://github.com/apache/pulsar) (4 days ago)
+- [[improve][broker] Should notify bundle ownership listener onLoad event when ServiceUnitState start (ExtensibleLoadManagerImpl only)](https://github.com/apache/pulsar/pull/23152) on [apache/pulsar](https://github.com/apache/pulsar) (4 days ago)
 - [[improve][broker][branch-3.0] Support to specify auth-plugin, auth-parameters and tls-enable arguments when init cluster metadata (#23087)](https://github.com/apache/pulsar/pull/23126) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
-- [[fix][broker] Handle the case when `getOwnedServiceUnits` fails gracefully](https://github.com/apache/pulsar/pull/23119) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
+- [[fix][broker] Handle the case when `getOwnedServiceUnits` fails gracefully](https://github.com/apache/pulsar/pull/23119) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
 - [[improve][broker] Support to specify auth-plugin, auth-parameters and tls-enable arguments when init cluster metadata](https://github.com/apache/pulsar/pull/23087) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
 - [[improve][pip] PIP-366: Support to specify different config for Configuration and Local Metadata Store](https://github.com/apache/pulsar/pull/23041) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 - [[improve][pip] PIP-366: Support to specify different config for Configuration and Local Metadata Store](https://github.com/apache/pulsar/pull/23033) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
