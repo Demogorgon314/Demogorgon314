@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (5 days ago)
+- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (6 days ago)
 - [streamnative/oxia-java](https://github.com/streamnative/oxia-java) - A Java client library for Oxia (1 month ago)
 - [Demogorgon314/ClashRules](https://github.com/Demogorgon314/ClashRules) -  (4 months ago)
 - [streamnative/private-cloud](https://github.com/streamnative/private-cloud) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs). (4 months ago)
@@ -32,13 +32,13 @@
 - [[fix][broker] Fix AvgShedder strategy check](https://github.com/apache/pulsar/pull/23156) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [[improve][broker] Should notify bundle ownership listener onLoad event when ServiceUnitState start (ExtensibleLoadManagerImpl only)](https://github.com/apache/pulsar/pull/23152) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [[improve][broker][branch-3.0] Support to specify auth-plugin, auth-parameters and tls-enable arguments when init cluster metadata (#23087)](https://github.com/apache/pulsar/pull/23126) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
-- [[fix][broker] Handle the case when `getOwnedServiceUnits` fails gracefully](https://github.com/apache/pulsar/pull/23119) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
+- [[fix][broker] Handle the case when `getOwnedServiceUnits` fails gracefully](https://github.com/apache/pulsar/pull/23119) on [apache/pulsar](https://github.com/apache/pulsar) (3 weeks ago)
 - [[improve][broker] Support to specify auth-plugin, auth-parameters and tls-enable arguments when init cluster metadata](https://github.com/apache/pulsar/pull/23087) on [apache/pulsar](https://github.com/apache/pulsar) (3 weeks ago)
 - [[improve][pip] PIP-366: Support to specify different config for Configuration and Local Metadata Store](https://github.com/apache/pulsar/pull/23041) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 - [[improve][pip] PIP-366: Support to specify different config for Configuration and Local Metadata Store](https://github.com/apache/pulsar/pull/23033) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 - [[feature] Support load configuration from file or properties](https://github.com/streamnative/oxia-java/pull/168) on [streamnative/oxia-java](https://github.com/streamnative/oxia-java) (1 month ago)
 - [Prepare for release 0.4.0](https://github.com/streamnative/oxia-java/pull/167) on [streamnative/oxia-java](https://github.com/streamnative/oxia-java) (1 month ago)
-- [[feat][broker][branch-3.3] PIP-321 Introduce allowed-cluster at the namespace level (#22378)](https://github.com/apache/pulsar/pull/22961) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
+- [[feat][broker][branch-3.3] PIP-321 Introduce allowed-cluster at the namespace level (#22378)](https://github.com/apache/pulsar/pull/22961) on [apache/pulsar](https://github.com/apache/pulsar) (2 months ago)
 
 #### ⭐ Recent Stars
 
