@@ -29,11 +29,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[fix][broker] Fix AvgShedder strategy check](https://github.com/apache/pulsar/pull/23156) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
-- [[improve][broker] Should notify bundle ownership listener onLoad event when ServiceUnitState start (ExtensibleLoadManagerImpl only)](https://github.com/apache/pulsar/pull/23152) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
+- [[fix][broker] Fix AvgShedder strategy check](https://github.com/apache/pulsar/pull/23156) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
+- [[improve][broker] Should notify bundle ownership listener onLoad event when ServiceUnitState start (ExtensibleLoadManagerImpl only)](https://github.com/apache/pulsar/pull/23152) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
 - [[improve][broker][branch-3.0] Support to specify auth-plugin, auth-parameters and tls-enable arguments when init cluster metadata (#23087)](https://github.com/apache/pulsar/pull/23126) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
 - [[fix][broker] Handle the case when `getOwnedServiceUnits` fails gracefully](https://github.com/apache/pulsar/pull/23119) on [apache/pulsar](https://github.com/apache/pulsar) (3 weeks ago)
-- [[improve][broker] Support to specify auth-plugin, auth-parameters and tls-enable arguments when init cluster metadata](https://github.com/apache/pulsar/pull/23087) on [apache/pulsar](https://github.com/apache/pulsar) (4 weeks ago)
+- [[improve][broker] Support to specify auth-plugin, auth-parameters and tls-enable arguments when init cluster metadata](https://github.com/apache/pulsar/pull/23087) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 - [[improve][pip] PIP-366: Support to specify different config for Configuration and Local Metadata Store](https://github.com/apache/pulsar/pull/23041) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 - [[improve][pip] PIP-366: Support to specify different config for Configuration and Local Metadata Store](https://github.com/apache/pulsar/pull/23033) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 - [[feature] Support load configuration from file or properties](https://github.com/streamnative/oxia-java/pull/168) on [streamnative/oxia-java](https://github.com/streamnative/oxia-java) (1 month ago)
@@ -42,6 +42,8 @@
 
 #### ⭐ Recent Stars
 
+- [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (1 day ago)
+- [Madelena/hass-config-public](https://github.com/Madelena/hass-config-public) - My Dashboards for Home Assistant - Advanced data visualizations, responsive design, a neat maximalist Metro Live Tile layout, and an ultraminimal tablet layout! (1 day ago)
 - [AnswerDotAI/gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp) - A lightweight library for portable low-level GPU computation using WebGPU.  (4 weeks ago)
 - [AstraThreshold/oled-ui-astra](https://github.com/AstraThreshold/oled-ui-astra) - A smooth, easy-to-deploy, and easy-to-extend OLED UI framework, based on C&#43;&#43;. (1 month ago)
 - [mofeng-git/One-KVM](https://github.com/mofeng-git/One-KVM) - One-KVM，结合玩客云和PiKVM，实现低成本远控方案。 (1 month ago)
@@ -49,9 +51,7 @@
 - [xykt/IPQuality](https://github.com/xykt/IPQuality) - A script for IP quality detection (2 months ago)
 - [streamnative/cloud-api-server](https://github.com/streamnative/cloud-api-server) - StreamNative Cloud API Server (4 months ago)
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on ??? GPUs (6 months ago)
-- [ckcr4lyf/EvilAppleJuice-ESP32](https://github.com/ckcr4lyf/EvilAppleJuice-ESP32) - Spam Apple Proximity Messages via an ESP32 (6 months ago)
-- [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) -  (11 months ago)
-- [EpicGames/UnrealEngine](https://github.com/EpicGames/UnrealEngine) - Unreal Engine source code (1 year ago)
+- [ckcr4lyf/EvilAppleJuice-ESP32](https://github.com/ckcr4lyf/EvilAppleJuice-ESP32) - Spam Apple Proximity Messages via an ESP32 (7 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
