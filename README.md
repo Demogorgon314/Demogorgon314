@@ -6,7 +6,7 @@
 - [streamnative/oxia-java](https://github.com/streamnative/oxia-java) - A Java client library for Oxia (1 month ago)
 - [Demogorgon314/ClashRules](https://github.com/Demogorgon314/ClashRules) -  (5 months ago)
 - [streamnative/private-cloud](https://github.com/streamnative/private-cloud) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs). (5 months ago)
-- [streamnative/sn-demos](https://github.com/streamnative/sn-demos) -  (9 months ago)
+- [streamnative/sn-demos](https://github.com/streamnative/sn-demos) -  (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -23,8 +23,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.2.0](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.2.0), 5 days ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
-- [streamnative/oxia-java](https://github.com/streamnative/oxia-java) ([v0.4.1](https://github.com/streamnative/oxia-java/releases/tag/v0.4.1), 6 days ago) - A Java client library for Oxia
+- [streamnative/oxia-java](https://github.com/streamnative/oxia-java) ([v0.4.2](https://github.com/streamnative/oxia-java/releases/tag/v0.4.2), 1 day ago) - A Java client library for Oxia
+- [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.2.0](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.2.0), 6 days ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
 - [apache/pulsar](https://github.com/apache/pulsar) ([v3.3.1](https://github.com/apache/pulsar/releases/tag/v3.3.1), 1 month ago) - Apache Pulsar - distributed pub-sub messaging system
 
 #### 🔨 My recent Pull Requests
