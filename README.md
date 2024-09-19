@@ -29,7 +29,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[improve][pip] PIP-379: Support setting up specific namespaces to skipping the load-shedding](https://github.com/apache/pulsar/pull/23304) on [apache/pulsar](https://github.com/apache/pulsar) (5 days ago)
+- [[improve][pip] PIP-380: Support setting up specific namespaces to skipping the load-shedding](https://github.com/apache/pulsar/pull/23304) on [apache/pulsar](https://github.com/apache/pulsar) (6 days ago)
 - [[improve][broker] Fix non-persistent system topic schema compatibility](https://github.com/apache/pulsar/pull/23286) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [[improve][broker] Make cluster metadata init command support metadata config path](https://github.com/apache/pulsar/pull/23269) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
 - [[improve][broker] Add retry for start service unit state channel (ExtensibleLoadManagerImpl only)](https://github.com/apache/pulsar/pull/23230) on [apache/pulsar](https://github.com/apache/pulsar) (3 weeks ago)
