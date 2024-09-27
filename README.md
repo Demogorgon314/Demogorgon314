@@ -4,7 +4,7 @@
 
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (2 weeks ago)
 - [streamnative/oxia-java](https://github.com/streamnative/oxia-java) - A Java client library for Oxia (2 months ago)
-- [Demogorgon314/ClashRules](https://github.com/Demogorgon314/ClashRules) -  (5 months ago)
+- [Demogorgon314/ClashRules](https://github.com/Demogorgon314/ClashRules) -  (6 months ago)
 - [streamnative/private-cloud](https://github.com/streamnative/private-cloud) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs). (6 months ago)
 - [streamnative/sn-demos](https://github.com/streamnative/sn-demos) -  (10 months ago)
 
@@ -29,7 +29,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[improve][pip] PIP-380: Support setting up specific namespaces to skipping the load-shedding](https://github.com/apache/pulsar/pull/23304) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
+- [[improve][pip] PIP-380: Support setting up specific namespaces to skipping the load-shedding](https://github.com/apache/pulsar/pull/23304) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
 - [[improve][broker] Fix non-persistent system topic schema compatibility](https://github.com/apache/pulsar/pull/23286) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
 - [[improve][broker] Make cluster metadata init command support metadata config path](https://github.com/apache/pulsar/pull/23269) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
 - [[improve][broker] Add retry for start service unit state channel (ExtensibleLoadManagerImpl only)](https://github.com/apache/pulsar/pull/23230) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
@@ -46,7 +46,7 @@
 - [Madelena/hass-config-public](https://github.com/Madelena/hass-config-public) - My Dashboards for Home Assistant - Advanced data visualizations, responsive design, a neat maximalist Metro Live Tile layout, and an ultraminimal tablet layout! (1 month ago)
 - [AnswerDotAI/gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp) - A lightweight library for portable low-level GPU computation using WebGPU.  (2 months ago)
 - [AstraThreshold/oled-ui-astra](https://github.com/AstraThreshold/oled-ui-astra) - A smooth, easy-to-deploy, and easy-to-extend OLED UI framework, based on C&#43;&#43;. (2 months ago)
-- [mofeng-git/One-KVM](https://github.com/mofeng-git/One-KVM) - One-KVM，结合玩客云和PiKVM，实现低成本远控方案。 (2 months ago)
+- [mofeng-git/One-KVM](https://github.com/mofeng-git/One-KVM) - One-KVM 是基于廉价计算机硬件和 PiKVM 软件二次开发的 BIOS 级远程控制项目。 (2 months ago)
 - [sipeed/LicheeRV-Nano-Build](https://github.com/sipeed/LicheeRV-Nano-Build) - LicheeRV-Nano-Build (2 months ago)
 - [xykt/IPQuality](https://github.com/xykt/IPQuality) - A script for IP quality detection (3 months ago)
 - [streamnative/cloud-api-server](https://github.com/streamnative/cloud-api-server) - StreamNative Cloud API Server (5 months ago)
