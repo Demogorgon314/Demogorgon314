@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (1 day ago)
+- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (2 days ago)
 - [streamnative/oxia-java](https://github.com/streamnative/oxia-java) - A Java client library for Oxia (2 months ago)
 - [Demogorgon314/ClashRules](https://github.com/Demogorgon314/ClashRules) -  (6 months ago)
 - [streamnative/private-cloud](https://github.com/streamnative/private-cloud) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs). (6 months ago)
@@ -23,14 +23,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.2.1](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.2.1), 2 weeks ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
-- [streamnative/oxia-java](https://github.com/streamnative/oxia-java) ([v0.4.5](https://github.com/streamnative/oxia-java/releases/tag/v0.4.5), 2 weeks ago) - A Java client library for Oxia
+- [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.2.1](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.2.1), 3 weeks ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
+- [streamnative/oxia-java](https://github.com/streamnative/oxia-java) ([v0.4.5](https://github.com/streamnative/oxia-java/releases/tag/v0.4.5), 3 weeks ago) - A Java client library for Oxia
 - [apache/pulsar](https://github.com/apache/pulsar) ([v3.3.1](https://github.com/apache/pulsar/releases/tag/v3.3.1), 2 months ago) - Apache Pulsar - distributed pub-sub messaging system
 
 #### 🔨 My recent Pull Requests
 
-- [[fix][test] Fix ReplicatorRateLimiterTest](https://github.com/apache/pulsar/pull/23369) on [apache/pulsar](https://github.com/apache/pulsar) (1 day ago)
-- [[fix][ml] Managed ledger should recover after open ledger failed](https://github.com/apache/pulsar/pull/23368) on [apache/pulsar](https://github.com/apache/pulsar) (1 day ago)
+- [[fix][test] Fix ReplicatorRateLimiterTest](https://github.com/apache/pulsar/pull/23369) on [apache/pulsar](https://github.com/apache/pulsar) (2 days ago)
+- [[fix][ml] Managed ledger should recover after open ledger failed](https://github.com/apache/pulsar/pull/23368) on [apache/pulsar](https://github.com/apache/pulsar) (2 days ago)
 - [[improve][pip] PIP-380: Support setting up specific namespaces to skipping the load-shedding](https://github.com/apache/pulsar/pull/23304) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
 - [[improve][broker] Fix non-persistent system topic schema compatibility](https://github.com/apache/pulsar/pull/23286) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
 - [[improve][broker] Make cluster metadata init command support metadata config path](https://github.com/apache/pulsar/pull/23269) on [apache/pulsar](https://github.com/apache/pulsar) (3 weeks ago)
@@ -38,7 +38,7 @@
 - [[fix][broker] Fix AvgShedder strategy check](https://github.com/apache/pulsar/pull/23156) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 - [[improve][broker] Should notify bundle ownership listener onLoad event when ServiceUnitState start (ExtensibleLoadManagerImpl only)](https://github.com/apache/pulsar/pull/23152) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 - [[improve][broker][branch-3.0] Support to specify auth-plugin, auth-parameters and tls-enable arguments when init cluster metadata (#23087)](https://github.com/apache/pulsar/pull/23126) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
-- [[fix][broker] Handle the case when `getOwnedServiceUnits` fails gracefully](https://github.com/apache/pulsar/pull/23119) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
+- [[fix][broker] Handle the case when `getOwnedServiceUnits` fails gracefully](https://github.com/apache/pulsar/pull/23119) on [apache/pulsar](https://github.com/apache/pulsar) (2 months ago)
 
 #### ⭐ Recent Stars
 
