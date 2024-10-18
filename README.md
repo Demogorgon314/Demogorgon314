@@ -23,8 +23,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/oxia-java](https://github.com/streamnative/oxia-java) ([v0.4.6](https://github.com/streamnative/oxia-java/releases/tag/v0.4.6), 1 week ago) - A Java client library for Oxia
-- [apache/pulsar](https://github.com/apache/pulsar) ([v3.3.2](https://github.com/apache/pulsar/releases/tag/v3.3.2), 1 week ago) - Apache Pulsar - distributed pub-sub messaging system
+- [streamnative/oxia-java](https://github.com/streamnative/oxia-java) ([v0.4.7](https://github.com/streamnative/oxia-java/releases/tag/v0.4.7), 1 day ago) - A Java client library for Oxia
+- [apache/pulsar](https://github.com/apache/pulsar) ([v3.3.2](https://github.com/apache/pulsar/releases/tag/v3.3.2), 2 weeks ago) - Apache Pulsar - distributed pub-sub messaging system
 - [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.2.2](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.2.2), 2 weeks ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
 
 #### 🔨 My recent Pull Requests
@@ -50,7 +50,7 @@
 - [sipeed/LicheeRV-Nano-Build](https://github.com/sipeed/LicheeRV-Nano-Build) - LicheeRV-Nano-Build (3 months ago)
 - [xykt/IPQuality](https://github.com/xykt/IPQuality) - A script for IP quality detection (4 months ago)
 - [streamnative/cloud-api-server](https://github.com/streamnative/cloud-api-server) - StreamNative Cloud API Server (5 months ago)
-- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs (7 months ago)
+- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs (8 months ago)
 - [ckcr4lyf/EvilAppleJuice-ESP32](https://github.com/ckcr4lyf/EvilAppleJuice-ESP32) - Spam Apple Proximity Messages via an ESP32 (8 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
