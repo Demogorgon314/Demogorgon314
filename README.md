@@ -23,7 +23,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/pulsar](https://github.com/apache/pulsar) ([v4.0.0](https://github.com/apache/pulsar/releases/tag/v4.0.0), 4 days ago) - Apache Pulsar - distributed pub-sub messaging system
+- [apache/pulsar](https://github.com/apache/pulsar) ([v4.0.0](https://github.com/apache/pulsar/releases/tag/v4.0.0), 5 days ago) - Apache Pulsar - distributed pub-sub messaging system
 - [streamnative/oxia-java](https://github.com/streamnative/oxia-java) ([v0.4.7](https://github.com/streamnative/oxia-java/releases/tag/v0.4.7), 1 week ago) - A Java client library for Oxia
 - [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.2.2](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.2.2), 3 weeks ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
 
@@ -34,7 +34,7 @@
 - [[improve][pip] PIP-380: Support setting up specific namespaces to skipping the load-shedding](https://github.com/apache/pulsar/pull/23304) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 - [[improve][broker] Fix non-persistent system topic schema compatibility](https://github.com/apache/pulsar/pull/23286) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 - [[improve][broker] Make cluster metadata init command support metadata config path](https://github.com/apache/pulsar/pull/23269) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
-- [[improve][broker] Add retry for start service unit state channel (ExtensibleLoadManagerImpl only)](https://github.com/apache/pulsar/pull/23230) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
+- [[improve][broker] Add retry for start service unit state channel (ExtensibleLoadManagerImpl only)](https://github.com/apache/pulsar/pull/23230) on [apache/pulsar](https://github.com/apache/pulsar) (2 months ago)
 - [[fix][broker] Fix AvgShedder strategy check](https://github.com/apache/pulsar/pull/23156) on [apache/pulsar](https://github.com/apache/pulsar) (2 months ago)
 - [[improve][broker] Should notify bundle ownership listener onLoad event when ServiceUnitState start (ExtensibleLoadManagerImpl only)](https://github.com/apache/pulsar/pull/23152) on [apache/pulsar](https://github.com/apache/pulsar) (2 months ago)
 - [[improve][broker][branch-3.0] Support to specify auth-plugin, auth-parameters and tls-enable arguments when init cluster metadata (#23087)](https://github.com/apache/pulsar/pull/23126) on [apache/pulsar](https://github.com/apache/pulsar) (2 months ago)
@@ -42,10 +42,10 @@
 
 #### ⭐ Recent Stars
 
-- [diylxy/LiThermal](https://github.com/diylxy/LiThermal) - 基于海康4117的热成像相机 (2 days ago)
+- [diylxy/LiThermal](https://github.com/diylxy/LiThermal) - 基于海康4117的热成像相机 (3 days ago)
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (2 months ago)
 - [Madelena/hass-config-public](https://github.com/Madelena/hass-config-public) - My Dashboards for Home Assistant - Advanced data visualizations, responsive design, a neat maximalist Metro Live Tile layout, and an ultraminimal tablet layout! (2 months ago)
-- [AnswerDotAI/gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp) - A lightweight library for portable low-level GPU computation using WebGPU.  (2 months ago)
+- [AnswerDotAI/gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp) - A lightweight library for portable low-level GPU computation using WebGPU.  (3 months ago)
 - [AstraThreshold/oled-ui-astra](https://github.com/AstraThreshold/oled-ui-astra) - A smooth, easy-to-deploy, and easy-to-extend OLED UI framework, based on C&#43;&#43;. (3 months ago)
 - [mofeng-git/One-KVM](https://github.com/mofeng-git/One-KVM) - One-KVM 是基于廉价计算机硬件和 PiKVM 软件二次开发的 BIOS 级远程控制项目。 (3 months ago)
 - [sipeed/LicheeRV-Nano-Build](https://github.com/sipeed/LicheeRV-Nano-Build) - LicheeRV-Nano-Build (3 months ago)
