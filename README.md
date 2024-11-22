@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/oxia-java](https://github.com/streamnative/oxia-java) ([v0.4.9](https://github.com/streamnative/oxia-java/releases/tag/v0.4.9), 4 days ago) - A Java client library for Oxia
+- [streamnative/oxia-java](https://github.com/streamnative/oxia-java) ([v0.4.9](https://github.com/streamnative/oxia-java/releases/tag/v0.4.9), 5 days ago) - A Java client library for Oxia
 - [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.2.3](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.2.3), 3 weeks ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
 - [apache/pulsar](https://github.com/apache/pulsar) ([v4.0.0](https://github.com/apache/pulsar/releases/tag/v4.0.0), 1 month ago) - Apache Pulsar - distributed pub-sub messaging system
 
@@ -42,7 +42,7 @@
 #### ⭐ Recent Stars
 
 - [tisonkun/morax](https://github.com/tisonkun/morax) - Message queue and data streaming based on cloud native services. (3 weeks ago)
-- [diylxy/LiThermal](https://github.com/diylxy/LiThermal) - 基于海康4117的热成像相机 (4 weeks ago)
+- [diylxy/LiThermal](https://github.com/diylxy/LiThermal) - 基于海康4117的热成像相机 (1 month ago)
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (2 months ago)
 - [Madelena/hass-config-public](https://github.com/Madelena/hass-config-public) - My Dashboards for Home Assistant - Advanced data visualizations, responsive design, a neat maximalist Metro Live Tile layout, and an ultraminimal tablet layout! (2 months ago)
 - [AnswerDotAI/gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp) - A lightweight library for portable low-level GPU computation using WebGPU.  (3 months ago)
