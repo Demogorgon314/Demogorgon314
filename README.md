@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/pulsar](https://github.com/apache/pulsar) ([v4.0.1-candidate-1](https://github.com/apache/pulsar/releases/tag/v4.0.1-candidate-1), 1 day ago) - Apache Pulsar - distributed pub-sub messaging system
-- [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.2.4](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.2.4), 1 day ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
-- [streamnative/oxia-java](https://github.com/streamnative/oxia-java) ([v0.4.9](https://github.com/streamnative/oxia-java/releases/tag/v0.4.9), 6 days ago) - A Java client library for Oxia
+- [apache/pulsar](https://github.com/apache/pulsar) ([v4.0.1-candidate-1](https://github.com/apache/pulsar/releases/tag/v4.0.1-candidate-1), 2 days ago) - Apache Pulsar - distributed pub-sub messaging system
+- [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.2.4](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.2.4), 2 days ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
+- [streamnative/oxia-java](https://github.com/streamnative/oxia-java) ([v0.4.9](https://github.com/streamnative/oxia-java/releases/tag/v0.4.9), 1 week ago) - A Java client library for Oxia
 
 #### 🔨 My recent Pull Requests
 
