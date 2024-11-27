@@ -22,15 +22,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/pulsar](https://github.com/apache/pulsar) ([v3.3.3-candidate-1](https://github.com/apache/pulsar/releases/tag/v3.3.3-candidate-1), 1 day ago) - Apache Pulsar - distributed pub-sub messaging system
-- [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.2.4](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.2.4), 4 days ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
+- [apache/pulsar](https://github.com/apache/pulsar) ([v3.3.3-candidate-1](https://github.com/apache/pulsar/releases/tag/v3.3.3-candidate-1), 2 days ago) - Apache Pulsar - distributed pub-sub messaging system
+- [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.2.4](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.2.4), 5 days ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
 - [streamnative/oxia-java](https://github.com/streamnative/oxia-java) ([v0.4.9](https://github.com/streamnative/oxia-java/releases/tag/v0.4.9), 1 week ago) - A Java client library for Oxia
 
 #### 🔨 My recent Pull Requests
 
 - [[improve][broker] Support cleanup `replication cluster` and `allowed cluster` when cluster metadata teardown](https://github.com/apache/pulsar/pull/23561) on [apache/pulsar](https://github.com/apache/pulsar) (3 weeks ago)
 - [[improve][broker] PIP-380: Support-setting-up-specific-namespaces-to-skipping-the-load-shedding](https://github.com/apache/pulsar/pull/23549) on [apache/pulsar](https://github.com/apache/pulsar) (3 weeks ago)
-- [[improve][broker] Make cluster metadata teardown command support metadata config path](https://github.com/apache/pulsar/pull/23520) on [apache/pulsar](https://github.com/apache/pulsar) (4 weeks ago)
+- [[improve][broker] Make cluster metadata teardown command support metadata config path](https://github.com/apache/pulsar/pull/23520) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 - [[fix][test] Fix ReplicatorRateLimiterTest](https://github.com/apache/pulsar/pull/23369) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 - [[fix][ml] Managed ledger should recover after open ledger failed](https://github.com/apache/pulsar/pull/23368) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 - [[improve][pip] PIP-380: Support setting up specific namespaces to skipping the load-shedding](https://github.com/apache/pulsar/pull/23304) on [apache/pulsar](https://github.com/apache/pulsar) (2 months ago)
@@ -41,7 +41,7 @@
 
 #### ⭐ Recent Stars
 
-- [tisonkun/morax](https://github.com/tisonkun/morax) - Message queue and data streaming based on cloud native services. (3 weeks ago)
+- [tisonkun/morax](https://github.com/tisonkun/morax) - Message queue and data streaming based on cloud native services. (4 weeks ago)
 - [diylxy/LiThermal](https://github.com/diylxy/LiThermal) - 基于海康4117的热成像相机 (1 month ago)
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (3 months ago)
 - [Madelena/hass-config-public](https://github.com/Madelena/hass-config-public) - My Dashboards for Home Assistant - Advanced data visualizations, responsive design, a neat maximalist Metro Live Tile layout, and an ultraminimal tablet layout! (3 months ago)
@@ -58,10 +58,10 @@
 #### 👯 Check out some of my recent followers
 
 - [tr4m0ryp](https://github.com/tr4m0ryp)
-- [diviyeshpatel](https://github.com/diviyeshpatel)
 - [1Jack2](https://github.com/1Jack2)
 - [thetumbled](https://github.com/thetumbled)
 - [ohmyj](https://github.com/ohmyj)
+- [Asbaharoon](https://github.com/Asbaharoon)
 
 #### 💬 Feedback
 
