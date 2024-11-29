@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/pulsar](https://github.com/apache/pulsar) ([v3.3.3-candidate-1](https://github.com/apache/pulsar/releases/tag/v3.3.3-candidate-1), 3 days ago) - Apache Pulsar - distributed pub-sub messaging system
-- [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.2.4](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.2.4), 6 days ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
-- [streamnative/oxia-java](https://github.com/streamnative/oxia-java) ([v0.4.9](https://github.com/streamnative/oxia-java/releases/tag/v0.4.9), 1 week ago) - A Java client library for Oxia
+- [streamnative/oxia-java](https://github.com/streamnative/oxia-java) ([v0.4.10](https://github.com/streamnative/oxia-java/releases/tag/v0.4.10), 1 day ago) - A Java client library for Oxia
+- [apache/pulsar](https://github.com/apache/pulsar) ([v3.3.3-candidate-1](https://github.com/apache/pulsar/releases/tag/v3.3.3-candidate-1), 4 days ago) - Apache Pulsar - distributed pub-sub messaging system
+- [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.2.4](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.2.4), 1 week ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
 
 #### 🔨 My recent Pull Requests
 
@@ -41,7 +41,7 @@
 
 #### ⭐ Recent Stars
 
-- [tisonkun/morax](https://github.com/tisonkun/morax) - Message queue and data streaming based on cloud native services. (4 weeks ago)
+- [tisonkun/morax](https://github.com/tisonkun/morax) - Message queue and data streaming based on cloud native services. (1 month ago)
 - [diylxy/LiThermal](https://github.com/diylxy/LiThermal) - 基于海康4117的热成像相机 (1 month ago)
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (3 months ago)
 - [Madelena/hass-config-public](https://github.com/Madelena/hass-config-public) - My Dashboards for Home Assistant - Advanced data visualizations, responsive design, a neat maximalist Metro Live Tile layout, and an ultraminimal tablet layout! (3 months ago)
@@ -57,11 +57,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Kale1989](https://github.com/Kale1989)
 - [tr4m0ryp](https://github.com/tr4m0ryp)
 - [1Jack2](https://github.com/1Jack2)
 - [thetumbled](https://github.com/thetumbled)
 - [ohmyj](https://github.com/ohmyj)
-- [Asbaharoon](https://github.com/Asbaharoon)
 
 #### 💬 Feedback
 
