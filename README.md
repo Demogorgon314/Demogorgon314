@@ -22,13 +22,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/pulsar](https://github.com/apache/pulsar) ([v3.3.3](https://github.com/apache/pulsar/releases/tag/v3.3.3), 1 day ago) - Apache Pulsar - distributed pub-sub messaging system
-- [streamnative/oxia-java](https://github.com/streamnative/oxia-java) ([v0.4.10](https://github.com/streamnative/oxia-java/releases/tag/v0.4.10), 6 days ago) - A Java client library for Oxia
+- [apache/pulsar](https://github.com/apache/pulsar) ([v3.3.3](https://github.com/apache/pulsar/releases/tag/v3.3.3), 2 days ago) - Apache Pulsar - distributed pub-sub messaging system
+- [streamnative/oxia-java](https://github.com/streamnative/oxia-java) ([v0.4.10](https://github.com/streamnative/oxia-java/releases/tag/v0.4.10), 1 week ago) - A Java client library for Oxia
 - [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.2.4](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.2.4), 1 week ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
 
 #### 🔨 My recent Pull Requests
 
-- [[improve][broker] Support cleanup `replication cluster` and `allowed cluster` when cluster metadata teardown](https://github.com/apache/pulsar/pull/23561) on [apache/pulsar](https://github.com/apache/pulsar) (4 weeks ago)
+- [[improve][broker] Support cleanup `replication cluster` and `allowed cluster` when cluster metadata teardown](https://github.com/apache/pulsar/pull/23561) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 - [[improve][broker] PIP-380: Support-setting-up-specific-namespaces-to-skipping-the-load-shedding](https://github.com/apache/pulsar/pull/23549) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 - [[improve][broker] Make cluster metadata teardown command support metadata config path](https://github.com/apache/pulsar/pull/23520) on [apache/pulsar](https://github.com/apache/pulsar) (1 month ago)
 - [[fix][test] Fix ReplicatorRateLimiterTest](https://github.com/apache/pulsar/pull/23369) on [apache/pulsar](https://github.com/apache/pulsar) (2 months ago)
