@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/pulsar](https://github.com/apache/pulsar) ([v3.3.3](https://github.com/apache/pulsar/releases/tag/v3.3.3), 2 days ago) - Apache Pulsar - distributed pub-sub messaging system
+- [apache/pulsar](https://github.com/apache/pulsar) ([v3.3.3](https://github.com/apache/pulsar/releases/tag/v3.3.3), 3 days ago) - Apache Pulsar - distributed pub-sub messaging system
 - [streamnative/oxia-java](https://github.com/streamnative/oxia-java) ([v0.4.10](https://github.com/streamnative/oxia-java/releases/tag/v0.4.10), 1 week ago) - A Java client library for Oxia
-- [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.2.4](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.2.4), 1 week ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
+- [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.2.4](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.2.4), 2 weeks ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
 
 #### 🔨 My recent Pull Requests
 
@@ -46,7 +46,7 @@
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (3 months ago)
 - [Madelena/hass-config-public](https://github.com/Madelena/hass-config-public) - My Dashboards for Home Assistant - Advanced data visualizations, responsive design, a neat maximalist Metro Live Tile layout, and an ultraminimal tablet layout! (3 months ago)
 - [AnswerDotAI/gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp) - A lightweight library for portable low-level GPU computation using WebGPU.  (4 months ago)
-- [AstraThreshold/oled-ui-astra](https://github.com/AstraThreshold/oled-ui-astra) - A smooth, easy-to-deploy, and easy-to-extend OLED UI framework, based on C&#43;&#43;. (4 months ago)
+- [AstraThreshold/oled-ui-astra](https://github.com/AstraThreshold/oled-ui-astra) - A smooth, easy-to-deploy, and easy-to-extend OLED UI framework, based on C&#43;&#43;. (5 months ago)
 - [mofeng-git/One-KVM](https://github.com/mofeng-git/One-KVM) - One-KVM 是基于廉价计算机硬件和 PiKVM 软件二次开发的 BIOS 级远程控制项目。 (5 months ago)
 - [sipeed/LicheeRV-Nano-Build](https://github.com/sipeed/LicheeRV-Nano-Build) - LicheeRV-Nano-Build (5 months ago)
 - [xykt/IPQuality](https://github.com/xykt/IPQuality) - A script for IP quality detection (6 months ago)
