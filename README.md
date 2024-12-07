@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Demogorgon314/zkcopy](https://github.com/Demogorgon314/zkcopy) - This project provides a tool to copy nodes from one Zookeeper instance to another. It ensures that the destination path exists and copies the data and children nodes recursively. (1 day ago)
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (3 weeks ago)
 - [streamnative/oxia-java](https://github.com/streamnative/oxia-java) - A Java client library for Oxia (4 months ago)
 - [Demogorgon314/ClashRules](https://github.com/Demogorgon314/ClashRules) -  (8 months ago)
@@ -9,6 +10,7 @@
 
 #### 🌱 My latest projects
 
+- [Demogorgon314/zkcopy](https://github.com/Demogorgon314/zkcopy) - This project provides a tool to copy nodes from one Zookeeper instance to another. It ensures that the destination path exists and copies the data and children nodes recursively.
 - [Demogorgon314/ClashRules](https://github.com/Demogorgon314/ClashRules) - 
 - [Demogorgon314/SpringBootKStreamDemo](https://github.com/Demogorgon314/SpringBootKStreamDemo) - 
 - [Demogorgon314/OpenWrt-AutoBuild](https://github.com/Demogorgon314/OpenWrt-AutoBuild) - Custom version of OpenWrt
@@ -18,11 +20,11 @@
 - [Demogorgon314/tiny-os](https://github.com/Demogorgon314/tiny-os) - 一个小的操作系统
 - [Demogorgon314/jx3-minikube](https://github.com/Demogorgon314/jx3-minikube) - 
 - [Demogorgon314/npc-docker](https://github.com/Demogorgon314/npc-docker) - 
-- [Demogorgon314/springcloud2020](https://github.com/Demogorgon314/springcloud2020) - 最新SpringCloud Demo
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/pulsar](https://github.com/apache/pulsar) ([v3.3.3](https://github.com/apache/pulsar/releases/tag/v3.3.3), 3 days ago) - Apache Pulsar - distributed pub-sub messaging system
+- [Demogorgon314/zkcopy](https://github.com/Demogorgon314/zkcopy) ([v0.0.1](https://github.com/Demogorgon314/zkcopy/releases/tag/v0.0.1), 1 day ago) - This project provides a tool to copy nodes from one Zookeeper instance to another. It ensures that the destination path exists and copies the data and children nodes recursively.
+- [apache/pulsar](https://github.com/apache/pulsar) ([v3.3.3](https://github.com/apache/pulsar/releases/tag/v3.3.3), 4 days ago) - Apache Pulsar - distributed pub-sub messaging system
 - [streamnative/oxia-java](https://github.com/streamnative/oxia-java) ([v0.4.10](https://github.com/streamnative/oxia-java/releases/tag/v0.4.10), 1 week ago) - A Java client library for Oxia
 - [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.2.4](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.2.4), 2 weeks ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
 
