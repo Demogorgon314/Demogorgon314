@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Demogorgon314/Tools](https://github.com/Demogorgon314/Tools) -  (4 weeks ago)
+- [Demogorgon314/Tools](https://github.com/Demogorgon314/Tools) -  (1 month ago)
 - [Demogorgon314/zkcopy](https://github.com/Demogorgon314/zkcopy) - This project provides a tool to copy nodes from one Zookeeper instance to another. It ensures that the destination path exists and copies the data and children nodes recursively. (1 month ago)
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (2 months ago)
 - [streamnative/oxia-java](https://github.com/streamnative/oxia-java) - A Java client library for Oxia (6 months ago)
@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Demogorgon314/Tools](https://github.com/Demogorgon314/Tools) ([v0.0.1](https://github.com/Demogorgon314/Tools/releases/tag/v0.0.1), 4 weeks ago) - 
+- [Demogorgon314/Tools](https://github.com/Demogorgon314/Tools) ([v0.0.1](https://github.com/Demogorgon314/Tools/releases/tag/v0.0.1), 1 month ago) - 
 - [Demogorgon314/zkcopy](https://github.com/Demogorgon314/zkcopy) ([v0.0.1](https://github.com/Demogorgon314/zkcopy/releases/tag/v0.0.1), 1 month ago) - This project provides a tool to copy nodes from one Zookeeper instance to another. It ensures that the destination path exists and copies the data and children nodes recursively.
 - [apache/pulsar](https://github.com/apache/pulsar) ([v3.3.3](https://github.com/apache/pulsar/releases/tag/v3.3.3), 1 month ago) - Apache Pulsar - distributed pub-sub messaging system
 - [streamnative/oxia-java](https://github.com/streamnative/oxia-java) ([v0.4.10](https://github.com/streamnative/oxia-java/releases/tag/v0.4.10), 1 month ago) - A Java client library for Oxia
@@ -49,7 +49,7 @@
 - [diylxy/LiThermal](https://github.com/diylxy/LiThermal) - 基于海康4117的热成像相机 (2 months ago)
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (4 months ago)
 - [Madelena/hass-config-public](https://github.com/Madelena/hass-config-public) - My Dashboards for Home Assistant - Advanced data visualizations, responsive design, a neat maximalist Metro Live Tile layout, and an ultraminimal tablet layout! (4 months ago)
-- [0x676e67/rquest](https://github.com/0x676e67/rquest) - An fast asynchronous Rust HTTP/WebSocket Client with TLS/JA3/JA4/HTTP2 fingerprint impersonate (5 months ago)
+- [0x676e67/rquest-deprecated](https://github.com/0x676e67/rquest-deprecated) - An fast asynchronous Rust HTTP/WebSocket Client with TLS/JA3/JA4/HTTP2 fingerprint impersonate (5 months ago)
 - [AnswerDotAI/gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp) - A lightweight library for portable low-level GPU computation using WebGPU.  (5 months ago)
 - [AstraThreshold/oled-ui-astra](https://github.com/AstraThreshold/oled-ui-astra) - A smooth, easy-to-deploy, and easy-to-extend OLED UI framework, based on C&#43;&#43;. (6 months ago)
 - [mofeng-git/One-KVM](https://github.com/mofeng-git/One-KVM) - One-KVM 是基于廉价计算机硬件和 PiKVM 软件二次开发的 BIOS 级远程控制项目。 (6 months ago)
