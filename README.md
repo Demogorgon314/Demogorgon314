@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (2 days ago)
+- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (3 days ago)
 - [Demogorgon314/Tools](https://github.com/Demogorgon314/Tools) -  (2 months ago)
 - [Demogorgon314/zkcopy](https://github.com/Demogorgon314/zkcopy) - This project provides a tool to copy nodes from one Zookeeper instance to another. It ensures that the destination path exists and copies the data and children nodes recursively. (2 months ago)
 - [streamnative/oxia-java](https://github.com/streamnative/oxia-java) - A Java client library for Oxia (7 months ago)
@@ -61,11 +61,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [ipqwery](https://github.com/ipqwery)
 - [illegalnumbers](https://github.com/illegalnumbers)
 - [Kale1989](https://github.com/Kale1989)
 - [1Jack2](https://github.com/1Jack2)
 - [thetumbled](https://github.com/thetumbled)
-- [ohmyj](https://github.com/ohmyj)
 
 #### 💬 Feedback
 
