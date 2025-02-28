@@ -24,8 +24,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [apache/pulsar](https://github.com/apache/pulsar) ([v4.0.3](https://github.com/apache/pulsar/releases/tag/v4.0.3), 1 day ago) - Apache Pulsar - distributed pub-sub messaging system
 - [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.2.5](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.2.5), 3 weeks ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
-- [apache/pulsar](https://github.com/apache/pulsar) ([v4.0.2](https://github.com/apache/pulsar/releases/tag/v4.0.2), 1 month ago) - Apache Pulsar - distributed pub-sub messaging system
 - [streamnative/oxia-java](https://github.com/streamnative/oxia-java) ([v0.5.0](https://github.com/streamnative/oxia-java/releases/tag/v0.5.0), 1 month ago) - A Java client library for Oxia
 - [Demogorgon314/Tools](https://github.com/Demogorgon314/Tools) ([v0.0.1](https://github.com/Demogorgon314/Tools/releases/tag/v0.0.1), 2 months ago) - 
 - [Demogorgon314/zkcopy](https://github.com/Demogorgon314/zkcopy) ([v0.0.1](https://github.com/Demogorgon314/zkcopy/releases/tag/v0.0.1), 2 months ago) - This project provides a tool to copy nodes from one Zookeeper instance to another. It ensures that the destination path exists and copies the data and children nodes recursively.
@@ -45,8 +45,8 @@
 
 #### ⭐ Recent Stars
 
-- [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library (2 days ago)
-- [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) -  (3 days ago)
+- [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library (3 days ago)
+- [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient MLA Decoding Kernel for Hopper GPUs (4 days ago)
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -  (1 month ago)
 - [tisonkun/morax](https://github.com/tisonkun/morax) - Message queue and data streaming based on cloud native services. (4 months ago)
 - [diylxy/LiThermal](https://github.com/diylxy/LiThermal) - 基于海康4117的热成像相机 (4 months ago)
