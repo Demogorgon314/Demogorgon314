@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/pulsar](https://github.com/apache/pulsar) ([v4.0.3](https://github.com/apache/pulsar/releases/tag/v4.0.3), 4 days ago) - Apache Pulsar - distributed pub-sub messaging system
+- [apache/pulsar](https://github.com/apache/pulsar) ([v4.0.3](https://github.com/apache/pulsar/releases/tag/v4.0.3), 5 days ago) - Apache Pulsar - distributed pub-sub messaging system
 - [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.2.5](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.2.5), 3 weeks ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
 - [streamnative/oxia-java](https://github.com/streamnative/oxia-java) ([v0.5.0](https://github.com/streamnative/oxia-java/releases/tag/v0.5.0), 1 month ago) - A Java client library for Oxia
 - [Demogorgon314/Tools](https://github.com/Demogorgon314/Tools) ([v0.0.1](https://github.com/Demogorgon314/Tools/releases/tag/v0.0.1), 2 months ago) - 
@@ -33,7 +33,7 @@
 #### 🔨 My recent Pull Requests
 
 - [[improve][broker] Support cleanup `replication cluster` and `allowed cluster` when cluster metadata teardown](https://github.com/apache/pulsar/pull/23561) on [apache/pulsar](https://github.com/apache/pulsar) (3 months ago)
-- [[improve][broker] PIP-380: Support-setting-up-specific-namespaces-to-skipping-the-load-shedding](https://github.com/apache/pulsar/pull/23549) on [apache/pulsar](https://github.com/apache/pulsar) (3 months ago)
+- [[improve][broker] PIP-380: Support-setting-up-specific-namespaces-to-skipping-the-load-shedding](https://github.com/apache/pulsar/pull/23549) on [apache/pulsar](https://github.com/apache/pulsar) (4 months ago)
 - [[improve][broker] Make cluster metadata teardown command support metadata config path](https://github.com/apache/pulsar/pull/23520) on [apache/pulsar](https://github.com/apache/pulsar) (4 months ago)
 - [[fix][test] Fix ReplicatorRateLimiterTest](https://github.com/apache/pulsar/pull/23369) on [apache/pulsar](https://github.com/apache/pulsar) (5 months ago)
 - [[fix][ml] Managed ledger should recover after open ledger failed](https://github.com/apache/pulsar/pull/23368) on [apache/pulsar](https://github.com/apache/pulsar) (5 months ago)
@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library (6 days ago)
+- [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library (1 week ago)
 - [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient MLA decoding kernels (1 week ago)
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -  (1 month ago)
 - [tisonkun/morax](https://github.com/tisonkun/morax) - Message queue and data streaming based on cloud native services. (4 months ago)
