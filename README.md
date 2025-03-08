@@ -39,7 +39,7 @@
 - [[fix][ml] Managed ledger should recover after open ledger failed](https://github.com/apache/pulsar/pull/23368) on [apache/pulsar](https://github.com/apache/pulsar) (5 months ago)
 - [[improve][pip] PIP-380: Support setting up specific namespaces to skipping the load-shedding](https://github.com/apache/pulsar/pull/23304) on [apache/pulsar](https://github.com/apache/pulsar) (5 months ago)
 - [[improve][broker] Fix non-persistent system topic schema compatibility](https://github.com/apache/pulsar/pull/23286) on [apache/pulsar](https://github.com/apache/pulsar) (5 months ago)
-- [[improve][broker] Make cluster metadata init command support metadata config path](https://github.com/apache/pulsar/pull/23269) on [apache/pulsar](https://github.com/apache/pulsar) (5 months ago)
+- [[improve][broker] Make cluster metadata init command support metadata config path](https://github.com/apache/pulsar/pull/23269) on [apache/pulsar](https://github.com/apache/pulsar) (6 months ago)
 - [[improve][broker] Add retry for start service unit state channel (ExtensibleLoadManagerImpl only)](https://github.com/apache/pulsar/pull/23230) on [apache/pulsar](https://github.com/apache/pulsar) (6 months ago)
 - [[fix][broker] Fix AvgShedder strategy check](https://github.com/apache/pulsar/pull/23156) on [apache/pulsar](https://github.com/apache/pulsar) (6 months ago)
 
