@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library (1 week ago)
+- [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library (2 weeks ago)
 - [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient MLA decoding kernels (2 weeks ago)
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -  (1 month ago)
 - [tisonkun/morax](https://github.com/tisonkun/morax) - Message queue and data streaming based on cloud native services. (4 months ago)
