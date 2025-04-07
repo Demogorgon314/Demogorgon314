@@ -6,7 +6,6 @@
 - [Demogorgon314/Tools](https://github.com/Demogorgon314/Tools) -  (3 months ago)
 - [Demogorgon314/zkcopy](https://github.com/Demogorgon314/zkcopy) - This project provides a tool to copy nodes from one Zookeeper instance to another. It ensures that the destination path exists and copies the data and children nodes recursively. (4 months ago)
 - [streamnative/oxia-java](https://github.com/streamnative/oxia-java) - A Java client library for Oxia (8 months ago)
-- [Demogorgon314/ClashRules](https://github.com/Demogorgon314/ClashRules) -  (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -37,7 +36,7 @@
 - [[fix][ml] Managed ledger should recover after open ledger failed](https://github.com/apache/pulsar/pull/23368) on [apache/pulsar](https://github.com/apache/pulsar) (6 months ago)
 - [[improve][pip] PIP-380: Support setting up specific namespaces to skipping the load-shedding](https://github.com/apache/pulsar/pull/23304) on [apache/pulsar](https://github.com/apache/pulsar) (6 months ago)
 - [[improve][broker] Fix non-persistent system topic schema compatibility](https://github.com/apache/pulsar/pull/23286) on [apache/pulsar](https://github.com/apache/pulsar) (6 months ago)
-- [[improve][broker] Make cluster metadata init command support metadata config path](https://github.com/apache/pulsar/pull/23269) on [apache/pulsar](https://github.com/apache/pulsar) (6 months ago)
+- [[improve][broker] Make cluster metadata init command support metadata config path](https://github.com/apache/pulsar/pull/23269) on [apache/pulsar](https://github.com/apache/pulsar) (7 months ago)
 - [[improve][broker] Add retry for start service unit state channel (ExtensibleLoadManagerImpl only)](https://github.com/apache/pulsar/pull/23230) on [apache/pulsar](https://github.com/apache/pulsar) (7 months ago)
 - [[fix][broker] Fix AvgShedder strategy check](https://github.com/apache/pulsar/pull/23156) on [apache/pulsar](https://github.com/apache/pulsar) (7 months ago)
 
