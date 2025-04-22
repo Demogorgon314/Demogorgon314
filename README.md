@@ -48,8 +48,8 @@
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -  (2 months ago)
 - [tisonkun/morax](https://github.com/tisonkun/morax) - Message queue and data streaming based on cloud native services. (5 months ago)
 - [diylxy/LiThermal](https://github.com/diylxy/LiThermal) - 基于海康4117的热成像相机 (6 months ago)
-- [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (7 months ago)
-- [Madelena/hass-config-public](https://github.com/Madelena/hass-config-public) - My Dashboards for Home Assistant - Advanced data visualizations, responsive design, a neat maximalist Metro Live Tile layout, and an ultraminimal tablet layout! (7 months ago)
+- [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (8 months ago)
+- [Madelena/hass-config-public](https://github.com/Madelena/hass-config-public) - My Dashboards for Home Assistant - Advanced data visualizations, responsive design, a neat maximalist Metro Live Tile layout, and an ultraminimal tablet layout! (8 months ago)
 - [0x676e67/rquest-deprecated](https://github.com/0x676e67/rquest-deprecated) - An fast asynchronous Rust HTTP/WebSocket Client with TLS/JA3/JA4/HTTP2 fingerprint impersonate (8 months ago)
 - [AnswerDotAI/gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp) - A lightweight library for portable low-level GPU computation using WebGPU.  (8 months ago)
 
