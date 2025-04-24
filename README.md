@@ -37,7 +37,7 @@
 - [[improve][pip] PIP-380: Support setting up specific namespaces to skipping the load-shedding](https://github.com/apache/pulsar/pull/23304) on [apache/pulsar](https://github.com/apache/pulsar) (7 months ago)
 - [[improve][broker] Fix non-persistent system topic schema compatibility](https://github.com/apache/pulsar/pull/23286) on [apache/pulsar](https://github.com/apache/pulsar) (7 months ago)
 - [[improve][broker] Make cluster metadata init command support metadata config path](https://github.com/apache/pulsar/pull/23269) on [apache/pulsar](https://github.com/apache/pulsar) (7 months ago)
-- [[improve][broker] Add retry for start service unit state channel (ExtensibleLoadManagerImpl only)](https://github.com/apache/pulsar/pull/23230) on [apache/pulsar](https://github.com/apache/pulsar) (7 months ago)
+- [[improve][broker] Add retry for start service unit state channel (ExtensibleLoadManagerImpl only)](https://github.com/apache/pulsar/pull/23230) on [apache/pulsar](https://github.com/apache/pulsar) (8 months ago)
 - [[fix][broker] Fix AvgShedder strategy check](https://github.com/apache/pulsar/pull/23156) on [apache/pulsar](https://github.com/apache/pulsar) (8 months ago)
 
 #### ⭐ Recent Stars
@@ -51,7 +51,7 @@
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (8 months ago)
 - [Madelena/hass-config-public](https://github.com/Madelena/hass-config-public) - My Dashboards for Home Assistant - Advanced data visualizations, responsive design, a neat maximalist Metro Live Tile layout, and an ultraminimal tablet layout! (8 months ago)
 - [0x676e67/rquest-deprecated](https://github.com/0x676e67/rquest-deprecated) - An fast asynchronous Rust HTTP/WebSocket Client with TLS/JA3/JA4/HTTP2 fingerprint impersonate (8 months ago)
-- [AnswerDotAI/gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp) - A lightweight library for portable low-level GPU computation using WebGPU.  (8 months ago)
+- [AnswerDotAI/gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp) - A lightweight library for portable low-level GPU computation using WebGPU.  (9 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
