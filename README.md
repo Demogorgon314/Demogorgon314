@@ -31,7 +31,7 @@
 
 - [[improve][broker] Support cleanup `replication cluster` and `allowed cluster` when cluster metadata teardown](https://github.com/apache/pulsar/pull/23561) on [apache/pulsar](https://github.com/apache/pulsar) (5 months ago)
 - [[improve][broker] PIP-380: Support-setting-up-specific-namespaces-to-skipping-the-load-shedding](https://github.com/apache/pulsar/pull/23549) on [apache/pulsar](https://github.com/apache/pulsar) (5 months ago)
-- [[improve][broker] Make cluster metadata teardown command support metadata config path](https://github.com/apache/pulsar/pull/23520) on [apache/pulsar](https://github.com/apache/pulsar) (5 months ago)
+- [[improve][broker] Make cluster metadata teardown command support metadata config path](https://github.com/apache/pulsar/pull/23520) on [apache/pulsar](https://github.com/apache/pulsar) (6 months ago)
 - [[fix][test] Fix ReplicatorRateLimiterTest](https://github.com/apache/pulsar/pull/23369) on [apache/pulsar](https://github.com/apache/pulsar) (6 months ago)
 - [[fix][ml] Managed ledger should recover after open ledger failed](https://github.com/apache/pulsar/pull/23368) on [apache/pulsar](https://github.com/apache/pulsar) (6 months ago)
 - [[improve][pip] PIP-380: Support setting up specific namespaces to skipping the load-shedding](https://github.com/apache/pulsar/pull/23304) on [apache/pulsar](https://github.com/apache/pulsar) (7 months ago)
@@ -43,7 +43,7 @@
 #### ⭐ Recent Stars
 
 - [corkami/pics](https://github.com/corkami/pics) - File formats dissections and more... (3 weeks ago)
-- [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library (1 month ago)
+- [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library (2 months ago)
 - [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient MLA decoding kernels (2 months ago)
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -  (2 months ago)
 - [tisonkun/morax](https://github.com/tisonkun/morax) - Message queue and data streaming based on cloud native services. (5 months ago)
