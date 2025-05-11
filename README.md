@@ -34,7 +34,7 @@
 - [[improve][broker] Make cluster metadata teardown command support metadata config path](https://github.com/apache/pulsar/pull/23520) on [apache/pulsar](https://github.com/apache/pulsar) (6 months ago)
 - [[fix][test] Fix ReplicatorRateLimiterTest](https://github.com/apache/pulsar/pull/23369) on [apache/pulsar](https://github.com/apache/pulsar) (7 months ago)
 - [[fix][ml] Managed ledger should recover after open ledger failed](https://github.com/apache/pulsar/pull/23368) on [apache/pulsar](https://github.com/apache/pulsar) (7 months ago)
-- [[improve][pip] PIP-380: Support setting up specific namespaces to skipping the load-shedding](https://github.com/apache/pulsar/pull/23304) on [apache/pulsar](https://github.com/apache/pulsar) (7 months ago)
+- [[improve][pip] PIP-380: Support setting up specific namespaces to skipping the load-shedding](https://github.com/apache/pulsar/pull/23304) on [apache/pulsar](https://github.com/apache/pulsar) (8 months ago)
 - [[improve][broker] Fix non-persistent system topic schema compatibility](https://github.com/apache/pulsar/pull/23286) on [apache/pulsar](https://github.com/apache/pulsar) (8 months ago)
 - [[improve][broker] Make cluster metadata init command support metadata config path](https://github.com/apache/pulsar/pull/23269) on [apache/pulsar](https://github.com/apache/pulsar) (8 months ago)
 - [[improve][broker] Add retry for start service unit state channel (ExtensibleLoadManagerImpl only)](https://github.com/apache/pulsar/pull/23230) on [apache/pulsar](https://github.com/apache/pulsar) (8 months ago)
@@ -42,7 +42,7 @@
 
 #### ⭐ Recent Stars
 
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) -  (4 days ago)
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) -  (5 days ago)
 - [corkami/pics](https://github.com/corkami/pics) - File formats dissections and more... (1 month ago)
 - [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library (2 months ago)
 - [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient MLA decoding kernels (2 months ago)
