@@ -5,7 +5,7 @@
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (2 months ago)
 - [Demogorgon314/Tools](https://github.com/Demogorgon314/Tools) -  (4 months ago)
 - [Demogorgon314/zkcopy](https://github.com/Demogorgon314/zkcopy) - This project provides a tool to copy nodes from one Zookeeper instance to another. It ensures that the destination path exists and copies the data and children nodes recursively. (5 months ago)
-- [streamnative/oxia-java](https://github.com/streamnative/oxia-java) - A Java client library for Oxia (9 months ago)
+- [streamnative/oxia-java](https://github.com/streamnative/oxia-java) - A Java client library for Oxia (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -42,7 +42,7 @@
 
 #### ⭐ Recent Stars
 
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) -  (6 days ago)
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) -  (1 week ago)
 - [corkami/pics](https://github.com/corkami/pics) - File formats dissections and more... (1 month ago)
 - [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library (2 months ago)
 - [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient MLA decoding kernels (2 months ago)
@@ -51,7 +51,7 @@
 - [diylxy/LiThermal](https://github.com/diylxy/LiThermal) - 基于海康4117的热成像相机 (6 months ago)
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (8 months ago)
 - [Madelena/hass-config-public](https://github.com/Madelena/hass-config-public) - My Dashboards for Home Assistant - Advanced data visualizations, responsive design, a neat maximalist Metro Live Tile layout, and an ultraminimal tablet layout! (8 months ago)
-- [0x676e67/rquest-deprecated](https://github.com/0x676e67/rquest-deprecated) - An fast asynchronous Rust HTTP/WebSocket Client with TLS/JA3/JA4/HTTP2 fingerprint impersonate (8 months ago)
+- [0x676e67/rquest-deprecated](https://github.com/0x676e67/rquest-deprecated) - An fast asynchronous Rust HTTP/WebSocket Client with TLS/JA3/JA4/HTTP2 fingerprint impersonate (9 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
