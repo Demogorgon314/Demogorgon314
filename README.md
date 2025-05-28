@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/pulsar](https://github.com/apache/pulsar) ([v3.3.7](https://github.com/apache/pulsar/releases/tag/v3.3.7), 4 days ago) - Apache Pulsar - distributed pub-sub messaging system
-- [streamnative/oxia-java](https://github.com/streamnative/oxia-java) ([v0.5.0](https://github.com/streamnative/oxia-java/releases/tag/v0.5.0), 4 months ago) - A Java client library for Oxia
+- [streamnative/oxia-java](https://github.com/streamnative/oxia-java) ([v0.5.1](https://github.com/streamnative/oxia-java/releases/tag/v0.5.1), 1 day ago) - A Java client library for Oxia
+- [apache/pulsar](https://github.com/apache/pulsar) ([v3.3.7](https://github.com/apache/pulsar/releases/tag/v3.3.7), 5 days ago) - Apache Pulsar - distributed pub-sub messaging system
 - [Demogorgon314/Tools](https://github.com/Demogorgon314/Tools) ([v0.0.1](https://github.com/Demogorgon314/Tools/releases/tag/v0.0.1), 5 months ago) - 
 - [Demogorgon314/zkcopy](https://github.com/Demogorgon314/zkcopy) ([v0.0.1](https://github.com/Demogorgon314/zkcopy/releases/tag/v0.0.1), 5 months ago) - This project provides a tool to copy nodes from one Zookeeper instance to another. It ensures that the destination path exists and copies the data and children nodes recursively.
 
@@ -47,7 +47,7 @@
 - [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library (3 months ago)
 - [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient MLA decoding kernels (3 months ago)
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -  (4 months ago)
-- [tisonkun/morax](https://github.com/tisonkun/morax) - Message queue and data streaming based on cloud native services. (6 months ago)
+- [tisonkun/morax](https://github.com/tisonkun/morax) - Message queue and data streaming based on cloud native services. (7 months ago)
 - [diylxy/LiThermal](https://github.com/diylxy/LiThermal) - 基于海康4117的热成像相机 (7 months ago)
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (9 months ago)
 - [Madelena/hass-config-public](https://github.com/Madelena/hass-config-public) - My Dashboards for Home Assistant - Advanced data visualizations, responsive design, a neat maximalist Metro Live Tile layout, and an ultraminimal tablet layout! (9 months ago)
