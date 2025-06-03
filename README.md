@@ -22,14 +22,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/oxia-java](https://github.com/streamnative/oxia-java) ([v0.5.1](https://github.com/streamnative/oxia-java/releases/tag/v0.5.1), 6 days ago) - A Java client library for Oxia
+- [streamnative/oxia-java](https://github.com/streamnative/oxia-java) ([v0.5.1](https://github.com/streamnative/oxia-java/releases/tag/v0.5.1), 1 week ago) - A Java client library for Oxia
 - [apache/pulsar](https://github.com/apache/pulsar) ([v3.3.7](https://github.com/apache/pulsar/releases/tag/v3.3.7), 1 week ago) - Apache Pulsar - distributed pub-sub messaging system
 - [Demogorgon314/Tools](https://github.com/Demogorgon314/Tools) ([v0.0.1](https://github.com/Demogorgon314/Tools/releases/tag/v0.0.1), 5 months ago) - 
 - [Demogorgon314/zkcopy](https://github.com/Demogorgon314/zkcopy) ([v0.0.1](https://github.com/Demogorgon314/zkcopy/releases/tag/v0.0.1), 5 months ago) - This project provides a tool to copy nodes from one Zookeeper instance to another. It ensures that the destination path exists and copies the data and children nodes recursively.
 
 #### 🔨 My recent Pull Requests
 
-- [[improve][broker] Support cleanup `replication cluster` and `allowed cluster` when cluster metadata teardown](https://github.com/apache/pulsar/pull/23561) on [apache/pulsar](https://github.com/apache/pulsar) (6 months ago)
+- [[improve][broker] Support cleanup `replication cluster` and `allowed cluster` when cluster metadata teardown](https://github.com/apache/pulsar/pull/23561) on [apache/pulsar](https://github.com/apache/pulsar) (7 months ago)
 - [[improve][broker] PIP-380: Support-setting-up-specific-namespaces-to-skipping-the-load-shedding](https://github.com/apache/pulsar/pull/23549) on [apache/pulsar](https://github.com/apache/pulsar) (7 months ago)
 - [[improve][broker] Make cluster metadata teardown command support metadata config path](https://github.com/apache/pulsar/pull/23520) on [apache/pulsar](https://github.com/apache/pulsar) (7 months ago)
 - [[fix][test] Fix ReplicatorRateLimiterTest](https://github.com/apache/pulsar/pull/23369) on [apache/pulsar](https://github.com/apache/pulsar) (8 months ago)
@@ -42,7 +42,7 @@
 
 #### ⭐ Recent Stars
 
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude &amp; Gemini (3 weeks ago)
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude &amp; Gemini (4 weeks ago)
 - [corkami/pics](https://github.com/corkami/pics) - File formats dissections and more... (2 months ago)
 - [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library (3 months ago)
 - [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient MLA decoding kernels (3 months ago)
