@@ -23,7 +23,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [streamnative/oxia-java](https://github.com/streamnative/oxia-java) ([v0.5.1](https://github.com/streamnative/oxia-java/releases/tag/v0.5.1), 1 week ago) - A Java client library for Oxia
-- [apache/pulsar](https://github.com/apache/pulsar) ([v3.3.7](https://github.com/apache/pulsar/releases/tag/v3.3.7), 1 week ago) - Apache Pulsar - distributed pub-sub messaging system
+- [apache/pulsar](https://github.com/apache/pulsar) ([v3.3.7](https://github.com/apache/pulsar/releases/tag/v3.3.7), 2 weeks ago) - Apache Pulsar - distributed pub-sub messaging system
 - [Demogorgon314/Tools](https://github.com/Demogorgon314/Tools) ([v0.0.1](https://github.com/Demogorgon314/Tools/releases/tag/v0.0.1), 5 months ago) - 
 - [Demogorgon314/zkcopy](https://github.com/Demogorgon314/zkcopy) ([v0.0.1](https://github.com/Demogorgon314/zkcopy/releases/tag/v0.0.1), 6 months ago) - This project provides a tool to copy nodes from one Zookeeper instance to another. It ensures that the destination path exists and copies the data and children nodes recursively.
 
@@ -36,7 +36,7 @@
 - [[fix][ml] Managed ledger should recover after open ledger failed](https://github.com/apache/pulsar/pull/23368) on [apache/pulsar](https://github.com/apache/pulsar) (8 months ago)
 - [[improve][pip] PIP-380: Support setting up specific namespaces to skipping the load-shedding](https://github.com/apache/pulsar/pull/23304) on [apache/pulsar](https://github.com/apache/pulsar) (8 months ago)
 - [[improve][broker] Fix non-persistent system topic schema compatibility](https://github.com/apache/pulsar/pull/23286) on [apache/pulsar](https://github.com/apache/pulsar) (8 months ago)
-- [[improve][broker] Make cluster metadata init command support metadata config path](https://github.com/apache/pulsar/pull/23269) on [apache/pulsar](https://github.com/apache/pulsar) (8 months ago)
+- [[improve][broker] Make cluster metadata init command support metadata config path](https://github.com/apache/pulsar/pull/23269) on [apache/pulsar](https://github.com/apache/pulsar) (9 months ago)
 - [[improve][broker] Add retry for start service unit state channel (ExtensibleLoadManagerImpl only)](https://github.com/apache/pulsar/pull/23230) on [apache/pulsar](https://github.com/apache/pulsar) (9 months ago)
 - [[fix][broker] Fix AvgShedder strategy check](https://github.com/apache/pulsar/pull/23156) on [apache/pulsar](https://github.com/apache/pulsar) (9 months ago)
 
