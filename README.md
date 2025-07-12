@@ -5,7 +5,7 @@
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (1 week ago)
 - [Demogorgon314/Tools](https://github.com/Demogorgon314/Tools) -  (6 months ago)
 - [Demogorgon314/zkcopy](https://github.com/Demogorgon314/zkcopy) - This project provides a tool to copy nodes from one Zookeeper instance to another. It ensures that the destination path exists and copies the data and children nodes recursively. (7 months ago)
-- [oxia-db/oxia-client-java](https://github.com/oxia-db/oxia-client-java) - Oxia Java client SDK (11 months ago)
+- [oxia-db/oxia-client-java](https://github.com/oxia-db/oxia-client-java) - Oxia Java client SDK (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -50,7 +50,7 @@
 - [diylxy/LiThermal](https://github.com/diylxy/LiThermal) - 基于海康4117的热成像相机 (8 months ago)
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (10 months ago)
 - [Madelena/hass-config-public](https://github.com/Madelena/hass-config-public) - My Dashboards for Home Assistant - Advanced data visualizations, responsive design, a neat maximalist Metro Live Tile layout, and an ultraminimal tablet layout! (10 months ago)
-- [0x676e67/rquest-deprecated](https://github.com/0x676e67/rquest-deprecated) - An fast asynchronous Rust HTTP/WebSocket Client with TLS/JA3/JA4/HTTP2 fingerprint impersonate (10 months ago)
+- [0x676e67/rquest-deprecated](https://github.com/0x676e67/rquest-deprecated) - An fast asynchronous Rust HTTP/WebSocket Client with TLS/JA3/JA4/HTTP2 fingerprint impersonate (11 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
