@@ -40,16 +40,16 @@
 
 #### ⭐ Recent Stars
 
-- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework (1 day ago)
-- [24mlight/A_Share_investment_Agent](https://github.com/24mlight/A_Share_investment_Agent) -  (5 days ago)
-- [24mlight/a-share-mcp-is-just-i-need](https://github.com/24mlight/a-share-mcp-is-just-i-need) -  (5 days ago)
+- [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) - 《动手学大模型Dive into LLMs》系列编程实践教程 (1 day ago)
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework (2 days ago)
+- [24mlight/A_Share_investment_Agent](https://github.com/24mlight/A_Share_investment_Agent) -  (6 days ago)
+- [24mlight/a-share-mcp-is-just-i-need](https://github.com/24mlight/a-share-mcp-is-just-i-need) -  (6 days ago)
 - [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 (1 week ago)
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude &amp; Gemini (2 months ago)
 - [corkami/pics](https://github.com/corkami/pics) - File formats dissections and more... (4 months ago)
 - [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library (5 months ago)
 - [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient MLA decoding kernels (5 months ago)
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -  (6 months ago)
-- [tisonkun/morax](https://github.com/tisonkun/morax) - Message queue and data streaming based on cloud native services. (9 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
@@ -58,9 +58,9 @@
 
 - [helallao](https://github.com/helallao)
 - [standardgalactic](https://github.com/standardgalactic)
-- [seckinyasar](https://github.com/seckinyasar)
 - [berg223](https://github.com/berg223)
 - [illegalnumbers](https://github.com/illegalnumbers)
+- [Kale1989](https://github.com/Kale1989)
 
 #### 💬 Feedback
 
