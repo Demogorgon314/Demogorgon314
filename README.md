@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/pulsar](https://github.com/apache/pulsar) ([v4.0.6](https://github.com/apache/pulsar/releases/tag/v4.0.6), 5 days ago) - Apache Pulsar - distributed pub-sub messaging system
+- [apache/pulsar](https://github.com/apache/pulsar) ([v4.0.6](https://github.com/apache/pulsar/releases/tag/v4.0.6), 6 days ago) - Apache Pulsar - distributed pub-sub messaging system
 - [Demogorgon314/Tools](https://github.com/Demogorgon314/Tools) ([v0.0.1](https://github.com/Demogorgon314/Tools/releases/tag/v0.0.1), 7 months ago) - 
 - [Demogorgon314/zkcopy](https://github.com/Demogorgon314/zkcopy) ([v0.0.1](https://github.com/Demogorgon314/zkcopy/releases/tag/v0.0.1), 8 months ago) - This project provides a tool to copy nodes from one Zookeeper instance to another. It ensures that the destination path exists and copies the data and children nodes recursively.
 
@@ -40,7 +40,7 @@
 
 #### ⭐ Recent Stars
 
-- [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) - 《动手学大模型Dive into LLMs》系列编程实践教程 (6 days ago)
+- [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) - 《动手学大模型Dive into LLMs》系列编程实践教程 (1 week ago)
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework (1 week ago)
 - [24mlight/A_Share_investment_Agent](https://github.com/24mlight/A_Share_investment_Agent) -  (1 week ago)
 - [24mlight/a-share-mcp-is-just-i-need](https://github.com/24mlight/a-share-mcp-is-just-i-need) -  (1 week ago)
@@ -56,11 +56,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [helallao](https://github.com/helallao)
 - [standardgalactic](https://github.com/standardgalactic)
 - [berg223](https://github.com/berg223)
 - [illegalnumbers](https://github.com/illegalnumbers)
 - [Kale1989](https://github.com/Kale1989)
+- [1Jack2](https://github.com/1Jack2)
 
 #### 💬 Feedback
 
