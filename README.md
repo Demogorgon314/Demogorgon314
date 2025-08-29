@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [streamnative/private-cloud](https://github.com/streamnative/private-cloud) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs). (3 days ago)
+- [streamnative/private-cloud](https://github.com/streamnative/private-cloud) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs). (4 days ago)
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (1 month ago)
 - [Demogorgon314/Tools](https://github.com/Demogorgon314/Tools) -  (8 months ago)
 - [Demogorgon314/zkcopy](https://github.com/Demogorgon314/zkcopy) - This project provides a tool to copy nodes from one Zookeeper instance to another. It ensures that the destination path exists and copies the data and children nodes recursively. (8 months ago)
@@ -42,7 +42,7 @@
 
 #### ⭐ Recent Stars
 
-- [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) - 《动手学大模型Dive into LLMs》系列编程实践教程 (4 weeks ago)
+- [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) - 《动手学大模型Dive into LLMs》系列编程实践教程 (1 month ago)
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework (1 month ago)
 - [24mlight/A_Share_investment_Agent](https://github.com/24mlight/A_Share_investment_Agent) -  (1 month ago)
 - [24mlight/a-share-mcp-is-just-i-need](https://github.com/24mlight/a-share-mcp-is-just-i-need) -  (1 month ago)
