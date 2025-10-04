@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.12.10](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.12.10), 3 days ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
-- [apache/pulsar](https://github.com/apache/pulsar) ([v4.1.1](https://github.com/apache/pulsar/releases/tag/v4.1.1), 6 days ago) - Apache Pulsar - distributed pub-sub messaging system
+- [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.12.10](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.12.10), 4 days ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
+- [apache/pulsar](https://github.com/apache/pulsar) ([v4.1.1](https://github.com/apache/pulsar/releases/tag/v4.1.1), 1 week ago) - Apache Pulsar - distributed pub-sub messaging system
 - [Demogorgon314/Tools](https://github.com/Demogorgon314/Tools) ([v0.0.1](https://github.com/Demogorgon314/Tools/releases/tag/v0.0.1), 9 months ago) - 
 - [Demogorgon314/zkcopy](https://github.com/Demogorgon314/zkcopy) ([v0.0.1](https://github.com/Demogorgon314/zkcopy/releases/tag/v0.0.1), 10 months ago) - This project provides a tool to copy nodes from one Zookeeper instance to another. It ensures that the destination path exists and copies the data and children nodes recursively.
 
