@@ -23,12 +23,13 @@
 #### 🔭 Latest releases I've contributed to
 
 - [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.12.10](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.12.10), 1 week ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
-- [apache/pulsar](https://github.com/apache/pulsar) ([v4.1.1](https://github.com/apache/pulsar/releases/tag/v4.1.1), 1 week ago) - Apache Pulsar - distributed pub-sub messaging system
+- [apache/pulsar](https://github.com/apache/pulsar) ([v4.1.1](https://github.com/apache/pulsar/releases/tag/v4.1.1), 2 weeks ago) - Apache Pulsar - distributed pub-sub messaging system
 - [Demogorgon314/Tools](https://github.com/Demogorgon314/Tools) ([v0.0.1](https://github.com/Demogorgon314/Tools/releases/tag/v0.0.1), 9 months ago) - 
 - [Demogorgon314/zkcopy](https://github.com/Demogorgon314/zkcopy) ([v0.0.1](https://github.com/Demogorgon314/zkcopy/releases/tag/v0.0.1), 10 months ago) - This project provides a tool to copy nodes from one Zookeeper instance to another. It ensures that the destination path exists and copies the data and children nodes recursively.
 
 #### 🔨 My recent Pull Requests
 
+- [[fix][broker] Ensure LoadSheddingTask is scheduled after metadata service is available again](https://github.com/apache/pulsar/pull/24838) on [apache/pulsar](https://github.com/apache/pulsar) (1 day ago)
 - [Add debug timing logs for gamepad initialization performance analysis](https://github.com/Demogorgon314/moonlight-qt/pull/2) on [Demogorgon314/moonlight-qt](https://github.com/Demogorgon314/moonlight-qt) (1 month ago)
 - [Add debug timing logs for gamepad initialization performance analysis](https://github.com/Demogorgon314/moonlight-qt/pull/1) on [Demogorgon314/moonlight-qt](https://github.com/Demogorgon314/moonlight-qt) (1 month ago)
 - [Add KSN with SSL&amp;Token Authentication yaml](https://github.com/streamnative/private-cloud/pull/72) on [streamnative/private-cloud](https://github.com/streamnative/private-cloud) (2 months ago)
@@ -38,7 +39,6 @@
 - [[improve][broker] Make cluster metadata teardown command support metadata config path](https://github.com/apache/pulsar/pull/23520) on [apache/pulsar](https://github.com/apache/pulsar) (11 months ago)
 - [[fix][test] Fix ReplicatorRateLimiterTest](https://github.com/apache/pulsar/pull/23369) on [apache/pulsar](https://github.com/apache/pulsar) (1 year ago)
 - [[fix][ml] Managed ledger should recover after open ledger failed](https://github.com/apache/pulsar/pull/23368) on [apache/pulsar](https://github.com/apache/pulsar) (1 year ago)
-- [[improve][pip] PIP-380: Support setting up specific namespaces to skipping the load-shedding](https://github.com/apache/pulsar/pull/23304) on [apache/pulsar](https://github.com/apache/pulsar) (1 year ago)
 
 #### ⭐ Recent Stars
 
