@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system (1 week ago)
-- [streamnative/private-cloud](https://github.com/streamnative/private-cloud) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs). (1 month ago)
+- [streamnative/private-cloud](https://github.com/streamnative/private-cloud) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs). (2 months ago)
 - [Demogorgon314/Tools](https://github.com/Demogorgon314/Tools) -  (10 months ago)
 - [Demogorgon314/zkcopy](https://github.com/Demogorgon314/zkcopy) - This project provides a tool to copy nodes from one Zookeeper instance to another. It ensures that the destination path exists and copies the data and children nodes recursively. (10 months ago)
 
@@ -22,14 +22,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.12.10](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.12.10), 3 weeks ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
+- [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.12.11](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.12.11), 1 day ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
 - [apache/pulsar](https://github.com/apache/pulsar) ([v4.1.1](https://github.com/apache/pulsar/releases/tag/v4.1.1), 3 weeks ago) - Apache Pulsar - distributed pub-sub messaging system
 - [Demogorgon314/Tools](https://github.com/Demogorgon314/Tools) ([v0.0.1](https://github.com/Demogorgon314/Tools/releases/tag/v0.0.1), 10 months ago) - 
 - [Demogorgon314/zkcopy](https://github.com/Demogorgon314/zkcopy) ([v0.0.1](https://github.com/Demogorgon314/zkcopy/releases/tag/v0.0.1), 10 months ago) - This project provides a tool to copy nodes from one Zookeeper instance to another. It ensures that the destination path exists and copies the data and children nodes recursively.
 
 #### 🔨 My recent Pull Requests
 
-- [[fix][broker] Ensure LoadSheddingTask is scheduled after metadata service is available again](https://github.com/apache/pulsar/pull/24838) on [apache/pulsar](https://github.com/apache/pulsar) (1 week ago)
+- [[fix][broker] Ensure LoadSheddingTask is scheduled after metadata service is available again](https://github.com/apache/pulsar/pull/24838) on [apache/pulsar](https://github.com/apache/pulsar) (2 weeks ago)
 - [Add debug timing logs for gamepad initialization performance analysis](https://github.com/Demogorgon314/moonlight-qt/pull/2) on [Demogorgon314/moonlight-qt](https://github.com/Demogorgon314/moonlight-qt) (1 month ago)
 - [Add debug timing logs for gamepad initialization performance analysis](https://github.com/Demogorgon314/moonlight-qt/pull/1) on [Demogorgon314/moonlight-qt](https://github.com/Demogorgon314/moonlight-qt) (1 month ago)
 - [Add KSN with SSL&amp;Token Authentication yaml](https://github.com/streamnative/private-cloud/pull/72) on [streamnative/private-cloud](https://github.com/streamnative/private-cloud) (2 months ago)
