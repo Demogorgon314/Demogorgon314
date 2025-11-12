@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.12.16](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.12.16), 1 week ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
+- [streamnative/private-cloud](https://github.com/streamnative/private-cloud) ([sn-operator-v0.12.17](https://github.com/streamnative/private-cloud/releases/tag/sn-operator-v0.12.17), 1 day ago) - StreamNative Private Cloud is an enterprise product which brings specific controllers for Kubernetes by providing specific Custom Resource Definitions (CRDs).
 - [apache/pulsar](https://github.com/apache/pulsar) ([v4.1.1](https://github.com/apache/pulsar/releases/tag/v4.1.1), 1 month ago) - Apache Pulsar - distributed pub-sub messaging system
 - [Demogorgon314/Tools](https://github.com/Demogorgon314/Tools) ([v0.0.1](https://github.com/Demogorgon314/Tools/releases/tag/v0.0.1), 10 months ago) - 
 - [Demogorgon314/zkcopy](https://github.com/Demogorgon314/zkcopy) ([v0.0.1](https://github.com/Demogorgon314/zkcopy/releases/tag/v0.0.1), 11 months ago) - This project provides a tool to copy nodes from one Zookeeper instance to another. It ensures that the destination path exists and copies the data and children nodes recursively.
@@ -42,6 +42,7 @@
 
 #### ⭐ Recent Stars
 
+- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h! (1 day ago)
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant. (4 weeks ago)
 - [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) - 《动手学大模型Dive into LLMs》系列编程实践教程 (3 months ago)
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework (3 months ago)
@@ -51,7 +52,6 @@
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude &amp; Gemini (6 months ago)
 - [corkami/pics](https://github.com/corkami/pics) - File formats dissections and more... (7 months ago)
 - [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library (8 months ago)
-- [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient Multi-head Latent Attention Kernels (8 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
