@@ -42,16 +42,16 @@
 
 #### ⭐ Recent Stars
 
+- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages (1 day ago)
 - [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h! (2 weeks ago)
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant. (1 month ago)
 - [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) - 《动手学大模型Dive into LLMs》系列编程实践教程 (3 months ago)
-- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework (3 months ago)
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework (4 months ago)
 - [24mlight/A_Share_investment_Agent](https://github.com/24mlight/A_Share_investment_Agent) -  (4 months ago)
 - [24mlight/a-share-mcp-is-just-i-need](https://github.com/24mlight/a-share-mcp-is-just-i-need) -  (4 months ago)
 - [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 (4 months ago)
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude &amp; Gemini (6 months ago)
 - [corkami/pics](https://github.com/corkami/pics) - File formats dissections and more... (8 months ago)
-- [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library (9 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
