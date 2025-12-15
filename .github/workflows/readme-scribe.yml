@@ -1,10 +1,7 @@
 name: Update README
 
 on:
-  push:
-  schedule:
-    - cron: "0 */24 * * *"
-
+  workflow_dispatch:
 jobs:
   markscribe:
     runs-on: ubuntu-latest
